@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 1bec9633a27e0384d9b9ab169d77bc46
+timeCreated: 1483747382
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1e9e00cc40527599803d3450e14e983b
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -8.811872, y: 2.485976, z: -10.717358}
+      lookAt: {x: 4.043932, y: -2.315152, z: 2.305253}
+      up: {x: 0.1782885, y: 0.9672622, z: 0.18060185}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 227.61351
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fan
+    100002: fan 1
+    100004: Group 1
+    100006: Group 70
+    100008: Group 72
+    100010: Group 74
+    100012: Group 76
+    100014: Group 78
+    100016: Group 80
+    100018: Group 82
+    100020: Group 84
+    100022: //RootNode
+    100024: tyre flat
+    100026: tyre flat 1
+    100028: tyre flat 10
+    100030: tyre flat 11
+    100032: tyre flat 12
+    100034: tyre flat 13
+    100036: tyre flat 14
+    100038: tyre flat 15
+    100040: tyre flat 16
+    100042: tyre flat 17
+    100044: tyre flat 18
+    100046: tyre flat 19
+    100048: tyre flat 2
+    100050: tyre flat 20
+    100052: tyre flat 21
+    100054: tyre flat 22
+    100056: tyre flat 3
+    100058: tyre flat 4
+    100060: tyre flat 5
+    100062: tyre flat 6
+    100064: tyre flat 7
+    100066: tyre flat 8
+    100068: tyre flat 9
+    100070: tyre vertical
+    100072: tyre vertical 1
+    100074: tyre vertical 2
+    100076: tyre vertical 3
+    100078: tyre vertical 4
+    100080: tyre vertical 5
+    100082: tyre vertical 6
+    100084: tyre vertical 7
+    100086: tyre vertical 8
+    100088: tyre vertical 9
+    400000: fan
+    400002: fan 1
+    400004: Group 1
+    400006: Group 70
+    400008: Group 72
+    400010: Group 74
+    400012: Group 76
+    400014: Group 78
+    400016: Group 80
+    400018: Group 82
+    400020: Group 84
+    400022: //RootNode
+    400024: tyre flat
+    400026: tyre flat 1
+    400028: tyre flat 10
+    400030: tyre flat 11
+    400032: tyre flat 12
+    400034: tyre flat 13
+    400036: tyre flat 14
+    400038: tyre flat 15
+    400040: tyre flat 16
+    400042: tyre flat 17
+    400044: tyre flat 18
+    400046: tyre flat 19
+    400048: tyre flat 2
+    400050: tyre flat 20
+    400052: tyre flat 21
+    400054: tyre flat 22
+    400056: tyre flat 3
+    400058: tyre flat 4
+    400060: tyre flat 5
+    400062: tyre flat 6
+    400064: tyre flat 7
+    400066: tyre flat 8
+    400068: tyre flat 9
+    400070: tyre vertical
+    400072: tyre vertical 1
+    400074: tyre vertical 2
+    400076: tyre vertical 3
+    400078: tyre vertical 4
+    400080: tyre vertical 5
+    400082: tyre vertical 6
+    400084: tyre vertical 7
+    400086: tyre vertical 8
+    400088: tyre vertical 9
+    2300000: Group 70
+    2300002: Group 72
+    2300004: Group 74
+    2300006: Group 76
+    2300008: Group 78
+    2300010: Group 80
+    2300012: Group 82
+    2300014: Group 84
+    2300016: tyre flat
+    2300018: tyre flat 1
+    2300020: tyre flat 10
+    2300022: tyre flat 11
+    2300024: tyre flat 12
+    2300026: tyre flat 13
+    2300028: tyre flat 14
+    2300030: tyre flat 15
+    2300032: tyre flat 16
+    2300034: tyre flat 17
+    2300036: tyre flat 18
+    2300038: tyre flat 19
+    2300040: tyre flat 2
+    2300042: tyre flat 20
+    2300044: tyre flat 21
+    2300046: tyre flat 22
+    2300048: tyre flat 3
+    2300050: tyre flat 4
+    2300052: tyre flat 5
+    2300054: tyre flat 6
+    2300056: tyre flat 7
+    2300058: tyre flat 8
+    2300060: tyre flat 9
+    2300062: tyre vertical
+    2300064: tyre vertical 1
+    2300066: tyre vertical 2
+    2300068: tyre vertical 3
+    2300070: tyre vertical 4
+    2300072: tyre vertical 5
+    2300074: tyre vertical 6
+    2300076: tyre vertical 7
+    2300078: tyre vertical 8
+    2300080: tyre vertical 9
+    3300000: Group 70
+    3300002: Group 72
+    3300004: Group 74
+    3300006: Group 76
+    3300008: Group 78
+    3300010: Group 80
+    3300012: Group 82
+    3300014: Group 84
+    3300016: tyre flat
+    3300018: tyre flat 1
+    3300020: tyre flat 10
+    3300022: tyre flat 11
+    3300024: tyre flat 12
+    3300026: tyre flat 13
+    3300028: tyre flat 14
+    3300030: tyre flat 15
+    3300032: tyre flat 16
+    3300034: tyre flat 17
+    3300036: tyre flat 18
+    3300038: tyre flat 19
+    3300040: tyre flat 2
+    3300042: tyre flat 20
+    3300044: tyre flat 21
+    3300046: tyre flat 22
+    3300048: tyre flat 3
+    3300050: tyre flat 4
+    3300052: tyre flat 5
+    3300054: tyre flat 6
+    3300056: tyre flat 7
+    3300058: tyre flat 8
+    3300060: tyre flat 9
+    3300062: tyre vertical
+    3300064: tyre vertical 1
+    3300066: tyre vertical 2
+    3300068: tyre vertical 3
+    3300070: tyre vertical 4
+    3300072: tyre vertical 5
+    3300074: tyre vertical 6
+    3300076: tyre vertical 7
+    3300078: tyre vertical 8
+    3300080: tyre vertical 9
+    4300000: Mesh tyre flat
+    4300002: Mesh tyre vertical
+    4300004: Mesh Group 70
+    4300006: Mesh Group 82
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: bridges
+  assetBundleVariant: 

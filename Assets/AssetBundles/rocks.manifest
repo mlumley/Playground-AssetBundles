@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2139547488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43430379d229509af03ff3602ed21c33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 682d18ec161ce2d3806a6407573c7615
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/rock.skp
+- Assets/Models/log.skp
+Dependencies: []

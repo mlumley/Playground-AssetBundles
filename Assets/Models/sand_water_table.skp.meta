@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 33d50108ae2e9124c8d87fe9254ef265
+timeCreated: 1483747398
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000
+  assetHash:
+    serializedVersion: 2
+    Hash: d4a97bff14f21821c7ead3fbdf12d278
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 11.015698, y: 11.481805, z: 7.8397927}
+      lookAt: {x: -0.12137345, y: 0.4339813, z: 0.90330666}
+      up: {x: -0.54672796, y: 0.76494205, z: -0.34051776}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 189.81084
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10 thread
+    100002: 10 thread 1
+    100004: 10 thread 10
+    100006: 10 thread 100
+    100008: 10 thread 101
+    100010: 10 thread 102
+    100012: 10 thread 103
+    100014: 10 thread 104
+    100016: 10 thread 105
+    100018: 10 thread 106
+    100020: 10 thread 107
+    100022: 10 thread 108
+    100024: 10 thread 109
+    100026: 10 thread 11
+    100028: 10 thread 110
+    100030: 10 thread 111
+    100032: 10 thread 112
+    100034: 10 thread 113
+    100036: 10 thread 114
+    100038: 10 thread 115
+    100040: 10 thread 116
+    100042: 10 thread 117
+    100044: 10 thread 118
+    100046: 10 thread 119
+    100048: 10 thread 12
+    100050: 10 thread 120
+    100052: 10 thread 121
+    100054: 10 thread 122
+    100056: 10 thread 123
+    100058: 10 thread 124
+    100060: 10 thread 125
+    100062: 10 thread 126
+    100064: 10 thread 127
+    100066: 10 thread 128
+    100068: 10 thread 129
+    100070: 10 thread 13
+    100072: 10 thread 130
+    100074: 10 thread 131
+    100076: 10 thread 132
+    100078: 10 thread 133
+    100080: 10 thread 134
+    100082: 10 thread 135
+    100084: 10 thread 136
+    100086: 10 thread 137
+    100088: 10 thread 138
+    100090: 10 thread 139
+    100092: 10 thread 14
+    100094: 10 thread 140
+    100096: 10 thread 141
+    100098: 10 thread 142
+    100100: 10 thread 143
+    100102: 10 thread 144
+    100104: 10 thread 145
+    100106: 10 thread 146
+    100108: 10 thread 147
+    100110: 10 thread 148
+    100112: 10 thread 149
+    100114: 10 thread 15
+    100116: 10 thread 150
+    100118: 10 thread 151
+    100120: 10 thread 152
+    100122: 10 thread 153
+    100124: 10 thread 154
+    100126: 10 thread 155
+    100128: 10 thread 156
+    100130: 10 thread 157
+    100132: 10 thread 158
+    100134: 10 thread 159
+    100136: 10 thread 16
+    100138: 10 thread 160
+    100140: 10 thread 161
+    100142: 10 thread 162
+    100144: 10 thread 163
+    100146: 10 thread 164
+    100148: 10 thread 165
+    100150: 10 thread 166
+    100152: 10 thread 167
+    100154: 10 thread 168
+    100156: 10 thread 169
+    100158: 10 thread 17
+    100160: 10 thread 170
+    100162: 10 thread 171
+    100164: 10 thread 172
+    100166: 10 thread 173
+    100168: 10 thread 174
+    100170: 10 thread 175
+    100172: 10 thread 176
+    100174: 10 thread 177
+    100176: 10 thread 178
+    100178: 10 thread 179
+    100180: 10 thread 18
+    100182: 10 thread 180
+    100184: 10 thread 181
+    100186: 10 thread 182
+    100188: 10 thread 183
+    100190: 10 thread 184
+    100192: 10 thread 185
+    100194: 10 thread 186
+    100196: 10 thread 187
+    100198: 10 thread 188
+    100200: 10 thread 189
+    100202: 10 thread 19
+    100204: 10 thread 190
+    100206: 10 thread 191
+    100208: 10 thread 192
+    100210: 10 thread 193
+    100212: 10 thread 194
+    100214: 10 thread 195
+    100216: 10 thread 196
+    100218: 10 thread 197
+    100220: 10 thread 198
+    100222: 10 thread 199
+    100224: 10 thread 2
+    100226: 10 thread 20
+    100228: 10 thread 200
+    100230: 10 thread 21
+    100232: 10 thread 22
+    100234: 10 thread 23
+    100236: 10 thread 24
+    100238: 10 thread 25
+    100240: 10 thread 26
+    100242: 10 thread 27
+    100244: 10 thread 28
+    100246: 10 thread 29
+    100248: 10 thread 3
+    100250: 10 thread 30
+    100252: 10 thread 31
+    100254: 10 thread 32
+    100256: 10 thread 33
+    100258: 10 thread 34
+    100260: 10 thread 35
+    100262: 10 thread 36
+    100264: 10 thread 37
+    100266: 10 thread 38
+    100268: 10 thread 39
+    100270: 10 thread 4
+    100272: 10 thread 40
+    100274: 10 thread 41
+    100276: 10 thread 42
+    100278: 10 thread 43
+    100280: 10 thread 44
+    100282: 10 thread 45
+    100284: 10 thread 46
+    100286: 10 thread 47
+    100288: 10 thread 48
+    100290: 10 thread 49
+    100292: 10 thread 5
+    100294: 10 thread 50
+    100296: 10 thread 51
+    100298: 10 thread 52
+    100300: 10 thread 53
+    100302: 10 thread 54
+    100304: 10 thread 55
+    100306: 10 thread 56
+    100308: 10 thread 57
+    100310: 10 thread 58
+    100312: 10 thread 59
+    100314: 10 thread 6
+    100316: 10 thread 60
+    100318: 10 thread 61
+    100320: 10 thread 62
+    100322: 10 thread 63
+    100324: 10 thread 64
+    100326: 10 thread 65
+    100328: 10 thread 66
+    100330: 10 thread 67
+    100332: 10 thread 68
+    100334: 10 thread 69
+    100336: 10 thread 7
+    100338: 10 thread 70
+    100340: 10 thread 71
+    100342: 10 thread 72
+    100344: 10 thread 73
+    100346: 10 thread 74
+    100348: 10 thread 75
+    100350: 10 thread 76
+    100352: 10 thread 77
+    100354: 10 thread 78
+    100356: 10 thread 79
+    100358: 10 thread 8
+    100360: 10 thread 80
+    100362: 10 thread 81
+    100364: 10 thread 82
+    100366: 10 thread 83
+    100368: 10 thread 84
+    100370: 10 thread 85
+    100372: 10 thread 86
+    100374: 10 thread 87
+    100376: 10 thread 88
+    100378: 10 thread 89
+    100380: 10 thread 9
+    100382: 10 thread 90
+    100384: 10 thread 91
+    100386: 10 thread 92
+    100388: 10 thread 93
+    100390: 10 thread 94
+    100392: 10 thread 95
+    100394: 10 thread 96
+    100396: 10 thread 97
+    100398: 10 thread 98
+    100400: 10 thread 99
+    100402: '2ft leg '
+    100404: 2ft leg  1
+    100406: 2ft leg  2
+    100408: Group 124
+    100410: Group 145
+    100412: Group 168
+    100414: Group 172
+    100416: Group 173
+    100418: Group 174
+    100420: Group 2
+    100422: Group 209
+    100424: Group 230
+    100426: Group 253
+    100428: Group 257
+    100430: Group 258
+    100432: Group 260
+    100434: Group 261
+    100436: Group 262
+    100438: Group 283
+    100440: Group 3
+    100442: Group 304
+    100444: Group 333
+    100446: Group 335
+    100448: Group 336
+    100450: Group 337
+    100452: Group 358
+    100454: Group 379
+    100456: Group 39
+    100458: Group 4
+    100460: Group 408
+    100462: Group 409
+    100464: Group 430
+    100466: Group 451
+    100468: Group 60
+    100470: Group 83
+    100472: Group 87
+    100474: Group 88
+    100476: Group 89
+    100478: Hex bolt M5-25#10
+    100480: Hex bolt M5-25#10 1
+    100482: Hex bolt M5-25#10 2
+    100484: Hex bolt M5-25#3
+    100486: Hex bolt M5-25#3 1
+    100488: Hex bolt M5-25#3 2
+    100490: Hex nut M5#2
+    100492: Hex nut M5#2 1
+    100494: Hex nut M5#2 2
+    100496: sand water table 2ft
+    100498: //RootNode
+    100500: WASHER#2
+    100502: WASHER#2 1
+    100504: WASHER#2 2
+    100506: WASHER#2 3
+    100508: WASHER#2 4
+    100510: WASHER#2 5
+    100512: WASHER#2 6
+    100514: WASHER#2 7
+    100516: WASHER#2 8
+    400000: 10 thread
+    400002: 10 thread 1
+    400004: 10 thread 10
+    400006: 10 thread 100
+    400008: 10 thread 101
+    400010: 10 thread 102
+    400012: 10 thread 103
+    400014: 10 thread 104
+    400016: 10 thread 105
+    400018: 10 thread 106
+    400020: 10 thread 107
+    400022: 10 thread 108
+    400024: 10 thread 109
+    400026: 10 thread 11
+    400028: 10 thread 110
+    400030: 10 thread 111
+    400032: 10 thread 112
+    400034: 10 thread 113
+    400036: 10 thread 114
+    400038: 10 thread 115
+    400040: 10 thread 116
+    400042: 10 thread 117
+    400044: 10 thread 118
+    400046: 10 thread 119
+    400048: 10 thread 12
+    400050: 10 thread 120
+    400052: 10 thread 121
+    400054: 10 thread 122
+    400056: 10 thread 123
+    400058: 10 thread 124
+    400060: 10 thread 125
+    400062: 10 thread 126
+    400064: 10 thread 127
+    400066: 10 thread 128
+    400068: 10 thread 129
+    400070: 10 thread 13
+    400072: 10 thread 130
+    400074: 10 thread 131
+    400076: 10 thread 132
+    400078: 10 thread 133
+    400080: 10 thread 134
+    400082: 10 thread 135
+    400084: 10 thread 136
+    400086: 10 thread 137
+    400088: 10 thread 138
+    400090: 10 thread 139
+    400092: 10 thread 14
+    400094: 10 thread 140
+    400096: 10 thread 141
+    400098: 10 thread 142
+    400100: 10 thread 143
+    400102: 10 thread 144
+    400104: 10 thread 145
+    400106: 10 thread 146
+    400108: 10 thread 147
+    400110: 10 thread 148
+    400112: 10 thread 149
+    400114: 10 thread 15
+    400116: 10 thread 150
+    400118: 10 thread 151
+    400120: 10 thread 152
+    400122: 10 thread 153
+    400124: 10 thread 154
+    400126: 10 thread 155
+    400128: 10 thread 156
+    400130: 10 thread 157
+    400132: 10 thread 158
+    400134: 10 thread 159
+    400136: 10 thread 16
+    400138: 10 thread 160
+    400140: 10 thread 161
+    400142: 10 thread 162
+    400144: 10 thread 163
+    400146: 10 thread 164
+    400148: 10 thread 165
+    400150: 10 thread 166
+    400152: 10 thread 167
+    400154: 10 thread 168
+    400156: 10 thread 169
+    400158: 10 thread 17
+    400160: 10 thread 170
+    400162: 10 thread 171
+    400164: 10 thread 172
+    400166: 10 thread 173
+    400168: 10 thread 174
+    400170: 10 thread 175
+    400172: 10 thread 176
+    400174: 10 thread 177
+    400176: 10 thread 178
+    400178: 10 thread 179
+    400180: 10 thread 18
+    400182: 10 thread 180
+    400184: 10 thread 181
+    400186: 10 thread 182
+    400188: 10 thread 183
+    400190: 10 thread 184
+    400192: 10 thread 185
+    400194: 10 thread 186
+    400196: 10 thread 187
+    400198: 10 thread 188
+    400200: 10 thread 189
+    400202: 10 thread 19
+    400204: 10 thread 190
+    400206: 10 thread 191
+    400208: 10 thread 192
+    400210: 10 thread 193
+    400212: 10 thread 194
+    400214: 10 thread 195
+    400216: 10 thread 196
+    400218: 10 thread 197
+    400220: 10 thread 198
+    400222: 10 thread 199
+    400224: 10 thread 2
+    400226: 10 thread 20
+    400228: 10 thread 200
+    400230: 10 thread 21
+    400232: 10 thread 22
+    400234: 10 thread 23
+    400236: 10 thread 24
+    400238: 10 thread 25
+    400240: 10 thread 26
+    400242: 10 thread 27
+    400244: 10 thread 28
+    400246: 10 thread 29
+    400248: 10 thread 3
+    400250: 10 thread 30
+    400252: 10 thread 31
+    400254: 10 thread 32
+    400256: 10 thread 33
+    400258: 10 thread 34
+    400260: 10 thread 35
+    400262: 10 thread 36
+    400264: 10 thread 37
+    400266: 10 thread 38
+    400268: 10 thread 39
+    400270: 10 thread 4
+    400272: 10 thread 40
+    400274: 10 thread 41
+    400276: 10 thread 42
+    400278: 10 thread 43
+    400280: 10 thread 44
+    400282: 10 thread 45
+    400284: 10 thread 46
+    400286: 10 thread 47
+    400288: 10 thread 48
+    400290: 10 thread 49
+    400292: 10 thread 5
+    400294: 10 thread 50
+    400296: 10 thread 51
+    400298: 10 thread 52
+    400300: 10 thread 53
+    400302: 10 thread 54
+    400304: 10 thread 55
+    400306: 10 thread 56
+    400308: 10 thread 57
+    400310: 10 thread 58
+    400312: 10 thread 59
+    400314: 10 thread 6
+    400316: 10 thread 60
+    400318: 10 thread 61
+    400320: 10 thread 62
+    400322: 10 thread 63
+    400324: 10 thread 64
+    400326: 10 thread 65
+    400328: 10 thread 66
+    400330: 10 thread 67
+    400332: 10 thread 68
+    400334: 10 thread 69
+    400336: 10 thread 7
+    400338: 10 thread 70
+    400340: 10 thread 71
+    400342: 10 thread 72
+    400344: 10 thread 73
+    400346: 10 thread 74
+    400348: 10 thread 75
+    400350: 10 thread 76
+    400352: 10 thread 77
+    400354: 10 thread 78
+    400356: 10 thread 79
+    400358: 10 thread 8
+    400360: 10 thread 80
+    400362: 10 thread 81
+    400364: 10 thread 82
+    400366: 10 thread 83
+    400368: 10 thread 84
+    400370: 10 thread 85
+    400372: 10 thread 86
+    400374: 10 thread 87
+    400376: 10 thread 88
+    400378: 10 thread 89
+    400380: 10 thread 9
+    400382: 10 thread 90
+    400384: 10 thread 91
+    400386: 10 thread 92
+    400388: 10 thread 93
+    400390: 10 thread 94
+    400392: 10 thread 95
+    400394: 10 thread 96
+    400396: 10 thread 97
+    400398: 10 thread 98
+    400400: 10 thread 99
+    400402: '2ft leg '
+    400404: 2ft leg  1
+    400406: 2ft leg  2
+    400408: Group 124
+    400410: Group 145
+    400412: Group 168
+    400414: Group 172
+    400416: Group 173
+    400418: Group 174
+    400420: Group 2
+    400422: Group 209
+    400424: Group 230
+    400426: Group 253
+    400428: Group 257
+    400430: Group 258
+    400432: Group 260
+    400434: Group 261
+    400436: Group 262
+    400438: Group 283
+    400440: Group 3
+    400442: Group 304
+    400444: Group 333
+    400446: Group 335
+    400448: Group 336
+    400450: Group 337
+    400452: Group 358
+    400454: Group 379
+    400456: Group 39
+    400458: Group 4
+    400460: Group 408
+    400462: Group 409
+    400464: Group 430
+    400466: Group 451
+    400468: Group 60
+    400470: Group 83
+    400472: Group 87
+    400474: Group 88
+    400476: Group 89
+    400478: Hex bolt M5-25#10
+    400480: Hex bolt M5-25#10 1
+    400482: Hex bolt M5-25#10 2
+    400484: Hex bolt M5-25#3
+    400486: Hex bolt M5-25#3 1
+    400488: Hex bolt M5-25#3 2
+    400490: Hex nut M5#2
+    400492: Hex nut M5#2 1
+    400494: Hex nut M5#2 2
+    400496: sand water table 2ft
+    400498: //RootNode
+    400500: WASHER#2
+    400502: WASHER#2 1
+    400504: WASHER#2 2
+    400506: WASHER#2 3
+    400508: WASHER#2 4
+    400510: WASHER#2 5
+    400512: WASHER#2 6
+    400514: WASHER#2 7
+    400516: WASHER#2 8
+    2300000: 10 thread
+    2300002: 10 thread 1
+    2300004: 10 thread 10
+    2300006: 10 thread 100
+    2300008: 10 thread 101
+    2300010: 10 thread 102
+    2300012: 10 thread 103
+    2300014: 10 thread 104
+    2300016: 10 thread 105
+    2300018: 10 thread 106
+    2300020: 10 thread 107
+    2300022: 10 thread 108
+    2300024: 10 thread 109
+    2300026: 10 thread 11
+    2300028: 10 thread 110
+    2300030: 10 thread 111
+    2300032: 10 thread 112
+    2300034: 10 thread 113
+    2300036: 10 thread 114
+    2300038: 10 thread 115
+    2300040: 10 thread 116
+    2300042: 10 thread 117
+    2300044: 10 thread 118
+    2300046: 10 thread 119
+    2300048: 10 thread 12
+    2300050: 10 thread 120
+    2300052: 10 thread 121
+    2300054: 10 thread 122
+    2300056: 10 thread 123
+    2300058: 10 thread 124
+    2300060: 10 thread 125
+    2300062: 10 thread 126
+    2300064: 10 thread 127
+    2300066: 10 thread 128
+    2300068: 10 thread 129
+    2300070: 10 thread 13
+    2300072: 10 thread 130
+    2300074: 10 thread 131
+    2300076: 10 thread 132
+    2300078: 10 thread 133
+    2300080: 10 thread 134
+    2300082: 10 thread 135
+    2300084: 10 thread 136
+    2300086: 10 thread 137
+    2300088: 10 thread 138
+    2300090: 10 thread 139
+    2300092: 10 thread 14
+    2300094: 10 thread 140
+    2300096: 10 thread 141
+    2300098: 10 thread 142
+    2300100: 10 thread 143
+    2300102: 10 thread 144
+    2300104: 10 thread 145
+    2300106: 10 thread 146
+    2300108: 10 thread 147
+    2300110: 10 thread 148
+    2300112: 10 thread 149
+    2300114: 10 thread 15
+    2300116: 10 thread 150
+    2300118: 10 thread 151
+    2300120: 10 thread 152
+    2300122: 10 thread 153
+    2300124: 10 thread 154
+    2300126: 10 thread 155
+    2300128: 10 thread 156
+    2300130: 10 thread 157
+    2300132: 10 thread 158
+    2300134: 10 thread 159
+    2300136: 10 thread 16
+    2300138: 10 thread 160
+    2300140: 10 thread 161
+    2300142: 10 thread 162
+    2300144: 10 thread 163
+    2300146: 10 thread 164
+    2300148: 10 thread 165
+    2300150: 10 thread 166
+    2300152: 10 thread 167
+    2300154: 10 thread 168
+    2300156: 10 thread 169
+    2300158: 10 thread 17
+    2300160: 10 thread 170
+    2300162: 10 thread 171
+    2300164: 10 thread 172
+    2300166: 10 thread 173
+    2300168: 10 thread 174
+    2300170: 10 thread 175
+    2300172: 10 thread 176
+    2300174: 10 thread 177
+    2300176: 10 thread 178
+    2300178: 10 thread 179
+    2300180: 10 thread 18
+    2300182: 10 thread 180
+    2300184: 10 thread 181
+    2300186: 10 thread 182
+    2300188: 10 thread 183
+    2300190: 10 thread 184
+    2300192: 10 thread 185
+    2300194: 10 thread 186
+    2300196: 10 thread 187
+    2300198: 10 thread 188
+    2300200: 10 thread 189
+    2300202: 10 thread 19
+    2300204: 10 thread 190
+    2300206: 10 thread 191
+    2300208: 10 thread 192
+    2300210: 10 thread 193
+    2300212: 10 thread 194
+    2300214: 10 thread 195
+    2300216: 10 thread 196
+    2300218: 10 thread 197
+    2300220: 10 thread 198
+    2300222: 10 thread 199
+    2300224: 10 thread 2
+    2300226: 10 thread 20
+    2300228: 10 thread 200
+    2300230: 10 thread 21
+    2300232: 10 thread 22
+    2300234: 10 thread 23
+    2300236: 10 thread 24
+    2300238: 10 thread 25
+    2300240: 10 thread 26
+    2300242: 10 thread 27
+    2300244: 10 thread 28
+    2300246: 10 thread 29
+    2300248: 10 thread 3
+    2300250: 10 thread 30
+    2300252: 10 thread 31
+    2300254: 10 thread 32
+    2300256: 10 thread 33
+    2300258: 10 thread 34
+    2300260: 10 thread 35
+    2300262: 10 thread 36
+    2300264: 10 thread 37
+    2300266: 10 thread 38
+    2300268: 10 thread 39
+    2300270: 10 thread 4
+    2300272: 10 thread 40
+    2300274: 10 thread 41
+    2300276: 10 thread 42
+    2300278: 10 thread 43
+    2300280: 10 thread 44
+    2300282: 10 thread 45
+    2300284: 10 thread 46
+    2300286: 10 thread 47
+    2300288: 10 thread 48
+    2300290: 10 thread 49
+    2300292: 10 thread 5
+    2300294: 10 thread 50
+    2300296: 10 thread 51
+    2300298: 10 thread 52
+    2300300: 10 thread 53
+    2300302: 10 thread 54
+    2300304: 10 thread 55
+    2300306: 10 thread 56
+    2300308: 10 thread 57
+    2300310: 10 thread 58
+    2300312: 10 thread 59
+    2300314: 10 thread 6
+    2300316: 10 thread 60
+    2300318: 10 thread 61
+    2300320: 10 thread 62
+    2300322: 10 thread 63
+    2300324: 10 thread 64
+    2300326: 10 thread 65
+    2300328: 10 thread 66
+    2300330: 10 thread 67
+    2300332: 10 thread 68
+    2300334: 10 thread 69
+    2300336: 10 thread 7
+    2300338: 10 thread 70
+    2300340: 10 thread 71
+    2300342: 10 thread 72
+    2300344: 10 thread 73
+    2300346: 10 thread 74
+    2300348: 10 thread 75
+    2300350: 10 thread 76
+    2300352: 10 thread 77
+    2300354: 10 thread 78
+    2300356: 10 thread 79
+    2300358: 10 thread 8
+    2300360: 10 thread 80
+    2300362: 10 thread 81
+    2300364: 10 thread 82
+    2300366: 10 thread 83
+    2300368: 10 thread 84
+    2300370: 10 thread 85
+    2300372: 10 thread 86
+    2300374: 10 thread 87
+    2300376: 10 thread 88
+    2300378: 10 thread 89
+    2300380: 10 thread 9
+    2300382: 10 thread 90
+    2300384: 10 thread 91
+    2300386: 10 thread 92
+    2300388: 10 thread 93
+    2300390: 10 thread 94
+    2300392: 10 thread 95
+    2300394: 10 thread 96
+    2300396: 10 thread 97
+    2300398: 10 thread 98
+    2300400: 10 thread 99
+    2300402: '2ft leg '
+    2300404: 2ft leg  1
+    2300406: 2ft leg  2
+    2300408: Group 168
+    2300410: Group 253
+    2300412: Group 258
+    2300414: Group 333
+    2300416: Group 83
+    2300418: Hex bolt M5-25#10
+    2300420: Hex bolt M5-25#10 1
+    2300422: Hex bolt M5-25#10 2
+    2300424: Hex bolt M5-25#3
+    2300426: Hex bolt M5-25#3 1
+    2300428: Hex bolt M5-25#3 2
+    2300430: Hex nut M5#2
+    2300432: Hex nut M5#2 1
+    2300434: Hex nut M5#2 2
+    2300436: WASHER#2
+    2300438: WASHER#2 1
+    2300440: WASHER#2 2
+    2300442: WASHER#2 3
+    2300444: WASHER#2 4
+    2300446: WASHER#2 5
+    2300448: WASHER#2 6
+    2300450: WASHER#2 7
+    2300452: WASHER#2 8
+    3300000: 10 thread
+    3300002: 10 thread 1
+    3300004: 10 thread 10
+    3300006: 10 thread 100
+    3300008: 10 thread 101
+    3300010: 10 thread 102
+    3300012: 10 thread 103
+    3300014: 10 thread 104
+    3300016: 10 thread 105
+    3300018: 10 thread 106
+    3300020: 10 thread 107
+    3300022: 10 thread 108
+    3300024: 10 thread 109
+    3300026: 10 thread 11
+    3300028: 10 thread 110
+    3300030: 10 thread 111
+    3300032: 10 thread 112
+    3300034: 10 thread 113
+    3300036: 10 thread 114
+    3300038: 10 thread 115
+    3300040: 10 thread 116
+    3300042: 10 thread 117
+    3300044: 10 thread 118
+    3300046: 10 thread 119
+    3300048: 10 thread 12
+    3300050: 10 thread 120
+    3300052: 10 thread 121
+    3300054: 10 thread 122
+    3300056: 10 thread 123
+    3300058: 10 thread 124
+    3300060: 10 thread 125
+    3300062: 10 thread 126
+    3300064: 10 thread 127
+    3300066: 10 thread 128
+    3300068: 10 thread 129
+    3300070: 10 thread 13
+    3300072: 10 thread 130
+    3300074: 10 thread 131
+    3300076: 10 thread 132
+    3300078: 10 thread 133
+    3300080: 10 thread 134
+    3300082: 10 thread 135
+    3300084: 10 thread 136
+    3300086: 10 thread 137
+    3300088: 10 thread 138
+    3300090: 10 thread 139
+    3300092: 10 thread 14
+    3300094: 10 thread 140
+    3300096: 10 thread 141
+    3300098: 10 thread 142
+    3300100: 10 thread 143
+    3300102: 10 thread 144
+    3300104: 10 thread 145
+    3300106: 10 thread 146
+    3300108: 10 thread 147
+    3300110: 10 thread 148
+    3300112: 10 thread 149
+    3300114: 10 thread 15
+    3300116: 10 thread 150
+    3300118: 10 thread 151
+    3300120: 10 thread 152
+    3300122: 10 thread 153
+    3300124: 10 thread 154
+    3300126: 10 thread 155
+    3300128: 10 thread 156
+    3300130: 10 thread 157
+    3300132: 10 thread 158
+    3300134: 10 thread 159
+    3300136: 10 thread 16
+    3300138: 10 thread 160
+    3300140: 10 thread 161
+    3300142: 10 thread 162
+    3300144: 10 thread 163
+    3300146: 10 thread 164
+    3300148: 10 thread 165
+    3300150: 10 thread 166
+    3300152: 10 thread 167
+    3300154: 10 thread 168
+    3300156: 10 thread 169
+    3300158: 10 thread 17
+    3300160: 10 thread 170
+    3300162: 10 thread 171
+    3300164: 10 thread 172
+    3300166: 10 thread 173
+    3300168: 10 thread 174
+    3300170: 10 thread 175
+    3300172: 10 thread 176
+    3300174: 10 thread 177
+    3300176: 10 thread 178
+    3300178: 10 thread 179
+    3300180: 10 thread 18
+    3300182: 10 thread 180
+    3300184: 10 thread 181
+    3300186: 10 thread 182
+    3300188: 10 thread 183
+    3300190: 10 thread 184
+    3300192: 10 thread 185
+    3300194: 10 thread 186
+    3300196: 10 thread 187
+    3300198: 10 thread 188
+    3300200: 10 thread 189
+    3300202: 10 thread 19
+    3300204: 10 thread 190
+    3300206: 10 thread 191
+    3300208: 10 thread 192
+    3300210: 10 thread 193
+    3300212: 10 thread 194
+    3300214: 10 thread 195
+    3300216: 10 thread 196
+    3300218: 10 thread 197
+    3300220: 10 thread 198
+    3300222: 10 thread 199
+    3300224: 10 thread 2
+    3300226: 10 thread 20
+    3300228: 10 thread 200
+    3300230: 10 thread 21
+    3300232: 10 thread 22
+    3300234: 10 thread 23
+    3300236: 10 thread 24
+    3300238: 10 thread 25
+    3300240: 10 thread 26
+    3300242: 10 thread 27
+    3300244: 10 thread 28
+    3300246: 10 thread 29
+    3300248: 10 thread 3
+    3300250: 10 thread 30
+    3300252: 10 thread 31
+    3300254: 10 thread 32
+    3300256: 10 thread 33
+    3300258: 10 thread 34
+    3300260: 10 thread 35
+    3300262: 10 thread 36
+    3300264: 10 thread 37
+    3300266: 10 thread 38
+    3300268: 10 thread 39
+    3300270: 10 thread 4
+    3300272: 10 thread 40
+    3300274: 10 thread 41
+    3300276: 10 thread 42
+    3300278: 10 thread 43
+    3300280: 10 thread 44
+    3300282: 10 thread 45
+    3300284: 10 thread 46
+    3300286: 10 thread 47
+    3300288: 10 thread 48
+    3300290: 10 thread 49
+    3300292: 10 thread 5
+    3300294: 10 thread 50
+    3300296: 10 thread 51
+    3300298: 10 thread 52
+    3300300: 10 thread 53
+    3300302: 10 thread 54
+    3300304: 10 thread 55
+    3300306: 10 thread 56
+    3300308: 10 thread 57
+    3300310: 10 thread 58
+    3300312: 10 thread 59
+    3300314: 10 thread 6
+    3300316: 10 thread 60
+    3300318: 10 thread 61
+    3300320: 10 thread 62
+    3300322: 10 thread 63
+    3300324: 10 thread 64
+    3300326: 10 thread 65
+    3300328: 10 thread 66
+    3300330: 10 thread 67
+    3300332: 10 thread 68
+    3300334: 10 thread 69
+    3300336: 10 thread 7
+    3300338: 10 thread 70
+    3300340: 10 thread 71
+    3300342: 10 thread 72
+    3300344: 10 thread 73
+    3300346: 10 thread 74
+    3300348: 10 thread 75
+    3300350: 10 thread 76
+    3300352: 10 thread 77
+    3300354: 10 thread 78
+    3300356: 10 thread 79
+    3300358: 10 thread 8
+    3300360: 10 thread 80
+    3300362: 10 thread 81
+    3300364: 10 thread 82
+    3300366: 10 thread 83
+    3300368: 10 thread 84
+    3300370: 10 thread 85
+    3300372: 10 thread 86
+    3300374: 10 thread 87
+    3300376: 10 thread 88
+    3300378: 10 thread 89
+    3300380: 10 thread 9
+    3300382: 10 thread 90
+    3300384: 10 thread 91
+    3300386: 10 thread 92
+    3300388: 10 thread 93
+    3300390: 10 thread 94
+    3300392: 10 thread 95
+    3300394: 10 thread 96
+    3300396: 10 thread 97
+    3300398: 10 thread 98
+    3300400: 10 thread 99
+    3300402: '2ft leg '
+    3300404: 2ft leg  1
+    3300406: 2ft leg  2
+    3300408: Group 168
+    3300410: Group 253
+    3300412: Group 258
+    3300414: Group 333
+    3300416: Group 83
+    3300418: Hex bolt M5-25#10
+    3300420: Hex bolt M5-25#10 1
+    3300422: Hex bolt M5-25#10 2
+    3300424: Hex bolt M5-25#3
+    3300426: Hex bolt M5-25#3 1
+    3300428: Hex bolt M5-25#3 2
+    3300430: Hex nut M5#2
+    3300432: Hex nut M5#2 1
+    3300434: Hex nut M5#2 2
+    3300436: WASHER#2
+    3300438: WASHER#2 1
+    3300440: WASHER#2 2
+    3300442: WASHER#2 3
+    3300444: WASHER#2 4
+    3300446: WASHER#2 5
+    3300448: WASHER#2 6
+    3300450: WASHER#2 7
+    3300452: WASHER#2 8
+    4300000: Mesh 10 thread
+    4300002: Mesh Hex bolt M5-25#10
+    4300004: Mesh Group 83
+    4300006: Mesh WASHER#2
+    4300008: Mesh Group 258
+    4300010: Mesh Hex bolt M5-25#3
+    4300012: Mesh Hex nut M5#2
+    4300014: Mesh Group 333
+    4300016: Mesh 10 thread
+    4300018: Mesh WASHER#2
+    4300020: Mesh Hex nut M5#2
+    4300022: Mesh Hex bolt M5-25#3
+    4300024: 'Mesh 2ft leg '
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: sandpits
+  assetBundleVariant: 

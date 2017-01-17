@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: bdde31726c9b4844dadcd992bb565867
+timeCreated: 1483747528
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000170000001800000019000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 835b89c5b123118770307856b8f20b3a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -11.027271, y: 3.9699397, z: 9.809923}
+      lookAt: {x: -0.45269263, y: 0.4705562, z: 0.5017399}
+      up: {x: 0.1809554, y: 0.9705069, z: -0.15928444}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 162.3492
+      isPerspective: 0
+    scenes:
+    - camera:
+        position: {x: 6.804666, y: 11.545414, z: -12.217505}
+        lookAt: {x: 1.3151959, y: 3.2639918, z: -1.6348103}
+        up: {x: -0.26269618, y: 0.82129115, z: 0.5064302}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 182.33258
+        isPerspective: 0
+      name: 2
+    - camera:
+        position: {x: -13.0231285, y: 4.592231, z: 7.308576}
+        lookAt: {x: -2.4485502, y: 1.0928475, z: -1.9996063}
+        up: {x: 0.1809554, y: 0.9705069, z: -0.15928444}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 129.60056
+        isPerspective: 0
+      name: 3
+    - camera:
+        position: {x: -15.607562, y: 5.173911, z: 4.1538453}
+        lookAt: {x: -5.0329833, y: 1.6745278, z: -5.154338}
+        up: {x: 0.1809554, y: 0.9705069, z: -0.15928444}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 129.60056
+        isPerspective: 0
+      name: 4
+    - camera:
+        position: {x: -18.047604, y: 6.252257, z: 0.9764305}
+        lookAt: {x: -7.4730253, y: 2.7528734, z: -8.331753}
+        up: {x: 0.1809554, y: 0.9705069, z: -0.15928444}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 129.60056
+        isPerspective: 0
+      name: 5
+    - camera:
+        position: {x: 11.354722, y: 15.66332, z: -6.6348515}
+        lookAt: {x: 5.865252, y: 7.3818984, z: 3.947843}
+        up: {x: -0.26269618, y: 0.82129115, z: 0.5064302}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 182.33258
+        isPerspective: 0
+      name: 6
+    - camera:
+        position: {x: 13.781976, y: 19.541504, z: -2.3409352}
+        lookAt: {x: 8.292505, y: 11.26008, z: 8.241759}
+        up: {x: -0.26269618, y: 0.82129115, z: 0.5064302}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 182.33258
+        isPerspective: 0
+      name: 7
+    - camera:
+        position: {x: 5.8681693, y: 8.120378, z: -13.323071}
+        lookAt: {x: 1.256167, y: 4.328662, z: -0.091970555}
+        up: {x: -0.0859779, y: 0.9652814, z: 0.2466569}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 96.93158
+        isPerspective: 0
+      name: 8
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tyre
+    100004: tyre 1
+    100006: tyre 10
+    100008: tyre 11
+    100010: tyre 2
+    100012: tyre 3
+    100014: tyre 4
+    100016: tyre 5
+    100018: tyre 6
+    100020: tyre 7
+    100022: tyre 8
+    100024: tyre 9
+    400000: //RootNode
+    400002: tyre
+    400004: tyre 1
+    400006: tyre 10
+    400008: tyre 11
+    400010: tyre 2
+    400012: tyre 3
+    400014: tyre 4
+    400016: tyre 5
+    400018: tyre 6
+    400020: tyre 7
+    400022: tyre 8
+    400024: tyre 9
+    2300000: //RootNode
+    2300002: tyre
+    2300004: tyre 1
+    2300006: tyre 10
+    2300008: tyre 11
+    2300010: tyre 2
+    2300012: tyre 3
+    2300014: tyre 4
+    2300016: tyre 5
+    2300018: tyre 6
+    2300020: tyre 7
+    2300022: tyre 8
+    2300024: tyre 9
+    3300000: //RootNode
+    3300002: tyre
+    3300004: tyre 1
+    3300006: tyre 10
+    3300008: tyre 11
+    3300010: tyre 2
+    3300012: tyre 3
+    3300014: tyre 4
+    3300016: tyre 5
+    3300018: tyre 6
+    3300020: tyre 7
+    3300022: tyre 8
+    3300024: tyre 9
+    4300000: Mesh tire_chain_bridge
+    4300002: Mesh tyre
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: bridges
+  assetBundleVariant: 

@@ -1,0 +1,841 @@
+fileFormatVersion: 2
+guid: d2afea6c0292b8d4488a0a81fd0832df
+timeCreated: 1483747564
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f01000060010000610100006201000063010000640100006501000066010000670100006801000069010000
+  assetHash:
+    serializedVersion: 2
+    Hash: f903ae9e4d4ee166754b1cdbc628d4d0
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.23035, y: 1.8938644, z: -2.2115953}
+      lookAt: {x: -0.006560278, y: 0.7819695, z: 0.012194497}
+      up: {x: 0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10 thread
+    100002: 10 thread 1
+    100004: 10 thread 10
+    100006: 10 thread 11
+    100008: 10 thread 12
+    100010: 10 thread 13
+    100012: 10 thread 14
+    100014: 10 thread 15
+    100016: 10 thread 16
+    100018: 10 thread 17
+    100020: 10 thread 18
+    100022: 10 thread 19
+    100024: 10 thread 2
+    100026: 10 thread 3
+    100028: 10 thread 4
+    100030: 10 thread 5
+    100032: 10 thread 6
+    100034: 10 thread 7
+    100036: 10 thread 8
+    100038: 10 thread 9
+    100040: BN 150
+    100042: BN 150 1
+    100044: BN 150 2
+    100046: BN 150 3
+    100048: BN 150 4
+    100050: BN 150 5
+    100052: BN 150 6
+    100054: BN 150 7
+    100056: Bossard BN 150 M10
+    100058: Bossard BN 150 M10 1
+    100060: Bossard BN 150 M10 2
+    100062: Bossard BN 150 M10 3
+    100064: Bossard BN 150 M10 4
+    100066: Bossard BN 150 M10 5
+    100068: Bossard BN 150 M10 6
+    100070: Bossard BN 150 M10 7
+    100072: //RootNode
+    100074: Chain part#1
+    100076: Chain part#1 1
+    100078: Chain part#1 10
+    100080: Chain part#1 11
+    100082: Chain part#1 12
+    100084: Chain part#1 13
+    100086: Chain part#1 14
+    100088: Chain part#1 15
+    100090: Chain part#1 2
+    100092: Chain part#1 3
+    100094: Chain part#1 4
+    100096: Chain part#1 5
+    100098: Chain part#1 6
+    100100: Chain part#1 7
+    100102: Chain part#1 8
+    100104: Chain part#1 9
+    100106: Chain part#2
+    100108: Chain part#2 1
+    100110: Chain part#2 10
+    100112: Chain part#2 11
+    100114: Chain part#2 12
+    100116: Chain part#2 13
+    100118: Chain part#2 2
+    100120: Chain part#2 3
+    100122: Chain part#2 4
+    100124: Chain part#2 5
+    100126: Chain part#2 6
+    100128: Chain part#2 7
+    100130: Chain part#2 8
+    100132: Chain part#2 9
+    100134: Group 1
+    100136: Group 101
+    100138: Group 102
+    100140: Group 103
+    100142: Group 124
+    100144: Group 126
+    100146: Group 128
+    100148: Group 130
+    100150: Group 132
+    100152: Group 135
+    100154: Group 139
+    100156: Group 142
+    100158: Group 146
+    100160: Group 149
+    100162: Group 19
+    100164: Group 197
+    100166: Group 199
+    100168: Group 201
+    100170: Group 204
+    100172: Group 206
+    100174: Group 208
+    100176: Group 213
+    100178: Group 215
+    100180: Group 217
+    100182: Group 220
+    100184: Group 222
+    100186: Group 224
+    100188: Group 226
+    100190: Group 227
+    100192: Group 229
+    100194: Group 231
+    100196: Group 233
+    100198: Group 237
+    100200: Group 238
+    100202: Group 239
+    100204: Group 260
+    100206: Group 262
+    100208: Group 264
+    100210: Group 266
+    100212: Group 268
+    100214: Group 271
+    100216: Group 275
+    100218: Group 278
+    100220: Group 282
+    100222: Group 285
+    100224: Group 29
+    100226: Group 333
+    100228: Group 335
+    100230: Group 337
+    100232: Group 340
+    100234: Group 342
+    100236: Group 344
+    100238: Group 349
+    100240: Group 351
+    100242: Group 353
+    100244: Group 356
+    100246: Group 358
+    100248: Group 360
+    100250: Group 39
+    100252: Group 4
+    100254: Group 49
+    100256: Group 5
+    100258: Group 50
+    100260: Group 60
+    100262: Group 7
+    100264: Group 70
+    100266: Group 80
+    100268: Group 9
+    100270: Group 90
+    100272: Group 91
+    100274: Group 93
+    100276: Group 95
+    100278: Group 97
+    100280: Group#93
+    100282: Group#93 1
+    100284: Group#93 2
+    100286: Group#93 3
+    100288: Hex bolt M5-25#1
+    100290: Hex bolt M5-25#1 1
+    100292: Hex bolt M5-25#1 2
+    100294: Hex bolt M5-25#1 3
+    100296: Hex bolt M5-25#1 4
+    100298: Hex bolt M5-25#1 5
+    100300: Hex bolt M5-25#3
+    100302: Hex bolt M5-25#3 1
+    100304: Hex bolt M5-25#3 2
+    100306: Hex bolt M5-25#3 3
+    100308: Hex bolt M5-25#3 4
+    100310: Hex bolt M5-25#3 5
+    100312: Hex bolt M5-25#3 6
+    100314: Hex bolt M5-25#3 7
+    100316: Hex bolt M5-25#4
+    100318: Hex bolt M5-25#4 1
+    100320: Hex nut M5#1
+    100322: Hex nut M5#1 1
+    100324: Knot
+    100326: Knot 1
+    100328: Knot 2
+    100330: Knot 3
+    100332: Knot 4
+    100334: Knot 5
+    100336: Knot 6
+    100338: Knot 7
+    100340: right chain
+    100342: right chain 1
+    100344: SWING CHAIN#2
+    100346: SWING CHAIN#2 1
+    100348: swing set
+    100350: Two chain parts#4
+    100352: Two chain parts#4 1
+    100354: Two chain parts#4 2
+    100356: Two chain parts#4 3
+    100358: Two chain parts#4 4
+    100360: Two chain parts#4 5
+    100362: WASHER#4
+    100364: WASHER#4 1
+    100366: WASHER#4 10
+    100368: WASHER#4 11
+    100370: WASHER#4 12
+    100372: WASHER#4 13
+    100374: WASHER#4 14
+    100376: WASHER#4 15
+    100378: WASHER#4 16
+    100380: WASHER#4 17
+    100382: WASHER#4 18
+    100384: WASHER#4 19
+    100386: WASHER#4 2
+    100388: WASHER#4 20
+    100390: WASHER#4 21
+    100392: WASHER#4 22
+    100394: WASHER#4 23
+    100396: WASHER#4 24
+    100398: WASHER#4 25
+    100400: WASHER#4 3
+    100402: WASHER#4 4
+    100404: WASHER#4 5
+    100406: WASHER#4 6
+    100408: WASHER#4 7
+    100410: WASHER#4 8
+    100412: WASHER#4 9
+    400000: 10 thread
+    400002: 10 thread 1
+    400004: 10 thread 10
+    400006: 10 thread 11
+    400008: 10 thread 12
+    400010: 10 thread 13
+    400012: 10 thread 14
+    400014: 10 thread 15
+    400016: 10 thread 16
+    400018: 10 thread 17
+    400020: 10 thread 18
+    400022: 10 thread 19
+    400024: 10 thread 2
+    400026: 10 thread 3
+    400028: 10 thread 4
+    400030: 10 thread 5
+    400032: 10 thread 6
+    400034: 10 thread 7
+    400036: 10 thread 8
+    400038: 10 thread 9
+    400040: BN 150
+    400042: BN 150 1
+    400044: BN 150 2
+    400046: BN 150 3
+    400048: BN 150 4
+    400050: BN 150 5
+    400052: BN 150 6
+    400054: BN 150 7
+    400056: Bossard BN 150 M10
+    400058: Bossard BN 150 M10 1
+    400060: Bossard BN 150 M10 2
+    400062: Bossard BN 150 M10 3
+    400064: Bossard BN 150 M10 4
+    400066: Bossard BN 150 M10 5
+    400068: Bossard BN 150 M10 6
+    400070: Bossard BN 150 M10 7
+    400072: //RootNode
+    400074: Chain part#1
+    400076: Chain part#1 1
+    400078: Chain part#1 10
+    400080: Chain part#1 11
+    400082: Chain part#1 12
+    400084: Chain part#1 13
+    400086: Chain part#1 14
+    400088: Chain part#1 15
+    400090: Chain part#1 2
+    400092: Chain part#1 3
+    400094: Chain part#1 4
+    400096: Chain part#1 5
+    400098: Chain part#1 6
+    400100: Chain part#1 7
+    400102: Chain part#1 8
+    400104: Chain part#1 9
+    400106: Chain part#2
+    400108: Chain part#2 1
+    400110: Chain part#2 10
+    400112: Chain part#2 11
+    400114: Chain part#2 12
+    400116: Chain part#2 13
+    400118: Chain part#2 2
+    400120: Chain part#2 3
+    400122: Chain part#2 4
+    400124: Chain part#2 5
+    400126: Chain part#2 6
+    400128: Chain part#2 7
+    400130: Chain part#2 8
+    400132: Chain part#2 9
+    400134: Group 1
+    400136: Group 101
+    400138: Group 102
+    400140: Group 103
+    400142: Group 124
+    400144: Group 126
+    400146: Group 128
+    400148: Group 130
+    400150: Group 132
+    400152: Group 135
+    400154: Group 139
+    400156: Group 142
+    400158: Group 146
+    400160: Group 149
+    400162: Group 19
+    400164: Group 197
+    400166: Group 199
+    400168: Group 201
+    400170: Group 204
+    400172: Group 206
+    400174: Group 208
+    400176: Group 213
+    400178: Group 215
+    400180: Group 217
+    400182: Group 220
+    400184: Group 222
+    400186: Group 224
+    400188: Group 226
+    400190: Group 227
+    400192: Group 229
+    400194: Group 231
+    400196: Group 233
+    400198: Group 237
+    400200: Group 238
+    400202: Group 239
+    400204: Group 260
+    400206: Group 262
+    400208: Group 264
+    400210: Group 266
+    400212: Group 268
+    400214: Group 271
+    400216: Group 275
+    400218: Group 278
+    400220: Group 282
+    400222: Group 285
+    400224: Group 29
+    400226: Group 333
+    400228: Group 335
+    400230: Group 337
+    400232: Group 340
+    400234: Group 342
+    400236: Group 344
+    400238: Group 349
+    400240: Group 351
+    400242: Group 353
+    400244: Group 356
+    400246: Group 358
+    400248: Group 360
+    400250: Group 39
+    400252: Group 4
+    400254: Group 49
+    400256: Group 5
+    400258: Group 50
+    400260: Group 60
+    400262: Group 7
+    400264: Group 70
+    400266: Group 80
+    400268: Group 9
+    400270: Group 90
+    400272: Group 91
+    400274: Group 93
+    400276: Group 95
+    400278: Group 97
+    400280: Group#93
+    400282: Group#93 1
+    400284: Group#93 2
+    400286: Group#93 3
+    400288: Hex bolt M5-25#1
+    400290: Hex bolt M5-25#1 1
+    400292: Hex bolt M5-25#1 2
+    400294: Hex bolt M5-25#1 3
+    400296: Hex bolt M5-25#1 4
+    400298: Hex bolt M5-25#1 5
+    400300: Hex bolt M5-25#3
+    400302: Hex bolt M5-25#3 1
+    400304: Hex bolt M5-25#3 2
+    400306: Hex bolt M5-25#3 3
+    400308: Hex bolt M5-25#3 4
+    400310: Hex bolt M5-25#3 5
+    400312: Hex bolt M5-25#3 6
+    400314: Hex bolt M5-25#3 7
+    400316: Hex bolt M5-25#4
+    400318: Hex bolt M5-25#4 1
+    400320: Hex nut M5#1
+    400322: Hex nut M5#1 1
+    400324: Knot
+    400326: Knot 1
+    400328: Knot 2
+    400330: Knot 3
+    400332: Knot 4
+    400334: Knot 5
+    400336: Knot 6
+    400338: Knot 7
+    400340: right chain
+    400342: right chain 1
+    400344: SWING CHAIN#2
+    400346: SWING CHAIN#2 1
+    400348: swing set
+    400350: Two chain parts#4
+    400352: Two chain parts#4 1
+    400354: Two chain parts#4 2
+    400356: Two chain parts#4 3
+    400358: Two chain parts#4 4
+    400360: Two chain parts#4 5
+    400362: WASHER#4
+    400364: WASHER#4 1
+    400366: WASHER#4 10
+    400368: WASHER#4 11
+    400370: WASHER#4 12
+    400372: WASHER#4 13
+    400374: WASHER#4 14
+    400376: WASHER#4 15
+    400378: WASHER#4 16
+    400380: WASHER#4 17
+    400382: WASHER#4 18
+    400384: WASHER#4 19
+    400386: WASHER#4 2
+    400388: WASHER#4 20
+    400390: WASHER#4 21
+    400392: WASHER#4 22
+    400394: WASHER#4 23
+    400396: WASHER#4 24
+    400398: WASHER#4 25
+    400400: WASHER#4 3
+    400402: WASHER#4 4
+    400404: WASHER#4 5
+    400406: WASHER#4 6
+    400408: WASHER#4 7
+    400410: WASHER#4 8
+    400412: WASHER#4 9
+    2300000: 10 thread
+    2300002: 10 thread 1
+    2300004: 10 thread 10
+    2300006: 10 thread 11
+    2300008: 10 thread 12
+    2300010: 10 thread 13
+    2300012: 10 thread 14
+    2300014: 10 thread 15
+    2300016: 10 thread 16
+    2300018: 10 thread 17
+    2300020: 10 thread 18
+    2300022: 10 thread 19
+    2300024: 10 thread 2
+    2300026: 10 thread 3
+    2300028: 10 thread 4
+    2300030: 10 thread 5
+    2300032: 10 thread 6
+    2300034: 10 thread 7
+    2300036: 10 thread 8
+    2300038: 10 thread 9
+    2300040: Bossard BN 150 M10
+    2300042: Bossard BN 150 M10 1
+    2300044: Bossard BN 150 M10 2
+    2300046: Bossard BN 150 M10 3
+    2300048: Bossard BN 150 M10 4
+    2300050: Bossard BN 150 M10 5
+    2300052: Bossard BN 150 M10 6
+    2300054: Bossard BN 150 M10 7
+    2300056: Chain part#1
+    2300058: Chain part#1 1
+    2300060: Chain part#1 10
+    2300062: Chain part#1 11
+    2300064: Chain part#1 12
+    2300066: Chain part#1 13
+    2300068: Chain part#1 14
+    2300070: Chain part#1 15
+    2300072: Chain part#1 2
+    2300074: Chain part#1 3
+    2300076: Chain part#1 4
+    2300078: Chain part#1 5
+    2300080: Chain part#1 6
+    2300082: Chain part#1 7
+    2300084: Chain part#1 8
+    2300086: Chain part#1 9
+    2300088: Chain part#2
+    2300090: Chain part#2 1
+    2300092: Chain part#2 10
+    2300094: Chain part#2 11
+    2300096: Chain part#2 12
+    2300098: Chain part#2 13
+    2300100: Chain part#2 2
+    2300102: Chain part#2 3
+    2300104: Chain part#2 4
+    2300106: Chain part#2 5
+    2300108: Chain part#2 6
+    2300110: Chain part#2 7
+    2300112: Chain part#2 8
+    2300114: Chain part#2 9
+    2300116: Group 1
+    2300118: Group 124
+    2300120: Group 126
+    2300122: Group 128
+    2300124: Group 130
+    2300126: Group 135
+    2300128: Group 142
+    2300130: Group 149
+    2300132: Group 197
+    2300134: Group 199
+    2300136: Group 201
+    2300138: Group 204
+    2300140: Group 206
+    2300142: Group 208
+    2300144: Group 213
+    2300146: Group 215
+    2300148: Group 217
+    2300150: Group 220
+    2300152: Group 222
+    2300154: Group 224
+    2300156: Group 227
+    2300158: Group 229
+    2300160: Group 231
+    2300162: Group 233
+    2300164: Group 260
+    2300166: Group 262
+    2300168: Group 264
+    2300170: Group 266
+    2300172: Group 271
+    2300174: Group 278
+    2300176: Group 285
+    2300178: Group 333
+    2300180: Group 335
+    2300182: Group 337
+    2300184: Group 340
+    2300186: Group 342
+    2300188: Group 344
+    2300190: Group 349
+    2300192: Group 351
+    2300194: Group 353
+    2300196: Group 356
+    2300198: Group 358
+    2300200: Group 360
+    2300202: Group 5
+    2300204: Group 7
+    2300206: Group 91
+    2300208: Group 93
+    2300210: Group 95
+    2300212: Group 97
+    2300214: Group#93
+    2300216: Group#93 1
+    2300218: Group#93 2
+    2300220: Group#93 3
+    2300222: Hex bolt M5-25#1
+    2300224: Hex bolt M5-25#1 1
+    2300226: Hex bolt M5-25#1 2
+    2300228: Hex bolt M5-25#1 3
+    2300230: Hex bolt M5-25#1 4
+    2300232: Hex bolt M5-25#1 5
+    2300234: Hex bolt M5-25#3
+    2300236: Hex bolt M5-25#3 1
+    2300238: Hex bolt M5-25#3 2
+    2300240: Hex bolt M5-25#3 3
+    2300242: Hex bolt M5-25#3 4
+    2300244: Hex bolt M5-25#3 5
+    2300246: Hex bolt M5-25#3 6
+    2300248: Hex bolt M5-25#3 7
+    2300250: Hex bolt M5-25#4
+    2300252: Hex bolt M5-25#4 1
+    2300254: Hex nut M5#1
+    2300256: Hex nut M5#1 1
+    2300258: WASHER#4
+    2300260: WASHER#4 1
+    2300262: WASHER#4 10
+    2300264: WASHER#4 11
+    2300266: WASHER#4 12
+    2300268: WASHER#4 13
+    2300270: WASHER#4 14
+    2300272: WASHER#4 15
+    2300274: WASHER#4 16
+    2300276: WASHER#4 17
+    2300278: WASHER#4 18
+    2300280: WASHER#4 19
+    2300282: WASHER#4 2
+    2300284: WASHER#4 20
+    2300286: WASHER#4 21
+    2300288: WASHER#4 22
+    2300290: WASHER#4 23
+    2300292: WASHER#4 24
+    2300294: WASHER#4 25
+    2300296: WASHER#4 3
+    2300298: WASHER#4 4
+    2300300: WASHER#4 5
+    2300302: WASHER#4 6
+    2300304: WASHER#4 7
+    2300306: WASHER#4 8
+    2300308: WASHER#4 9
+    3300000: 10 thread
+    3300002: 10 thread 1
+    3300004: 10 thread 10
+    3300006: 10 thread 11
+    3300008: 10 thread 12
+    3300010: 10 thread 13
+    3300012: 10 thread 14
+    3300014: 10 thread 15
+    3300016: 10 thread 16
+    3300018: 10 thread 17
+    3300020: 10 thread 18
+    3300022: 10 thread 19
+    3300024: 10 thread 2
+    3300026: 10 thread 3
+    3300028: 10 thread 4
+    3300030: 10 thread 5
+    3300032: 10 thread 6
+    3300034: 10 thread 7
+    3300036: 10 thread 8
+    3300038: 10 thread 9
+    3300040: Bossard BN 150 M10
+    3300042: Bossard BN 150 M10 1
+    3300044: Bossard BN 150 M10 2
+    3300046: Bossard BN 150 M10 3
+    3300048: Bossard BN 150 M10 4
+    3300050: Bossard BN 150 M10 5
+    3300052: Bossard BN 150 M10 6
+    3300054: Bossard BN 150 M10 7
+    3300056: Chain part#1
+    3300058: Chain part#1 1
+    3300060: Chain part#1 10
+    3300062: Chain part#1 11
+    3300064: Chain part#1 12
+    3300066: Chain part#1 13
+    3300068: Chain part#1 14
+    3300070: Chain part#1 15
+    3300072: Chain part#1 2
+    3300074: Chain part#1 3
+    3300076: Chain part#1 4
+    3300078: Chain part#1 5
+    3300080: Chain part#1 6
+    3300082: Chain part#1 7
+    3300084: Chain part#1 8
+    3300086: Chain part#1 9
+    3300088: Chain part#2
+    3300090: Chain part#2 1
+    3300092: Chain part#2 10
+    3300094: Chain part#2 11
+    3300096: Chain part#2 12
+    3300098: Chain part#2 13
+    3300100: Chain part#2 2
+    3300102: Chain part#2 3
+    3300104: Chain part#2 4
+    3300106: Chain part#2 5
+    3300108: Chain part#2 6
+    3300110: Chain part#2 7
+    3300112: Chain part#2 8
+    3300114: Chain part#2 9
+    3300116: Group 1
+    3300118: Group 124
+    3300120: Group 126
+    3300122: Group 128
+    3300124: Group 130
+    3300126: Group 135
+    3300128: Group 142
+    3300130: Group 149
+    3300132: Group 197
+    3300134: Group 199
+    3300136: Group 201
+    3300138: Group 204
+    3300140: Group 206
+    3300142: Group 208
+    3300144: Group 213
+    3300146: Group 215
+    3300148: Group 217
+    3300150: Group 220
+    3300152: Group 222
+    3300154: Group 224
+    3300156: Group 227
+    3300158: Group 229
+    3300160: Group 231
+    3300162: Group 233
+    3300164: Group 260
+    3300166: Group 262
+    3300168: Group 264
+    3300170: Group 266
+    3300172: Group 271
+    3300174: Group 278
+    3300176: Group 285
+    3300178: Group 333
+    3300180: Group 335
+    3300182: Group 337
+    3300184: Group 340
+    3300186: Group 342
+    3300188: Group 344
+    3300190: Group 349
+    3300192: Group 351
+    3300194: Group 353
+    3300196: Group 356
+    3300198: Group 358
+    3300200: Group 360
+    3300202: Group 5
+    3300204: Group 7
+    3300206: Group 91
+    3300208: Group 93
+    3300210: Group 95
+    3300212: Group 97
+    3300214: Group#93
+    3300216: Group#93 1
+    3300218: Group#93 2
+    3300220: Group#93 3
+    3300222: Hex bolt M5-25#1
+    3300224: Hex bolt M5-25#1 1
+    3300226: Hex bolt M5-25#1 2
+    3300228: Hex bolt M5-25#1 3
+    3300230: Hex bolt M5-25#1 4
+    3300232: Hex bolt M5-25#1 5
+    3300234: Hex bolt M5-25#3
+    3300236: Hex bolt M5-25#3 1
+    3300238: Hex bolt M5-25#3 2
+    3300240: Hex bolt M5-25#3 3
+    3300242: Hex bolt M5-25#3 4
+    3300244: Hex bolt M5-25#3 5
+    3300246: Hex bolt M5-25#3 6
+    3300248: Hex bolt M5-25#3 7
+    3300250: Hex bolt M5-25#4
+    3300252: Hex bolt M5-25#4 1
+    3300254: Hex nut M5#1
+    3300256: Hex nut M5#1 1
+    3300258: WASHER#4
+    3300260: WASHER#4 1
+    3300262: WASHER#4 10
+    3300264: WASHER#4 11
+    3300266: WASHER#4 12
+    3300268: WASHER#4 13
+    3300270: WASHER#4 14
+    3300272: WASHER#4 15
+    3300274: WASHER#4 16
+    3300276: WASHER#4 17
+    3300278: WASHER#4 18
+    3300280: WASHER#4 19
+    3300282: WASHER#4 2
+    3300284: WASHER#4 20
+    3300286: WASHER#4 21
+    3300288: WASHER#4 22
+    3300290: WASHER#4 23
+    3300292: WASHER#4 24
+    3300294: WASHER#4 25
+    3300296: WASHER#4 3
+    3300298: WASHER#4 4
+    3300300: WASHER#4 5
+    3300302: WASHER#4 6
+    3300304: WASHER#4 7
+    3300306: WASHER#4 8
+    3300308: WASHER#4 9
+    4300000: Mesh Group 1
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Hex bolt M5-25#3
+    4300008: Mesh WASHER#4
+    4300010: Mesh Bossard BN 150 M10
+    4300012: Mesh Group 91
+    4300014: Mesh Group 95
+    4300016: Mesh Group 97
+    4300018: Mesh 10 thread
+    4300020: Mesh Group 124
+    4300022: Mesh Group 126
+    4300024: Mesh Group 128
+    4300026: Mesh Group 130
+    4300028: Mesh Hex bolt M5-25#1
+    4300030: Mesh Group 135
+    4300032: Mesh Hex nut M5#1
+    4300034: Mesh Hex bolt M5-25#4
+    4300036: Mesh Chain part#2
+    4300038: Mesh Chain part#1
+    4300040: Mesh Group#93
+    4300042: Mesh Group 197
+    4300044: Mesh Group 199
+    4300046: Mesh Group 201
+    4300048: Mesh Group 229
+    4300050: Mesh Group 231
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: swings
+  assetBundleVariant: 

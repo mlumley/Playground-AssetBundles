@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 97740ebca8829534a8ab169bbcc2b8f4
+timeCreated: 1483747498
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000150000001600000017000000
+  assetHash:
+    serializedVersion: 2
+    Hash: da18162310c200112cd054e9fe71c502
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.4471555, y: 1.7058529, z: -2.405114}
+      lookAt: {x: 0.00026059596, y: 0.48240533, z: 0.041780878}
+      up: {x: -0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: car tire
+    100004: car tire 1
+    100006: Component#6
+    100008: Component#6 1
+    100010: Component#6 2
+    100012: Component#6 3
+    100014: Component#6 4
+    100016: Component#6 5
+    100018: Component#8
+    100020: Group 1
+    100022: Group 2
+    100024: Group 4
+    400000: //RootNode
+    400002: car tire
+    400004: car tire 1
+    400006: Component#6
+    400008: Component#6 1
+    400010: Component#6 2
+    400012: Component#6 3
+    400014: Component#6 4
+    400016: Component#6 5
+    400018: Component#8
+    400020: Group 1
+    400022: Group 2
+    400024: Group 4
+    2300000: car tire
+    2300002: car tire 1
+    2300004: Component#6
+    2300006: Component#6 1
+    2300008: Component#6 2
+    2300010: Component#6 3
+    2300012: Component#6 4
+    2300014: Component#6 5
+    2300016: Component#8
+    2300018: Group 2
+    2300020: Group 4
+    3300000: car tire
+    3300002: car tire 1
+    3300004: Component#6
+    3300006: Component#6 1
+    3300008: Component#6 2
+    3300010: Component#6 3
+    3300012: Component#6 4
+    3300014: Component#6 5
+    3300016: Component#8
+    3300018: Group 2
+    3300020: Group 4
+    4300000: Mesh Group 2
+    4300002: Mesh Group 4
+    4300004: Mesh Component#8
+    4300006: Mesh Component#6
+    4300008: Mesh Component#6
+    4300010: Mesh car tire
+    4300012: Mesh Component#6
+    4300014: Mesh car tire
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: imaginative
+  assetBundleVariant: 

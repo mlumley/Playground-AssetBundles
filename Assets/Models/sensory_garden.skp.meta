@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 99adca937ca8d49448c6b79172a50d04
+timeCreated: 1483747500
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff0000000001000001010000020100000a0100000b0100000c0100000d0100000e0100000f01000010010000110100001201000013010000140100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d01000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f0100007001000071010000720100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f01000090010000910100009201000093010000
+  assetHash:
+    serializedVersion: 2
+    Hash: bb7263fa1d61737dece9dc70201d426f
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 10.1280575, y: 10.314272, z: 6.162305}
+      lookAt: {x: 0.702144, y: 1.4162648, z: 0.94196254}
+      up: {x: -0.557029, y: 0.7710689, z: -0.3084987}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 74.825134
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: crown
+    100002: Group 11
+    100004: Group 117
+    100006: Group 118
+    100008: Group 119
+    100010: Group 125
+    100012: Group 155
+    100014: Group 156
+    100016: Group 157
+    100018: Group 163
+    100020: Group 193
+    100022: Group 194
+    100024: Group 195
+    100026: Group 199
+    100028: Group 230
+    100030: Group 231
+    100032: Group 232
+    100034: Group 236
+    100036: Group 267
+    100038: Group 268
+    100040: Group 269
+    100042: Group 275
+    100044: Group 305
+    100046: Group 306
+    100048: Group 307
+    100050: Group 311
+    100052: Group 342
+    100054: Group 343
+    100056: Group 344
+    100058: Group 348
+    100060: Group 42
+    100062: Group 43
+    100064: Group 44
+    100066: Group 5
+    100068: Group 50
+    100070: Group 6
+    100072: Group 7
+    100074: Group 80
+    100076: Group 81
+    100078: Group 82
+    100080: Group 86
+    100082: Group#111
+    100084: Group#111 1
+    100086: Group#111 2
+    100088: Group#111 3
+    100090: Group#111 4
+    100092: Group#111 5
+    100094: Group#118
+    100096: Group#118 1
+    100098: Group#118 2
+    100100: Group#118 3
+    100102: Lg Bent Leaf#1
+    100104: Lg Bent Leaf#1 1
+    100106: Lg Bent Leaf#1 10
+    100108: Lg Bent Leaf#1 11
+    100110: Lg Bent Leaf#1 12
+    100112: Lg Bent Leaf#1 13
+    100114: Lg Bent Leaf#1 14
+    100116: Lg Bent Leaf#1 15
+    100118: Lg Bent Leaf#1 16
+    100120: Lg Bent Leaf#1 17
+    100122: Lg Bent Leaf#1 18
+    100124: Lg Bent Leaf#1 19
+    100126: Lg Bent Leaf#1 2
+    100128: Lg Bent Leaf#1 20
+    100130: Lg Bent Leaf#1 21
+    100132: Lg Bent Leaf#1 22
+    100134: Lg Bent Leaf#1 23
+    100136: Lg Bent Leaf#1 24
+    100138: Lg Bent Leaf#1 25
+    100140: Lg Bent Leaf#1 26
+    100142: Lg Bent Leaf#1 27
+    100144: Lg Bent Leaf#1 28
+    100146: Lg Bent Leaf#1 29
+    100148: Lg Bent Leaf#1 3
+    100150: Lg Bent Leaf#1 30
+    100152: Lg Bent Leaf#1 31
+    100154: Lg Bent Leaf#1 32
+    100156: Lg Bent Leaf#1 4
+    100158: Lg Bent Leaf#1 5
+    100160: Lg Bent Leaf#1 6
+    100162: Lg Bent Leaf#1 7
+    100164: Lg Bent Leaf#1 8
+    100166: Lg Bent Leaf#1 9
+    100168: Lg Broken Leaf#1
+    100170: Lg Broken Leaf#1 1
+    100172: Lg Broken Leaf#1 10
+    100174: Lg Broken Leaf#1 11
+    100176: Lg Broken Leaf#1 12
+    100178: Lg Broken Leaf#1 13
+    100180: Lg Broken Leaf#1 14
+    100182: Lg Broken Leaf#1 15
+    100184: Lg Broken Leaf#1 16
+    100186: Lg Broken Leaf#1 17
+    100188: Lg Broken Leaf#1 18
+    100190: Lg Broken Leaf#1 19
+    100192: Lg Broken Leaf#1 2
+    100194: Lg Broken Leaf#1 20
+    100196: Lg Broken Leaf#1 21
+    100198: Lg Broken Leaf#1 22
+    100200: Lg Broken Leaf#1 23
+    100202: Lg Broken Leaf#1 24
+    100204: Lg Broken Leaf#1 25
+    100206: Lg Broken Leaf#1 26
+    100208: Lg Broken Leaf#1 27
+    100210: Lg Broken Leaf#1 28
+    100212: Lg Broken Leaf#1 29
+    100214: Lg Broken Leaf#1 3
+    100216: Lg Broken Leaf#1 30
+    100218: Lg Broken Leaf#1 31
+    100220: Lg Broken Leaf#1 32
+    100222: Lg Broken Leaf#1 33
+    100224: Lg Broken Leaf#1 34
+    100226: Lg Broken Leaf#1 35
+    100228: Lg Broken Leaf#1 36
+    100230: Lg Broken Leaf#1 37
+    100232: Lg Broken Leaf#1 38
+    100234: Lg Broken Leaf#1 39
+    100236: Lg Broken Leaf#1 4
+    100238: Lg Broken Leaf#1 40
+    100240: Lg Broken Leaf#1 41
+    100242: Lg Broken Leaf#1 42
+    100244: Lg Broken Leaf#1 43
+    100246: Lg Broken Leaf#1 5
+    100248: Lg Broken Leaf#1 6
+    100250: Lg Broken Leaf#1 7
+    100252: Lg Broken Leaf#1 8
+    100254: Lg Broken Leaf#1 9
+    100256: Lg Leaf#1
+    100258: Lg Leaf#1 1
+    100260: Lg Leaf#1 10
+    100262: Lg Leaf#1 11
+    100264: Lg Leaf#1 12
+    100266: Lg Leaf#1 13
+    100268: Lg Leaf#1 14
+    100270: Lg Leaf#1 15
+    100272: Lg Leaf#1 16
+    100274: Lg Leaf#1 17
+    100276: Lg Leaf#1 18
+    100278: Lg Leaf#1 19
+    100280: Lg Leaf#1 2
+    100282: Lg Leaf#1 20
+    100284: Lg Leaf#1 21
+    100286: Lg Leaf#1 22
+    100288: Lg Leaf#1 23
+    100290: Lg Leaf#1 24
+    100292: Lg Leaf#1 25
+    100294: Lg Leaf#1 26
+    100296: Lg Leaf#1 27
+    100298: Lg Leaf#1 28
+    100300: Lg Leaf#1 29
+    100302: Lg Leaf#1 3
+    100304: Lg Leaf#1 30
+    100306: Lg Leaf#1 31
+    100308: Lg Leaf#1 32
+    100310: Lg Leaf#1 4
+    100312: Lg Leaf#1 5
+    100314: Lg Leaf#1 6
+    100316: Lg Leaf#1 7
+    100318: Lg Leaf#1 8
+    100320: Lg Leaf#1 9
+    100322: Plant_Bird of Paradise
+    100324: Plant_Bird of Paradise 1
+    100326: Plant_Bird of Paradise 2
+    100328: Plant_Bird of Paradise 3
+    100330: Plant_Bird of Paradise 4
+    100332: Plant_Bird of Paradise 5
+    100334: Plant_Bird of Paradise 6
+    100336: //RootNode
+    100338: Tropical straight palm tree 30'
+    100340: truck tire
+    100342: truck tire 1
+    100344: truck tire 10
+    100346: truck tire 11
+    100348: truck tire 12
+    100350: truck tire 13
+    100352: truck tire 2
+    100354: truck tire 3
+    100356: truck tire 4
+    100358: truck tire 5
+    100360: truck tire 6
+    100362: truck tire 7
+    100364: truck tire 8
+    100366: truck tire 9
+    100368: trunk
+    400000: crown
+    400002: Group 11
+    400004: Group 117
+    400006: Group 118
+    400008: Group 119
+    400010: Group 125
+    400012: Group 155
+    400014: Group 156
+    400016: Group 157
+    400018: Group 163
+    400020: Group 193
+    400022: Group 194
+    400024: Group 195
+    400026: Group 199
+    400028: Group 230
+    400030: Group 231
+    400032: Group 232
+    400034: Group 236
+    400036: Group 267
+    400038: Group 268
+    400040: Group 269
+    400042: Group 275
+    400044: Group 305
+    400046: Group 306
+    400048: Group 307
+    400050: Group 311
+    400052: Group 342
+    400054: Group 343
+    400056: Group 344
+    400058: Group 348
+    400060: Group 42
+    400062: Group 43
+    400064: Group 44
+    400066: Group 5
+    400068: Group 50
+    400070: Group 6
+    400072: Group 7
+    400074: Group 80
+    400076: Group 81
+    400078: Group 82
+    400080: Group 86
+    400082: Group#111
+    400084: Group#111 1
+    400086: Group#111 2
+    400088: Group#111 3
+    400090: Group#111 4
+    400092: Group#111 5
+    400094: Group#118
+    400096: Group#118 1
+    400098: Group#118 2
+    400100: Group#118 3
+    400102: Lg Bent Leaf#1
+    400104: Lg Bent Leaf#1 1
+    400106: Lg Bent Leaf#1 10
+    400108: Lg Bent Leaf#1 11
+    400110: Lg Bent Leaf#1 12
+    400112: Lg Bent Leaf#1 13
+    400114: Lg Bent Leaf#1 14
+    400116: Lg Bent Leaf#1 15
+    400118: Lg Bent Leaf#1 16
+    400120: Lg Bent Leaf#1 17
+    400122: Lg Bent Leaf#1 18
+    400124: Lg Bent Leaf#1 19
+    400126: Lg Bent Leaf#1 2
+    400128: Lg Bent Leaf#1 20
+    400130: Lg Bent Leaf#1 21
+    400132: Lg Bent Leaf#1 22
+    400134: Lg Bent Leaf#1 23
+    400136: Lg Bent Leaf#1 24
+    400138: Lg Bent Leaf#1 25
+    400140: Lg Bent Leaf#1 26
+    400142: Lg Bent Leaf#1 27
+    400144: Lg Bent Leaf#1 28
+    400146: Lg Bent Leaf#1 29
+    400148: Lg Bent Leaf#1 3
+    400150: Lg Bent Leaf#1 30
+    400152: Lg Bent Leaf#1 31
+    400154: Lg Bent Leaf#1 32
+    400156: Lg Bent Leaf#1 4
+    400158: Lg Bent Leaf#1 5
+    400160: Lg Bent Leaf#1 6
+    400162: Lg Bent Leaf#1 7
+    400164: Lg Bent Leaf#1 8
+    400166: Lg Bent Leaf#1 9
+    400168: Lg Broken Leaf#1
+    400170: Lg Broken Leaf#1 1
+    400172: Lg Broken Leaf#1 10
+    400174: Lg Broken Leaf#1 11
+    400176: Lg Broken Leaf#1 12
+    400178: Lg Broken Leaf#1 13
+    400180: Lg Broken Leaf#1 14
+    400182: Lg Broken Leaf#1 15
+    400184: Lg Broken Leaf#1 16
+    400186: Lg Broken Leaf#1 17
+    400188: Lg Broken Leaf#1 18
+    400190: Lg Broken Leaf#1 19
+    400192: Lg Broken Leaf#1 2
+    400194: Lg Broken Leaf#1 20
+    400196: Lg Broken Leaf#1 21
+    400198: Lg Broken Leaf#1 22
+    400200: Lg Broken Leaf#1 23
+    400202: Lg Broken Leaf#1 24
+    400204: Lg Broken Leaf#1 25
+    400206: Lg Broken Leaf#1 26
+    400208: Lg Broken Leaf#1 27
+    400210: Lg Broken Leaf#1 28
+    400212: Lg Broken Leaf#1 29
+    400214: Lg Broken Leaf#1 3
+    400216: Lg Broken Leaf#1 30
+    400218: Lg Broken Leaf#1 31
+    400220: Lg Broken Leaf#1 32
+    400222: Lg Broken Leaf#1 33
+    400224: Lg Broken Leaf#1 34
+    400226: Lg Broken Leaf#1 35
+    400228: Lg Broken Leaf#1 36
+    400230: Lg Broken Leaf#1 37
+    400232: Lg Broken Leaf#1 38
+    400234: Lg Broken Leaf#1 39
+    400236: Lg Broken Leaf#1 4
+    400238: Lg Broken Leaf#1 40
+    400240: Lg Broken Leaf#1 41
+    400242: Lg Broken Leaf#1 42
+    400244: Lg Broken Leaf#1 43
+    400246: Lg Broken Leaf#1 5
+    400248: Lg Broken Leaf#1 6
+    400250: Lg Broken Leaf#1 7
+    400252: Lg Broken Leaf#1 8
+    400254: Lg Broken Leaf#1 9
+    400256: Lg Leaf#1
+    400258: Lg Leaf#1 1
+    400260: Lg Leaf#1 10
+    400262: Lg Leaf#1 11
+    400264: Lg Leaf#1 12
+    400266: Lg Leaf#1 13
+    400268: Lg Leaf#1 14
+    400270: Lg Leaf#1 15
+    400272: Lg Leaf#1 16
+    400274: Lg Leaf#1 17
+    400276: Lg Leaf#1 18
+    400278: Lg Leaf#1 19
+    400280: Lg Leaf#1 2
+    400282: Lg Leaf#1 20
+    400284: Lg Leaf#1 21
+    400286: Lg Leaf#1 22
+    400288: Lg Leaf#1 23
+    400290: Lg Leaf#1 24
+    400292: Lg Leaf#1 25
+    400294: Lg Leaf#1 26
+    400296: Lg Leaf#1 27
+    400298: Lg Leaf#1 28
+    400300: Lg Leaf#1 29
+    400302: Lg Leaf#1 3
+    400304: Lg Leaf#1 30
+    400306: Lg Leaf#1 31
+    400308: Lg Leaf#1 32
+    400310: Lg Leaf#1 4
+    400312: Lg Leaf#1 5
+    400314: Lg Leaf#1 6
+    400316: Lg Leaf#1 7
+    400318: Lg Leaf#1 8
+    400320: Lg Leaf#1 9
+    400322: Plant_Bird of Paradise
+    400324: Plant_Bird of Paradise 1
+    400326: Plant_Bird of Paradise 2
+    400328: Plant_Bird of Paradise 3
+    400330: Plant_Bird of Paradise 4
+    400332: Plant_Bird of Paradise 5
+    400334: Plant_Bird of Paradise 6
+    400336: //RootNode
+    400338: Tropical straight palm tree 30'
+    400340: truck tire
+    400342: truck tire 1
+    400344: truck tire 10
+    400346: truck tire 11
+    400348: truck tire 12
+    400350: truck tire 13
+    400352: truck tire 2
+    400354: truck tire 3
+    400356: truck tire 4
+    400358: truck tire 5
+    400360: truck tire 6
+    400362: truck tire 7
+    400364: truck tire 8
+    400366: truck tire 9
+    400368: trunk
+    2300000: crown
+    2300002: Group 11
+    2300004: Group 119
+    2300006: Group 125
+    2300008: Group 157
+    2300010: Group 163
+    2300012: Group 195
+    2300014: Group 199
+    2300016: Group 232
+    2300018: Group 236
+    2300020: Group 269
+    2300022: Group 275
+    2300024: Group 307
+    2300026: Group 311
+    2300028: Group 344
+    2300030: Group 348
+    2300032: Group 44
+    2300034: Group 50
+    2300036: Group 7
+    2300038: Group 82
+    2300040: Group 86
+    2300042: Lg Bent Leaf#1
+    2300044: Lg Bent Leaf#1 1
+    2300046: Lg Bent Leaf#1 10
+    2300048: Lg Bent Leaf#1 11
+    2300050: Lg Bent Leaf#1 12
+    2300052: Lg Bent Leaf#1 13
+    2300054: Lg Bent Leaf#1 14
+    2300056: Lg Bent Leaf#1 15
+    2300058: Lg Bent Leaf#1 16
+    2300060: Lg Bent Leaf#1 17
+    2300062: Lg Bent Leaf#1 18
+    2300064: Lg Bent Leaf#1 19
+    2300066: Lg Bent Leaf#1 2
+    2300068: Lg Bent Leaf#1 20
+    2300070: Lg Bent Leaf#1 21
+    2300072: Lg Bent Leaf#1 22
+    2300074: Lg Bent Leaf#1 23
+    2300076: Lg Bent Leaf#1 24
+    2300078: Lg Bent Leaf#1 25
+    2300080: Lg Bent Leaf#1 26
+    2300082: Lg Bent Leaf#1 27
+    2300084: Lg Bent Leaf#1 28
+    2300086: Lg Bent Leaf#1 29
+    2300088: Lg Bent Leaf#1 3
+    2300090: Lg Bent Leaf#1 30
+    2300092: Lg Bent Leaf#1 31
+    2300094: Lg Bent Leaf#1 32
+    2300096: Lg Bent Leaf#1 4
+    2300098: Lg Bent Leaf#1 5
+    2300100: Lg Bent Leaf#1 6
+    2300102: Lg Bent Leaf#1 7
+    2300104: Lg Bent Leaf#1 8
+    2300106: Lg Bent Leaf#1 9
+    2300108: Lg Broken Leaf#1
+    2300110: Lg Broken Leaf#1 1
+    2300112: Lg Broken Leaf#1 10
+    2300114: Lg Broken Leaf#1 11
+    2300116: Lg Broken Leaf#1 12
+    2300118: Lg Broken Leaf#1 13
+    2300120: Lg Broken Leaf#1 14
+    2300122: Lg Broken Leaf#1 15
+    2300124: Lg Broken Leaf#1 16
+    2300126: Lg Broken Leaf#1 17
+    2300128: Lg Broken Leaf#1 18
+    2300130: Lg Broken Leaf#1 19
+    2300132: Lg Broken Leaf#1 2
+    2300134: Lg Broken Leaf#1 20
+    2300136: Lg Broken Leaf#1 21
+    2300138: Lg Broken Leaf#1 22
+    2300140: Lg Broken Leaf#1 23
+    2300142: Lg Broken Leaf#1 24
+    2300144: Lg Broken Leaf#1 25
+    2300146: Lg Broken Leaf#1 26
+    2300148: Lg Broken Leaf#1 27
+    2300150: Lg Broken Leaf#1 28
+    2300152: Lg Broken Leaf#1 29
+    2300154: Lg Broken Leaf#1 3
+    2300156: Lg Broken Leaf#1 30
+    2300158: Lg Broken Leaf#1 31
+    2300160: Lg Broken Leaf#1 32
+    2300162: Lg Broken Leaf#1 33
+    2300164: Lg Broken Leaf#1 34
+    2300166: Lg Broken Leaf#1 35
+    2300168: Lg Broken Leaf#1 36
+    2300170: Lg Broken Leaf#1 37
+    2300172: Lg Broken Leaf#1 38
+    2300174: Lg Broken Leaf#1 39
+    2300176: Lg Broken Leaf#1 4
+    2300178: Lg Broken Leaf#1 40
+    2300180: Lg Broken Leaf#1 41
+    2300182: Lg Broken Leaf#1 42
+    2300184: Lg Broken Leaf#1 43
+    2300186: Lg Broken Leaf#1 5
+    2300188: Lg Broken Leaf#1 6
+    2300190: Lg Broken Leaf#1 7
+    2300192: Lg Broken Leaf#1 8
+    2300194: Lg Broken Leaf#1 9
+    2300196: Lg Leaf#1
+    2300198: Lg Leaf#1 1
+    2300200: Lg Leaf#1 10
+    2300202: Lg Leaf#1 11
+    2300204: Lg Leaf#1 12
+    2300206: Lg Leaf#1 13
+    2300208: Lg Leaf#1 14
+    2300210: Lg Leaf#1 15
+    2300212: Lg Leaf#1 16
+    2300214: Lg Leaf#1 17
+    2300216: Lg Leaf#1 18
+    2300218: Lg Leaf#1 19
+    2300220: Lg Leaf#1 2
+    2300222: Lg Leaf#1 20
+    2300224: Lg Leaf#1 21
+    2300226: Lg Leaf#1 22
+    2300228: Lg Leaf#1 23
+    2300230: Lg Leaf#1 24
+    2300232: Lg Leaf#1 25
+    2300234: Lg Leaf#1 26
+    2300236: Lg Leaf#1 27
+    2300238: Lg Leaf#1 28
+    2300240: Lg Leaf#1 29
+    2300242: Lg Leaf#1 3
+    2300244: Lg Leaf#1 30
+    2300246: Lg Leaf#1 31
+    2300248: Lg Leaf#1 32
+    2300250: Lg Leaf#1 4
+    2300252: Lg Leaf#1 5
+    2300254: Lg Leaf#1 6
+    2300256: Lg Leaf#1 7
+    2300258: Lg Leaf#1 8
+    2300260: Lg Leaf#1 9
+    2300262: //RootNode
+    2300264: truck tire
+    2300266: truck tire 1
+    2300268: truck tire 10
+    2300270: truck tire 11
+    2300272: truck tire 12
+    2300274: truck tire 13
+    2300276: truck tire 2
+    2300278: truck tire 3
+    2300280: truck tire 4
+    2300282: truck tire 5
+    2300284: truck tire 6
+    2300286: truck tire 7
+    2300288: truck tire 8
+    2300290: truck tire 9
+    2300292: trunk
+    3300000: crown
+    3300002: Group 11
+    3300004: Group 119
+    3300006: Group 125
+    3300008: Group 157
+    3300010: Group 163
+    3300012: Group 195
+    3300014: Group 199
+    3300016: Group 232
+    3300018: Group 236
+    3300020: Group 269
+    3300022: Group 275
+    3300024: Group 307
+    3300026: Group 311
+    3300028: Group 344
+    3300030: Group 348
+    3300032: Group 44
+    3300034: Group 50
+    3300036: Group 7
+    3300038: Group 82
+    3300040: Group 86
+    3300042: Lg Bent Leaf#1
+    3300044: Lg Bent Leaf#1 1
+    3300046: Lg Bent Leaf#1 10
+    3300048: Lg Bent Leaf#1 11
+    3300050: Lg Bent Leaf#1 12
+    3300052: Lg Bent Leaf#1 13
+    3300054: Lg Bent Leaf#1 14
+    3300056: Lg Bent Leaf#1 15
+    3300058: Lg Bent Leaf#1 16
+    3300060: Lg Bent Leaf#1 17
+    3300062: Lg Bent Leaf#1 18
+    3300064: Lg Bent Leaf#1 19
+    3300066: Lg Bent Leaf#1 2
+    3300068: Lg Bent Leaf#1 20
+    3300070: Lg Bent Leaf#1 21
+    3300072: Lg Bent Leaf#1 22
+    3300074: Lg Bent Leaf#1 23
+    3300076: Lg Bent Leaf#1 24
+    3300078: Lg Bent Leaf#1 25
+    3300080: Lg Bent Leaf#1 26
+    3300082: Lg Bent Leaf#1 27
+    3300084: Lg Bent Leaf#1 28
+    3300086: Lg Bent Leaf#1 29
+    3300088: Lg Bent Leaf#1 3
+    3300090: Lg Bent Leaf#1 30
+    3300092: Lg Bent Leaf#1 31
+    3300094: Lg Bent Leaf#1 32
+    3300096: Lg Bent Leaf#1 4
+    3300098: Lg Bent Leaf#1 5
+    3300100: Lg Bent Leaf#1 6
+    3300102: Lg Bent Leaf#1 7
+    3300104: Lg Bent Leaf#1 8
+    3300106: Lg Bent Leaf#1 9
+    3300108: Lg Broken Leaf#1
+    3300110: Lg Broken Leaf#1 1
+    3300112: Lg Broken Leaf#1 10
+    3300114: Lg Broken Leaf#1 11
+    3300116: Lg Broken Leaf#1 12
+    3300118: Lg Broken Leaf#1 13
+    3300120: Lg Broken Leaf#1 14
+    3300122: Lg Broken Leaf#1 15
+    3300124: Lg Broken Leaf#1 16
+    3300126: Lg Broken Leaf#1 17
+    3300128: Lg Broken Leaf#1 18
+    3300130: Lg Broken Leaf#1 19
+    3300132: Lg Broken Leaf#1 2
+    3300134: Lg Broken Leaf#1 20
+    3300136: Lg Broken Leaf#1 21
+    3300138: Lg Broken Leaf#1 22
+    3300140: Lg Broken Leaf#1 23
+    3300142: Lg Broken Leaf#1 24
+    3300144: Lg Broken Leaf#1 25
+    3300146: Lg Broken Leaf#1 26
+    3300148: Lg Broken Leaf#1 27
+    3300150: Lg Broken Leaf#1 28
+    3300152: Lg Broken Leaf#1 29
+    3300154: Lg Broken Leaf#1 3
+    3300156: Lg Broken Leaf#1 30
+    3300158: Lg Broken Leaf#1 31
+    3300160: Lg Broken Leaf#1 32
+    3300162: Lg Broken Leaf#1 33
+    3300164: Lg Broken Leaf#1 34
+    3300166: Lg Broken Leaf#1 35
+    3300168: Lg Broken Leaf#1 36
+    3300170: Lg Broken Leaf#1 37
+    3300172: Lg Broken Leaf#1 38
+    3300174: Lg Broken Leaf#1 39
+    3300176: Lg Broken Leaf#1 4
+    3300178: Lg Broken Leaf#1 40
+    3300180: Lg Broken Leaf#1 41
+    3300182: Lg Broken Leaf#1 42
+    3300184: Lg Broken Leaf#1 43
+    3300186: Lg Broken Leaf#1 5
+    3300188: Lg Broken Leaf#1 6
+    3300190: Lg Broken Leaf#1 7
+    3300192: Lg Broken Leaf#1 8
+    3300194: Lg Broken Leaf#1 9
+    3300196: Lg Leaf#1
+    3300198: Lg Leaf#1 1
+    3300200: Lg Leaf#1 10
+    3300202: Lg Leaf#1 11
+    3300204: Lg Leaf#1 12
+    3300206: Lg Leaf#1 13
+    3300208: Lg Leaf#1 14
+    3300210: Lg Leaf#1 15
+    3300212: Lg Leaf#1 16
+    3300214: Lg Leaf#1 17
+    3300216: Lg Leaf#1 18
+    3300218: Lg Leaf#1 19
+    3300220: Lg Leaf#1 2
+    3300222: Lg Leaf#1 20
+    3300224: Lg Leaf#1 21
+    3300226: Lg Leaf#1 22
+    3300228: Lg Leaf#1 23
+    3300230: Lg Leaf#1 24
+    3300232: Lg Leaf#1 25
+    3300234: Lg Leaf#1 26
+    3300236: Lg Leaf#1 27
+    3300238: Lg Leaf#1 28
+    3300240: Lg Leaf#1 29
+    3300242: Lg Leaf#1 3
+    3300244: Lg Leaf#1 30
+    3300246: Lg Leaf#1 31
+    3300248: Lg Leaf#1 32
+    3300250: Lg Leaf#1 4
+    3300252: Lg Leaf#1 5
+    3300254: Lg Leaf#1 6
+    3300256: Lg Leaf#1 7
+    3300258: Lg Leaf#1 8
+    3300260: Lg Leaf#1 9
+    3300262: //RootNode
+    3300264: truck tire
+    3300266: truck tire 1
+    3300268: truck tire 10
+    3300270: truck tire 11
+    3300272: truck tire 12
+    3300274: truck tire 13
+    3300276: truck tire 2
+    3300278: truck tire 3
+    3300280: truck tire 4
+    3300282: truck tire 5
+    3300284: truck tire 6
+    3300286: truck tire 7
+    3300288: truck tire 8
+    3300290: truck tire 9
+    3300292: trunk
+    4300000: Mesh sensory_garden
+    4300002: Mesh Group 7
+    4300004: Mesh truck tire
+    4300006: Mesh Group 11
+    4300008: Mesh Lg Leaf#1
+    4300010: Mesh Lg Bent Leaf#1
+    4300012: Mesh Lg Broken Leaf#1
+    4300014: Mesh Group 50
+    4300016: Mesh Lg Bent Leaf#1
+    4300018: Mesh Lg Broken Leaf#1
+    4300020: Mesh Lg Leaf#1
+    4300022: Mesh crown
+    4300024: Mesh trunk
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: natural
+  assetBundleVariant: 

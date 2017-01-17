@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 9c48cb8688784704a806a6040863335a
+timeCreated: 1483747501
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8eb3afc05ed6e0ecde09346d3e1454d6
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -7.648833, y: 8.435684, z: -7.8507004}
+      lookAt: {x: 0.054127365, y: 0.7327244, z: -0.14774004}
+      up: {x: 0.4082483, y: 0.8164966, z: 0.4082483}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 160.14667
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#10
+    100004: Component#10 1
+    100006: Component#2
+    100008: Component#2 1
+    100010: Component#2 2
+    100012: Component#2 3
+    100014: Component#3
+    100016: Component#3 1
+    100018: Component#3 2
+    100020: Component#3 3
+    100022: Component#7
+    100024: Component#8
+    100026: Component#8 1
+    100028: Component#8 2
+    100030: Component#8 3
+    100032: Component#9
+    100034: Group 1
+    100036: Group 12
+    100038: Group 2
+    100040: Group 7
+    100042: Group#3
+    100044: Group#3 1
+    100046: Group#3 2
+    100048: Group#3 3
+    100050: Group#5
+    100052: Group#5 1
+    100054: Group#5 2
+    400000: //RootNode
+    400002: Component#10
+    400004: Component#10 1
+    400006: Component#2
+    400008: Component#2 1
+    400010: Component#2 2
+    400012: Component#2 3
+    400014: Component#3
+    400016: Component#3 1
+    400018: Component#3 2
+    400020: Component#3 3
+    400022: Component#7
+    400024: Component#8
+    400026: Component#8 1
+    400028: Component#8 2
+    400030: Component#8 3
+    400032: Component#9
+    400034: Group 1
+    400036: Group 12
+    400038: Group 2
+    400040: Group 7
+    400042: Group#3
+    400044: Group#3 1
+    400046: Group#3 2
+    400048: Group#3 3
+    400050: Group#5
+    400052: Group#5 1
+    400054: Group#5 2
+    2300000: Component#10
+    2300002: Component#10 1
+    2300004: Component#3
+    2300006: Component#3 1
+    2300008: Component#3 2
+    2300010: Component#3 3
+    2300012: Component#7
+    2300014: Component#8
+    2300016: Component#8 1
+    2300018: Component#8 2
+    2300020: Component#8 3
+    2300022: Component#9
+    2300024: Group#3
+    2300026: Group#3 1
+    2300028: Group#3 2
+    2300030: Group#3 3
+    2300032: Group#5
+    2300034: Group#5 1
+    2300036: Group#5 2
+    3300000: Component#10
+    3300002: Component#10 1
+    3300004: Component#3
+    3300006: Component#3 1
+    3300008: Component#3 2
+    3300010: Component#3 3
+    3300012: Component#7
+    3300014: Component#8
+    3300016: Component#8 1
+    3300018: Component#8 2
+    3300020: Component#8 3
+    3300022: Component#9
+    3300024: Group#3
+    3300026: Group#3 1
+    3300028: Group#3 2
+    3300030: Group#3 3
+    3300032: Group#5
+    3300034: Group#5 1
+    3300036: Group#5 2
+    4300000: Mesh Group#3
+    4300002: Mesh Component#3
+    4300004: Mesh Component#7
+    4300006: Mesh Component#9
+    4300008: Mesh Group#5
+    4300010: Mesh Component#8
+    4300012: Mesh Component#10
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: bridges
+  assetBundleVariant: 

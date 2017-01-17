@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 4d506a8230681784a8e8cffa7db30f67
+timeCreated: 1483747411
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c010000
+  assetHash:
+    serializedVersion: 2
+    Hash: f317344bc65f1410e90cb97a7e60ed2c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.08791641, y: 0.6889317, z: -6.016829}
+      lookAt: {x: -0.1518306, y: 0.32752317, z: -1.096621}
+      up: {x: -0.0009514527, y: 0.9973136, z: 0.073244244}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 84.39511
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10 thread
+    100002: 10 thread 1
+    100004: 10 thread 10
+    100006: 10 thread 100
+    100008: 10 thread 101
+    100010: 10 thread 102
+    100012: 10 thread 103
+    100014: 10 thread 104
+    100016: 10 thread 105
+    100018: 10 thread 106
+    100020: 10 thread 107
+    100022: 10 thread 108
+    100024: 10 thread 109
+    100026: 10 thread 11
+    100028: 10 thread 110
+    100030: 10 thread 12
+    100032: 10 thread 13
+    100034: 10 thread 14
+    100036: 10 thread 15
+    100038: 10 thread 16
+    100040: 10 thread 17
+    100042: 10 thread 18
+    100044: 10 thread 19
+    100046: 10 thread 2
+    100048: 10 thread 20
+    100050: 10 thread 21
+    100052: 10 thread 22
+    100054: 10 thread 23
+    100056: 10 thread 24
+    100058: 10 thread 25
+    100060: 10 thread 26
+    100062: 10 thread 27
+    100064: 10 thread 28
+    100066: 10 thread 29
+    100068: 10 thread 3
+    100070: 10 thread 30
+    100072: 10 thread 31
+    100074: 10 thread 32
+    100076: 10 thread 33
+    100078: 10 thread 34
+    100080: 10 thread 35
+    100082: 10 thread 36
+    100084: 10 thread 37
+    100086: 10 thread 38
+    100088: 10 thread 39
+    100090: 10 thread 4
+    100092: 10 thread 40
+    100094: 10 thread 41
+    100096: 10 thread 42
+    100098: 10 thread 43
+    100100: 10 thread 44
+    100102: 10 thread 45
+    100104: 10 thread 46
+    100106: 10 thread 47
+    100108: 10 thread 48
+    100110: 10 thread 49
+    100112: 10 thread 5
+    100114: 10 thread 50
+    100116: 10 thread 51
+    100118: 10 thread 52
+    100120: 10 thread 53
+    100122: 10 thread 54
+    100124: 10 thread 55
+    100126: 10 thread 56
+    100128: 10 thread 57
+    100130: 10 thread 58
+    100132: 10 thread 59
+    100134: 10 thread 6
+    100136: 10 thread 60
+    100138: 10 thread 61
+    100140: 10 thread 62
+    100142: 10 thread 63
+    100144: 10 thread 64
+    100146: 10 thread 65
+    100148: 10 thread 66
+    100150: 10 thread 67
+    100152: 10 thread 68
+    100154: 10 thread 69
+    100156: 10 thread 7
+    100158: 10 thread 70
+    100160: 10 thread 71
+    100162: 10 thread 72
+    100164: 10 thread 73
+    100166: 10 thread 74
+    100168: 10 thread 75
+    100170: 10 thread 76
+    100172: 10 thread 77
+    100174: 10 thread 78
+    100176: 10 thread 79
+    100178: 10 thread 8
+    100180: 10 thread 80
+    100182: 10 thread 81
+    100184: 10 thread 82
+    100186: 10 thread 83
+    100188: 10 thread 84
+    100190: 10 thread 85
+    100192: 10 thread 86
+    100194: 10 thread 87
+    100196: 10 thread 88
+    100198: 10 thread 89
+    100200: 10 thread 9
+    100202: 10 thread 90
+    100204: 10 thread 91
+    100206: 10 thread 92
+    100208: 10 thread 93
+    100210: 10 thread 94
+    100212: 10 thread 95
+    100214: 10 thread 96
+    100216: 10 thread 97
+    100218: 10 thread 98
+    100220: 10 thread 99
+    100222: Component#2
+    100224: Component#2 1
+    100226: Component#2 2
+    100228: Component#2 3
+    100230: Component#2 4
+    100232: Component#2 5
+    100234: Component#4
+    100236: Component#4 1
+    100238: Component#4 2
+    100240: Group 1
+    100242: Group 10
+    100244: Group 105
+    100246: Group 112
+    100248: Group 12
+    100250: Group 121
+    100252: Group 133
+    100254: Group 134
+    100256: Group 135
+    100258: Group 14
+    100260: Group 16
+    100262: Group 170
+    100264: Group 18
+    100266: Group 191
+    100268: Group 2
+    100270: Group 20
+    100272: Group 214
+    100274: Group 221
+    100276: Group 230
+    100278: Group 24
+    100280: Group 242
+    100282: Group 243
+    100284: Group 244
+    100286: Group 25
+    100288: Group 26
+    100290: Group 279
+    100292: Group 300
+    100294: Group 323
+    100296: Group 330
+    100298: Group 339
+    100300: Group 4
+    100302: Group 6
+    100304: Group 61
+    100306: Group 8
+    100308: Group 82
+    100310: Group#24
+    100312: Group#24 1
+    100314: Group#24 2
+    100316: Group#24 3
+    100318: Group#24 4
+    100320: Group#24 5
+    100322: Hex bolt M5-25#10
+    100324: Hex bolt M5-25#10 1
+    100326: Hex bolt M5-25#10 2
+    100328: Hex nut M5#4
+    100330: Hex nut M5#4 1
+    100332: Hex nut M5#4 2
+    100334: Hex nut M5#4 3
+    100336: Hex nut M5#4 4
+    100338: Hex nut M5#4 5
+    100340: Mount
+    100342: Mount 1
+    100344: Mount 2
+    100346: Rubber Mount
+    100348: Rubber Mount 1
+    100350: Rubber Mount 2
+    100352: //RootNode
+    100354: WASHER#4
+    100356: WASHER#4 1
+    100358: WASHER#4 10
+    100360: WASHER#4 11
+    100362: WASHER#4 2
+    100364: WASHER#4 3
+    100366: WASHER#4 4
+    100368: WASHER#4 5
+    100370: WASHER#4 6
+    100372: WASHER#4 7
+    100374: WASHER#4 8
+    100376: WASHER#4 9
+    400000: 10 thread
+    400002: 10 thread 1
+    400004: 10 thread 10
+    400006: 10 thread 100
+    400008: 10 thread 101
+    400010: 10 thread 102
+    400012: 10 thread 103
+    400014: 10 thread 104
+    400016: 10 thread 105
+    400018: 10 thread 106
+    400020: 10 thread 107
+    400022: 10 thread 108
+    400024: 10 thread 109
+    400026: 10 thread 11
+    400028: 10 thread 110
+    400030: 10 thread 12
+    400032: 10 thread 13
+    400034: 10 thread 14
+    400036: 10 thread 15
+    400038: 10 thread 16
+    400040: 10 thread 17
+    400042: 10 thread 18
+    400044: 10 thread 19
+    400046: 10 thread 2
+    400048: 10 thread 20
+    400050: 10 thread 21
+    400052: 10 thread 22
+    400054: 10 thread 23
+    400056: 10 thread 24
+    400058: 10 thread 25
+    400060: 10 thread 26
+    400062: 10 thread 27
+    400064: 10 thread 28
+    400066: 10 thread 29
+    400068: 10 thread 3
+    400070: 10 thread 30
+    400072: 10 thread 31
+    400074: 10 thread 32
+    400076: 10 thread 33
+    400078: 10 thread 34
+    400080: 10 thread 35
+    400082: 10 thread 36
+    400084: 10 thread 37
+    400086: 10 thread 38
+    400088: 10 thread 39
+    400090: 10 thread 4
+    400092: 10 thread 40
+    400094: 10 thread 41
+    400096: 10 thread 42
+    400098: 10 thread 43
+    400100: 10 thread 44
+    400102: 10 thread 45
+    400104: 10 thread 46
+    400106: 10 thread 47
+    400108: 10 thread 48
+    400110: 10 thread 49
+    400112: 10 thread 5
+    400114: 10 thread 50
+    400116: 10 thread 51
+    400118: 10 thread 52
+    400120: 10 thread 53
+    400122: 10 thread 54
+    400124: 10 thread 55
+    400126: 10 thread 56
+    400128: 10 thread 57
+    400130: 10 thread 58
+    400132: 10 thread 59
+    400134: 10 thread 6
+    400136: 10 thread 60
+    400138: 10 thread 61
+    400140: 10 thread 62
+    400142: 10 thread 63
+    400144: 10 thread 64
+    400146: 10 thread 65
+    400148: 10 thread 66
+    400150: 10 thread 67
+    400152: 10 thread 68
+    400154: 10 thread 69
+    400156: 10 thread 7
+    400158: 10 thread 70
+    400160: 10 thread 71
+    400162: 10 thread 72
+    400164: 10 thread 73
+    400166: 10 thread 74
+    400168: 10 thread 75
+    400170: 10 thread 76
+    400172: 10 thread 77
+    400174: 10 thread 78
+    400176: 10 thread 79
+    400178: 10 thread 8
+    400180: 10 thread 80
+    400182: 10 thread 81
+    400184: 10 thread 82
+    400186: 10 thread 83
+    400188: 10 thread 84
+    400190: 10 thread 85
+    400192: 10 thread 86
+    400194: 10 thread 87
+    400196: 10 thread 88
+    400198: 10 thread 89
+    400200: 10 thread 9
+    400202: 10 thread 90
+    400204: 10 thread 91
+    400206: 10 thread 92
+    400208: 10 thread 93
+    400210: 10 thread 94
+    400212: 10 thread 95
+    400214: 10 thread 96
+    400216: 10 thread 97
+    400218: 10 thread 98
+    400220: 10 thread 99
+    400222: Component#2
+    400224: Component#2 1
+    400226: Component#2 2
+    400228: Component#2 3
+    400230: Component#2 4
+    400232: Component#2 5
+    400234: Component#4
+    400236: Component#4 1
+    400238: Component#4 2
+    400240: Group 1
+    400242: Group 10
+    400244: Group 105
+    400246: Group 112
+    400248: Group 12
+    400250: Group 121
+    400252: Group 133
+    400254: Group 134
+    400256: Group 135
+    400258: Group 14
+    400260: Group 16
+    400262: Group 170
+    400264: Group 18
+    400266: Group 191
+    400268: Group 2
+    400270: Group 20
+    400272: Group 214
+    400274: Group 221
+    400276: Group 230
+    400278: Group 24
+    400280: Group 242
+    400282: Group 243
+    400284: Group 244
+    400286: Group 25
+    400288: Group 26
+    400290: Group 279
+    400292: Group 300
+    400294: Group 323
+    400296: Group 330
+    400298: Group 339
+    400300: Group 4
+    400302: Group 6
+    400304: Group 61
+    400306: Group 8
+    400308: Group 82
+    400310: Group#24
+    400312: Group#24 1
+    400314: Group#24 2
+    400316: Group#24 3
+    400318: Group#24 4
+    400320: Group#24 5
+    400322: Hex bolt M5-25#10
+    400324: Hex bolt M5-25#10 1
+    400326: Hex bolt M5-25#10 2
+    400328: Hex nut M5#4
+    400330: Hex nut M5#4 1
+    400332: Hex nut M5#4 2
+    400334: Hex nut M5#4 3
+    400336: Hex nut M5#4 4
+    400338: Hex nut M5#4 5
+    400340: Mount
+    400342: Mount 1
+    400344: Mount 2
+    400346: Rubber Mount
+    400348: Rubber Mount 1
+    400350: Rubber Mount 2
+    400352: //RootNode
+    400354: WASHER#4
+    400356: WASHER#4 1
+    400358: WASHER#4 10
+    400360: WASHER#4 11
+    400362: WASHER#4 2
+    400364: WASHER#4 3
+    400366: WASHER#4 4
+    400368: WASHER#4 5
+    400370: WASHER#4 6
+    400372: WASHER#4 7
+    400374: WASHER#4 8
+    400376: WASHER#4 9
+    2300000: 10 thread
+    2300002: 10 thread 1
+    2300004: 10 thread 10
+    2300006: 10 thread 100
+    2300008: 10 thread 101
+    2300010: 10 thread 102
+    2300012: 10 thread 103
+    2300014: 10 thread 104
+    2300016: 10 thread 105
+    2300018: 10 thread 106
+    2300020: 10 thread 107
+    2300022: 10 thread 108
+    2300024: 10 thread 109
+    2300026: 10 thread 11
+    2300028: 10 thread 110
+    2300030: 10 thread 12
+    2300032: 10 thread 13
+    2300034: 10 thread 14
+    2300036: 10 thread 15
+    2300038: 10 thread 16
+    2300040: 10 thread 17
+    2300042: 10 thread 18
+    2300044: 10 thread 19
+    2300046: 10 thread 2
+    2300048: 10 thread 20
+    2300050: 10 thread 21
+    2300052: 10 thread 22
+    2300054: 10 thread 23
+    2300056: 10 thread 24
+    2300058: 10 thread 25
+    2300060: 10 thread 26
+    2300062: 10 thread 27
+    2300064: 10 thread 28
+    2300066: 10 thread 29
+    2300068: 10 thread 3
+    2300070: 10 thread 30
+    2300072: 10 thread 31
+    2300074: 10 thread 32
+    2300076: 10 thread 33
+    2300078: 10 thread 34
+    2300080: 10 thread 35
+    2300082: 10 thread 36
+    2300084: 10 thread 37
+    2300086: 10 thread 38
+    2300088: 10 thread 39
+    2300090: 10 thread 4
+    2300092: 10 thread 40
+    2300094: 10 thread 41
+    2300096: 10 thread 42
+    2300098: 10 thread 43
+    2300100: 10 thread 44
+    2300102: 10 thread 45
+    2300104: 10 thread 46
+    2300106: 10 thread 47
+    2300108: 10 thread 48
+    2300110: 10 thread 49
+    2300112: 10 thread 5
+    2300114: 10 thread 50
+    2300116: 10 thread 51
+    2300118: 10 thread 52
+    2300120: 10 thread 53
+    2300122: 10 thread 54
+    2300124: 10 thread 55
+    2300126: 10 thread 56
+    2300128: 10 thread 57
+    2300130: 10 thread 58
+    2300132: 10 thread 59
+    2300134: 10 thread 6
+    2300136: 10 thread 60
+    2300138: 10 thread 61
+    2300140: 10 thread 62
+    2300142: 10 thread 63
+    2300144: 10 thread 64
+    2300146: 10 thread 65
+    2300148: 10 thread 66
+    2300150: 10 thread 67
+    2300152: 10 thread 68
+    2300154: 10 thread 69
+    2300156: 10 thread 7
+    2300158: 10 thread 70
+    2300160: 10 thread 71
+    2300162: 10 thread 72
+    2300164: 10 thread 73
+    2300166: 10 thread 74
+    2300168: 10 thread 75
+    2300170: 10 thread 76
+    2300172: 10 thread 77
+    2300174: 10 thread 78
+    2300176: 10 thread 79
+    2300178: 10 thread 8
+    2300180: 10 thread 80
+    2300182: 10 thread 81
+    2300184: 10 thread 82
+    2300186: 10 thread 83
+    2300188: 10 thread 84
+    2300190: 10 thread 85
+    2300192: 10 thread 86
+    2300194: 10 thread 87
+    2300196: 10 thread 88
+    2300198: 10 thread 89
+    2300200: 10 thread 9
+    2300202: 10 thread 90
+    2300204: 10 thread 91
+    2300206: 10 thread 92
+    2300208: 10 thread 93
+    2300210: 10 thread 94
+    2300212: 10 thread 95
+    2300214: 10 thread 96
+    2300216: 10 thread 97
+    2300218: 10 thread 98
+    2300220: 10 thread 99
+    2300222: Component#2
+    2300224: Component#2 1
+    2300226: Component#2 2
+    2300228: Component#2 3
+    2300230: Component#2 4
+    2300232: Component#2 5
+    2300234: Group 10
+    2300236: Group 105
+    2300238: Group 112
+    2300240: Group 12
+    2300242: Group 121
+    2300244: Group 14
+    2300246: Group 16
+    2300248: Group 18
+    2300250: Group 2
+    2300252: Group 20
+    2300254: Group 214
+    2300256: Group 221
+    2300258: Group 230
+    2300260: Group 323
+    2300262: Group 330
+    2300264: Group 339
+    2300266: Group 4
+    2300268: Group 6
+    2300270: Group 8
+    2300272: Hex bolt M5-25#10
+    2300274: Hex bolt M5-25#10 1
+    2300276: Hex bolt M5-25#10 2
+    2300278: Hex nut M5#4
+    2300280: Hex nut M5#4 1
+    2300282: Hex nut M5#4 2
+    2300284: Hex nut M5#4 3
+    2300286: Hex nut M5#4 4
+    2300288: Hex nut M5#4 5
+    2300290: Rubber Mount
+    2300292: Rubber Mount 1
+    2300294: Rubber Mount 2
+    2300296: WASHER#4
+    2300298: WASHER#4 1
+    2300300: WASHER#4 10
+    2300302: WASHER#4 11
+    2300304: WASHER#4 2
+    2300306: WASHER#4 3
+    2300308: WASHER#4 4
+    2300310: WASHER#4 5
+    2300312: WASHER#4 6
+    2300314: WASHER#4 7
+    2300316: WASHER#4 8
+    2300318: WASHER#4 9
+    3300000: 10 thread
+    3300002: 10 thread 1
+    3300004: 10 thread 10
+    3300006: 10 thread 100
+    3300008: 10 thread 101
+    3300010: 10 thread 102
+    3300012: 10 thread 103
+    3300014: 10 thread 104
+    3300016: 10 thread 105
+    3300018: 10 thread 106
+    3300020: 10 thread 107
+    3300022: 10 thread 108
+    3300024: 10 thread 109
+    3300026: 10 thread 11
+    3300028: 10 thread 110
+    3300030: 10 thread 12
+    3300032: 10 thread 13
+    3300034: 10 thread 14
+    3300036: 10 thread 15
+    3300038: 10 thread 16
+    3300040: 10 thread 17
+    3300042: 10 thread 18
+    3300044: 10 thread 19
+    3300046: 10 thread 2
+    3300048: 10 thread 20
+    3300050: 10 thread 21
+    3300052: 10 thread 22
+    3300054: 10 thread 23
+    3300056: 10 thread 24
+    3300058: 10 thread 25
+    3300060: 10 thread 26
+    3300062: 10 thread 27
+    3300064: 10 thread 28
+    3300066: 10 thread 29
+    3300068: 10 thread 3
+    3300070: 10 thread 30
+    3300072: 10 thread 31
+    3300074: 10 thread 32
+    3300076: 10 thread 33
+    3300078: 10 thread 34
+    3300080: 10 thread 35
+    3300082: 10 thread 36
+    3300084: 10 thread 37
+    3300086: 10 thread 38
+    3300088: 10 thread 39
+    3300090: 10 thread 4
+    3300092: 10 thread 40
+    3300094: 10 thread 41
+    3300096: 10 thread 42
+    3300098: 10 thread 43
+    3300100: 10 thread 44
+    3300102: 10 thread 45
+    3300104: 10 thread 46
+    3300106: 10 thread 47
+    3300108: 10 thread 48
+    3300110: 10 thread 49
+    3300112: 10 thread 5
+    3300114: 10 thread 50
+    3300116: 10 thread 51
+    3300118: 10 thread 52
+    3300120: 10 thread 53
+    3300122: 10 thread 54
+    3300124: 10 thread 55
+    3300126: 10 thread 56
+    3300128: 10 thread 57
+    3300130: 10 thread 58
+    3300132: 10 thread 59
+    3300134: 10 thread 6
+    3300136: 10 thread 60
+    3300138: 10 thread 61
+    3300140: 10 thread 62
+    3300142: 10 thread 63
+    3300144: 10 thread 64
+    3300146: 10 thread 65
+    3300148: 10 thread 66
+    3300150: 10 thread 67
+    3300152: 10 thread 68
+    3300154: 10 thread 69
+    3300156: 10 thread 7
+    3300158: 10 thread 70
+    3300160: 10 thread 71
+    3300162: 10 thread 72
+    3300164: 10 thread 73
+    3300166: 10 thread 74
+    3300168: 10 thread 75
+    3300170: 10 thread 76
+    3300172: 10 thread 77
+    3300174: 10 thread 78
+    3300176: 10 thread 79
+    3300178: 10 thread 8
+    3300180: 10 thread 80
+    3300182: 10 thread 81
+    3300184: 10 thread 82
+    3300186: 10 thread 83
+    3300188: 10 thread 84
+    3300190: 10 thread 85
+    3300192: 10 thread 86
+    3300194: 10 thread 87
+    3300196: 10 thread 88
+    3300198: 10 thread 89
+    3300200: 10 thread 9
+    3300202: 10 thread 90
+    3300204: 10 thread 91
+    3300206: 10 thread 92
+    3300208: 10 thread 93
+    3300210: 10 thread 94
+    3300212: 10 thread 95
+    3300214: 10 thread 96
+    3300216: 10 thread 97
+    3300218: 10 thread 98
+    3300220: 10 thread 99
+    3300222: Component#2
+    3300224: Component#2 1
+    3300226: Component#2 2
+    3300228: Component#2 3
+    3300230: Component#2 4
+    3300232: Component#2 5
+    3300234: Group 10
+    3300236: Group 105
+    3300238: Group 112
+    3300240: Group 12
+    3300242: Group 121
+    3300244: Group 14
+    3300246: Group 16
+    3300248: Group 18
+    3300250: Group 2
+    3300252: Group 20
+    3300254: Group 214
+    3300256: Group 221
+    3300258: Group 230
+    3300260: Group 323
+    3300262: Group 330
+    3300264: Group 339
+    3300266: Group 4
+    3300268: Group 6
+    3300270: Group 8
+    3300272: Hex bolt M5-25#10
+    3300274: Hex bolt M5-25#10 1
+    3300276: Hex bolt M5-25#10 2
+    3300278: Hex nut M5#4
+    3300280: Hex nut M5#4 1
+    3300282: Hex nut M5#4 2
+    3300284: Hex nut M5#4 3
+    3300286: Hex nut M5#4 4
+    3300288: Hex nut M5#4 5
+    3300290: Rubber Mount
+    3300292: Rubber Mount 1
+    3300294: Rubber Mount 2
+    3300296: WASHER#4
+    3300298: WASHER#4 1
+    3300300: WASHER#4 10
+    3300302: WASHER#4 11
+    3300304: WASHER#4 2
+    3300306: WASHER#4 3
+    3300308: WASHER#4 4
+    3300310: WASHER#4 5
+    3300312: WASHER#4 6
+    3300314: WASHER#4 7
+    3300316: WASHER#4 8
+    3300318: WASHER#4 9
+    4300000: Mesh Group 2
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+    4300016: Mesh Group 18
+    4300018: Mesh Group 20
+    4300020: Mesh 10 thread
+    4300022: Mesh Hex bolt M5-25#10
+    4300024: Mesh Group 105
+    4300026: Mesh Component#2
+    4300028: Mesh Group 112
+    4300030: Mesh WASHER#4
+    4300032: Mesh WASHER#4
+    4300034: Mesh Hex nut M5#4
+    4300036: Mesh Rubber Mount
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: sandpits
+  assetBundleVariant: 

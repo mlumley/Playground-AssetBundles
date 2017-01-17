@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 58368bc0c91891e4c9f7c63b5ad00fac
+timeCreated: 1483854077
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ac72ef7197d0dddad7fc3f5d6ed8fb39
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.06895697, y: 7.4379644, z: -0.025514597}
+      lookAt: {x: -0.06895697, y: 0.0765704, z: -0.025514597}
+      up: {x: 0, y: 0, z: 1}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 355.0638
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: car tire
+    100004: car tire 1
+    100006: car tire 10
+    100008: car tire 11
+    100010: car tire 12
+    100012: car tire 2
+    100014: car tire 3
+    100016: car tire 4
+    100018: car tire 5
+    100020: car tire 6
+    100022: car tire 7
+    100024: car tire 8
+    100026: car tire 9
+    100028: Group 1
+    100030: Group 19
+    100032: Group 37
+    100034: Group 55
+    100036: Group 73
+    100038: Group 91
+    100040: Tread
+    100042: Tread 1
+    100044: Tread 10
+    100046: Tread 11
+    100048: Tread 12
+    100050: Tread 13
+    100052: Tread 14
+    100054: Tread 15
+    100056: Tread 16
+    100058: Tread 17
+    100060: Tread 18
+    100062: Tread 19
+    100064: Tread 2
+    100066: Tread 20
+    100068: Tread 21
+    100070: Tread 22
+    100072: Tread 23
+    100074: Tread 24
+    100076: Tread 25
+    100078: Tread 26
+    100080: Tread 27
+    100082: Tread 28
+    100084: Tread 29
+    100086: Tread 3
+    100088: Tread 30
+    100090: Tread 31
+    100092: Tread 32
+    100094: Tread 33
+    100096: Tread 34
+    100098: Tread 35
+    100100: Tread 36
+    100102: Tread 37
+    100104: Tread 38
+    100106: Tread 39
+    100108: Tread 4
+    100110: Tread 40
+    100112: Tread 41
+    100114: Tread 42
+    100116: Tread 43
+    100118: Tread 44
+    100120: Tread 45
+    100122: Tread 46
+    100124: Tread 47
+    100126: Tread 5
+    100128: Tread 6
+    100130: Tread 7
+    100132: Tread 8
+    100134: Tread 9
+    100136: truck tire
+    100138: truck tire 1
+    100140: truck tire 10
+    100142: truck tire 11
+    100144: truck tire 12
+    100146: truck tire 2
+    100148: truck tire 3
+    100150: truck tire 4
+    100152: truck tire 5
+    100154: truck tire 6
+    100156: truck tire 7
+    100158: truck tire 8
+    100160: truck tire 9
+    400000: //RootNode
+    400002: car tire
+    400004: car tire 1
+    400006: car tire 10
+    400008: car tire 11
+    400010: car tire 12
+    400012: car tire 2
+    400014: car tire 3
+    400016: car tire 4
+    400018: car tire 5
+    400020: car tire 6
+    400022: car tire 7
+    400024: car tire 8
+    400026: car tire 9
+    400028: Group 1
+    400030: Group 19
+    400032: Group 37
+    400034: Group 55
+    400036: Group 73
+    400038: Group 91
+    400040: Tread
+    400042: Tread 1
+    400044: Tread 10
+    400046: Tread 11
+    400048: Tread 12
+    400050: Tread 13
+    400052: Tread 14
+    400054: Tread 15
+    400056: Tread 16
+    400058: Tread 17
+    400060: Tread 18
+    400062: Tread 19
+    400064: Tread 2
+    400066: Tread 20
+    400068: Tread 21
+    400070: Tread 22
+    400072: Tread 23
+    400074: Tread 24
+    400076: Tread 25
+    400078: Tread 26
+    400080: Tread 27
+    400082: Tread 28
+    400084: Tread 29
+    400086: Tread 3
+    400088: Tread 30
+    400090: Tread 31
+    400092: Tread 32
+    400094: Tread 33
+    400096: Tread 34
+    400098: Tread 35
+    400100: Tread 36
+    400102: Tread 37
+    400104: Tread 38
+    400106: Tread 39
+    400108: Tread 4
+    400110: Tread 40
+    400112: Tread 41
+    400114: Tread 42
+    400116: Tread 43
+    400118: Tread 44
+    400120: Tread 45
+    400122: Tread 46
+    400124: Tread 47
+    400126: Tread 5
+    400128: Tread 6
+    400130: Tread 7
+    400132: Tread 8
+    400134: Tread 9
+    400136: truck tire
+    400138: truck tire 1
+    400140: truck tire 10
+    400142: truck tire 11
+    400144: truck tire 12
+    400146: truck tire 2
+    400148: truck tire 3
+    400150: truck tire 4
+    400152: truck tire 5
+    400154: truck tire 6
+    400156: truck tire 7
+    400158: truck tire 8
+    400160: truck tire 9
+    2300000: car tire
+    2300002: car tire 1
+    2300004: car tire 10
+    2300006: car tire 11
+    2300008: car tire 12
+    2300010: car tire 2
+    2300012: car tire 3
+    2300014: car tire 4
+    2300016: car tire 5
+    2300018: car tire 6
+    2300020: car tire 7
+    2300022: car tire 8
+    2300024: car tire 9
+    2300026: Group 1
+    2300028: Group 19
+    2300030: Group 37
+    2300032: Group 55
+    2300034: Group 73
+    2300036: Group 91
+    2300038: Tread
+    2300040: Tread 1
+    2300042: Tread 10
+    2300044: Tread 11
+    2300046: Tread 12
+    2300048: Tread 13
+    2300050: Tread 14
+    2300052: Tread 15
+    2300054: Tread 16
+    2300056: Tread 17
+    2300058: Tread 18
+    2300060: Tread 19
+    2300062: Tread 2
+    2300064: Tread 20
+    2300066: Tread 21
+    2300068: Tread 22
+    2300070: Tread 23
+    2300072: Tread 24
+    2300074: Tread 25
+    2300076: Tread 26
+    2300078: Tread 27
+    2300080: Tread 28
+    2300082: Tread 29
+    2300084: Tread 3
+    2300086: Tread 30
+    2300088: Tread 31
+    2300090: Tread 32
+    2300092: Tread 33
+    2300094: Tread 34
+    2300096: Tread 35
+    2300098: Tread 36
+    2300100: Tread 37
+    2300102: Tread 38
+    2300104: Tread 39
+    2300106: Tread 4
+    2300108: Tread 40
+    2300110: Tread 41
+    2300112: Tread 42
+    2300114: Tread 43
+    2300116: Tread 44
+    2300118: Tread 45
+    2300120: Tread 46
+    2300122: Tread 47
+    2300124: Tread 5
+    2300126: Tread 6
+    2300128: Tread 7
+    2300130: Tread 8
+    2300132: Tread 9
+    2300134: truck tire
+    2300136: truck tire 1
+    2300138: truck tire 10
+    2300140: truck tire 11
+    2300142: truck tire 12
+    2300144: truck tire 2
+    2300146: truck tire 3
+    2300148: truck tire 4
+    2300150: truck tire 5
+    2300152: truck tire 6
+    2300154: truck tire 7
+    2300156: truck tire 8
+    2300158: truck tire 9
+    3300000: car tire
+    3300002: car tire 1
+    3300004: car tire 10
+    3300006: car tire 11
+    3300008: car tire 12
+    3300010: car tire 2
+    3300012: car tire 3
+    3300014: car tire 4
+    3300016: car tire 5
+    3300018: car tire 6
+    3300020: car tire 7
+    3300022: car tire 8
+    3300024: car tire 9
+    3300026: Group 1
+    3300028: Group 19
+    3300030: Group 37
+    3300032: Group 55
+    3300034: Group 73
+    3300036: Group 91
+    3300038: Tread
+    3300040: Tread 1
+    3300042: Tread 10
+    3300044: Tread 11
+    3300046: Tread 12
+    3300048: Tread 13
+    3300050: Tread 14
+    3300052: Tread 15
+    3300054: Tread 16
+    3300056: Tread 17
+    3300058: Tread 18
+    3300060: Tread 19
+    3300062: Tread 2
+    3300064: Tread 20
+    3300066: Tread 21
+    3300068: Tread 22
+    3300070: Tread 23
+    3300072: Tread 24
+    3300074: Tread 25
+    3300076: Tread 26
+    3300078: Tread 27
+    3300080: Tread 28
+    3300082: Tread 29
+    3300084: Tread 3
+    3300086: Tread 30
+    3300088: Tread 31
+    3300090: Tread 32
+    3300092: Tread 33
+    3300094: Tread 34
+    3300096: Tread 35
+    3300098: Tread 36
+    3300100: Tread 37
+    3300102: Tread 38
+    3300104: Tread 39
+    3300106: Tread 4
+    3300108: Tread 40
+    3300110: Tread 41
+    3300112: Tread 42
+    3300114: Tread 43
+    3300116: Tread 44
+    3300118: Tread 45
+    3300120: Tread 46
+    3300122: Tread 47
+    3300124: Tread 5
+    3300126: Tread 6
+    3300128: Tread 7
+    3300130: Tread 8
+    3300132: Tread 9
+    3300134: truck tire
+    3300136: truck tire 1
+    3300138: truck tire 10
+    3300140: truck tire 11
+    3300142: truck tire 12
+    3300144: truck tire 2
+    3300146: truck tire 3
+    3300148: truck tire 4
+    3300150: truck tire 5
+    3300152: truck tire 6
+    3300154: truck tire 7
+    3300156: truck tire 8
+    3300158: truck tire 9
+    4300000: Mesh Group 1
+    4300002: Mesh Tread
+    4300004: Mesh Group 19
+    4300006: Mesh Group 37
+    4300008: Mesh Group 55
+    4300010: Mesh Group 73
+    4300012: Mesh Group 91
+    4300014: Mesh car tire
+    4300016: Mesh truck tire
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: furniture
+  assetBundleVariant: 

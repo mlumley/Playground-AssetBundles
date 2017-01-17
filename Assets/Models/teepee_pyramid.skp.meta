@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: ffc7bf0490c98b148afacc42a419c1a6
+timeCreated: 1483747603
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000030000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bb966a1a0ac22ca338202adbc6f9239d
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -19.89798, y: 4.7789884, z: 23.980316}
+      lookAt: {x: -0.5693972, y: -0.6247621, z: -0.27311406}
+      up: {x: 0.106980786, y: 0.9851574, z: -0.13423909}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 388.44617
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: clamp2
+    100002: clamp2 1
+    100004: dclamp
+    100006: dclamp 1
+    100008: footing
+    100010: footing 1
+    100012: footing 2
+    100014: footing 3
+    100016: footing 4
+    100018: footing 5
+    100020: Group 1
+    100022: Group 3
+    100024: hex
+    100026: hex 1
+    100028: hex 2
+    100030: hex 3
+    100032: picnic_table
+    100034: pole
+    100036: pole 1
+    100038: pole 2
+    100040: pole#1
+    100042: pole#2
+    100044: pole#3
+    100046: //RootNode
+    100048: whole clamp
+    100050: whole clamp 1
+    400000: clamp2
+    400002: clamp2 1
+    400004: dclamp
+    400006: dclamp 1
+    400008: footing
+    400010: footing 1
+    400012: footing 2
+    400014: footing 3
+    400016: footing 4
+    400018: footing 5
+    400020: Group 1
+    400022: Group 3
+    400024: hex
+    400026: hex 1
+    400028: hex 2
+    400030: hex 3
+    400032: picnic_table
+    400034: pole
+    400036: pole 1
+    400038: pole 2
+    400040: pole#1
+    400042: pole#2
+    400044: pole#3
+    400046: //RootNode
+    400048: whole clamp
+    400050: whole clamp 1
+    2300000: clamp2
+    2300002: clamp2 1
+    2300004: dclamp
+    2300006: dclamp 1
+    2300008: footing
+    2300010: footing 1
+    2300012: footing 2
+    2300014: footing 3
+    2300016: footing 4
+    2300018: footing 5
+    2300020: Group 1
+    2300022: Group 3
+    2300024: hex
+    2300026: hex 1
+    2300028: hex 2
+    2300030: hex 3
+    2300032: picnic_table
+    2300034: pole
+    2300036: pole 1
+    2300038: pole 2
+    2300040: pole#1
+    2300042: pole#2
+    2300044: pole#3
+    3300000: clamp2
+    3300002: clamp2 1
+    3300004: dclamp
+    3300006: dclamp 1
+    3300008: footing
+    3300010: footing 1
+    3300012: footing 2
+    3300014: footing 3
+    3300016: footing 4
+    3300018: footing 5
+    3300020: Group 1
+    3300022: Group 3
+    3300024: hex
+    3300026: hex 1
+    3300028: hex 2
+    3300030: hex 3
+    3300032: picnic_table
+    3300034: pole
+    3300036: pole 1
+    3300038: pole 2
+    3300040: pole#1
+    3300042: pole#2
+    3300044: pole#3
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh footing
+    4300006: Mesh hex
+    4300008: Mesh clamp2
+    4300010: Mesh dclamp
+    4300012: Mesh pole#3
+    4300014: Mesh pole
+    4300016: Mesh picnic_table
+    4300018: Mesh pole#1
+    4300020: Mesh pole#2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: climbing
+  assetBundleVariant: 

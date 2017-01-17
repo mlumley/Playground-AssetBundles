@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 802c6b917ffeed0488ead1c7a8a093e2
+timeCreated: 1483747458
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 33adc867bbb679b49938b6f8fcb10c04
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -25.163008, y: 16.074951, z: -8.460503}
+      lookAt: {x: 0.38646424, y: -0.3069161, z: 0.8245052}
+      up: {x: 0.48510557, y: 0.8565005, z: 0.17629363}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 120.51676
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group
+    100002: group 1
+    100004: group 2
+    100006: group 3
+    100008: //RootNode
+    100010: tire
+    100012: tire 1
+    100014: tire 2
+    100016: tire 3
+    100018: tire 4
+    100020: tire 5
+    100022: tire 6
+    100024: tire 7
+    400000: group
+    400002: group 1
+    400004: group 2
+    400006: group 3
+    400008: //RootNode
+    400010: tire
+    400012: tire 1
+    400014: tire 2
+    400016: tire 3
+    400018: tire 4
+    400020: tire 5
+    400022: tire 6
+    400024: tire 7
+    2300000: //RootNode
+    2300002: tire
+    2300004: tire 1
+    2300006: tire 2
+    2300008: tire 3
+    2300010: tire 4
+    2300012: tire 5
+    2300014: tire 6
+    2300016: tire 7
+    3300000: //RootNode
+    3300002: tire
+    3300004: tire 1
+    3300006: tire 2
+    3300008: tire 3
+    3300010: tire 4
+    3300012: tire 5
+    3300014: tire 6
+    3300016: tire 7
+    4300000: Mesh stepstone_tire
+    4300002: Mesh tire
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: balance
+  assetBundleVariant: 

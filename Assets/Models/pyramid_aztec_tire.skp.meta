@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: a16bde7712af6c148a7f48528fb8233b
+timeCreated: 1483747504
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f0000003000000031000000320000003300000034000000350000003600000037000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a9a62cbbcca8254dbcbafcbfbab06e42
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.7020712, y: 0.32725948, z: -9.027562}
+      lookAt: {x: 4.840958, y: -1.683281, z: 3.5721223}
+      up: {x: 0.02600962, y: 0.98785025, z: 0.15321663}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 355.39655
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 1
+    100002: Group 11
+    100004: Group 16
+    100006: Group 3
+    100008: Group 30
+    100010: Group 31
+    100012: Group 38
+    100014: Group 4
+    100016: Group 43
+    100018: Group#10
+    100020: Group#10 1
+    100022: //RootNode
+    100024: truck tire
+    100026: truck tire 1
+    100028: truck tire 10
+    100030: truck tire 11
+    100032: truck tire 12
+    100034: truck tire 13
+    100036: truck tire 14
+    100038: truck tire 15
+    100040: truck tire 16
+    100042: truck tire 17
+    100044: truck tire 18
+    100046: truck tire 19
+    100048: truck tire 2
+    100050: truck tire 20
+    100052: truck tire 21
+    100054: truck tire 3
+    100056: truck tire 4
+    100058: truck tire 5
+    100060: truck tire 6
+    100062: truck tire 7
+    100064: truck tire 8
+    100066: truck tire 9
+    400000: Group 1
+    400002: Group 11
+    400004: Group 16
+    400006: Group 3
+    400008: Group 30
+    400010: Group 31
+    400012: Group 38
+    400014: Group 4
+    400016: Group 43
+    400018: Group#10
+    400020: Group#10 1
+    400022: //RootNode
+    400024: truck tire
+    400026: truck tire 1
+    400028: truck tire 10
+    400030: truck tire 11
+    400032: truck tire 12
+    400034: truck tire 13
+    400036: truck tire 14
+    400038: truck tire 15
+    400040: truck tire 16
+    400042: truck tire 17
+    400044: truck tire 18
+    400046: truck tire 19
+    400048: truck tire 2
+    400050: truck tire 20
+    400052: truck tire 21
+    400054: truck tire 3
+    400056: truck tire 4
+    400058: truck tire 5
+    400060: truck tire 6
+    400062: truck tire 7
+    400064: truck tire 8
+    400066: truck tire 9
+    2300000: truck tire
+    2300002: truck tire 1
+    2300004: truck tire 10
+    2300006: truck tire 11
+    2300008: truck tire 12
+    2300010: truck tire 13
+    2300012: truck tire 14
+    2300014: truck tire 15
+    2300016: truck tire 16
+    2300018: truck tire 17
+    2300020: truck tire 18
+    2300022: truck tire 19
+    2300024: truck tire 2
+    2300026: truck tire 20
+    2300028: truck tire 21
+    2300030: truck tire 3
+    2300032: truck tire 4
+    2300034: truck tire 5
+    2300036: truck tire 6
+    2300038: truck tire 7
+    2300040: truck tire 8
+    2300042: truck tire 9
+    3300000: truck tire
+    3300002: truck tire 1
+    3300004: truck tire 10
+    3300006: truck tire 11
+    3300008: truck tire 12
+    3300010: truck tire 13
+    3300012: truck tire 14
+    3300014: truck tire 15
+    3300016: truck tire 16
+    3300018: truck tire 17
+    3300020: truck tire 18
+    3300022: truck tire 19
+    3300024: truck tire 2
+    3300026: truck tire 20
+    3300028: truck tire 21
+    3300030: truck tire 3
+    3300032: truck tire 4
+    3300034: truck tire 5
+    3300036: truck tire 6
+    3300038: truck tire 7
+    3300040: truck tire 8
+    3300042: truck tire 9
+    4300000: Mesh truck tire
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: cubbies
+  assetBundleVariant: 

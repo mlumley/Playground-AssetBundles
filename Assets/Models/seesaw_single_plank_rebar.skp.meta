@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: c42a331413e4db347a97ac9712381eb1
+timeCreated: 1483747542
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000da000000db000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9af68f0543b4e4c4102cc151c0989a1f
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -16.57024, y: 2.6429887, z: 8.954557}
+      lookAt: {x: -4.1015463, y: 0.6249646, z: 1.9078054}
+      up: {x: 0.12146741, y: 0.99021876, z: -0.068647996}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 79.46675
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#2
+    100004: Component#2 1
+    100006: Component#2 2
+    100008: Component#2 3
+    100010: Component#3
+    100012: Component#3 1
+    100014: Group 1
+    100016: Group 11
+    100018: Group 112
+    100020: Group 113
+    100022: Group 13
+    100024: Group 16
+    100026: Group 163
+    100028: Group 164
+    100030: Group 18
+    100032: Group 19
+    100034: Group 2
+    100036: Group 214
+    100038: Group 218
+    100040: Group 23
+    100042: Group 3
+    100044: Group 32
+    100046: Group 42
+    100048: Group 5
+    100050: Group 51
+    100052: Group 65
+    100054: Group 69
+    100056: Group 7
+    100058: Group 78
+    100060: Group 88
+    100062: Group 9
+    100064: Group 97
+    100066: Group#41
+    100068: Group#41 1
+    100070: Group#42
+    100072: Group#42 1
+    100074: Group#42 2
+    100076: Group#42 3
+    100078: Group#42 4
+    100080: Group#42 5
+    100082: Group#42 6
+    100084: Group#42 7
+    100086: Group#43
+    100088: Group#43 1
+    100090: Group#56
+    100092: Group#58
+    100094: Group#58 1
+    100096: Hex bolt M10-50#4
+    100098: Hex bolt M10-50#4 1
+    100100: Hex bolt M10-50#4 10
+    100102: Hex bolt M10-50#4 11
+    100104: Hex bolt M10-50#4 12
+    100106: Hex bolt M10-50#4 13
+    100108: Hex bolt M10-50#4 14
+    100110: Hex bolt M10-50#4 15
+    100112: Hex bolt M10-50#4 2
+    100114: Hex bolt M10-50#4 3
+    100116: Hex bolt M10-50#4 4
+    100118: Hex bolt M10-50#4 5
+    100120: Hex bolt M10-50#4 6
+    100122: Hex bolt M10-50#4 7
+    100124: Hex bolt M10-50#4 8
+    100126: Hex bolt M10-50#4 9
+    100128: Hex nut M10#1
+    100130: Hex nut M10#1 1
+    100132: Hex nut M10#1 10
+    100134: Hex nut M10#1 11
+    100136: Hex nut M10#1 12
+    100138: Hex nut M10#1 13
+    100140: Hex nut M10#1 14
+    100142: Hex nut M10#1 15
+    100144: Hex nut M10#1 2
+    100146: Hex nut M10#1 3
+    100148: Hex nut M10#1 4
+    100150: Hex nut M10#1 5
+    100152: Hex nut M10#1 6
+    100154: Hex nut M10#1 7
+    100156: Hex nut M10#1 8
+    100158: Hex nut M10#1 9
+    100160: Hex nut M5#4
+    100162: Hex nut M5#4 1
+    100164: Hex nut M5#4 2
+    100166: Hex nut M5#4 3
+    100168: Hex nut M5#4 4
+    100170: Hex nut M5#4 5
+    100172: Hex nut M5#4 6
+    100174: Hex nut M5#4 7
+    100176: //RootNode
+    100178: WASHER
+    100180: WASHER 1
+    100182: WASHER 10
+    100184: WASHER 11
+    100186: WASHER 12
+    100188: WASHER 13
+    100190: WASHER 14
+    100192: WASHER 15
+    100194: WASHER 2
+    100196: WASHER 3
+    100198: WASHER 4
+    100200: WASHER 5
+    100202: WASHER 6
+    100204: WASHER 7
+    100206: WASHER 8
+    100208: WASHER 9
+    100210: WASHER#2
+    100212: WASHER#2 1
+    100214: WASHER#2 10
+    100216: WASHER#2 11
+    100218: WASHER#2 12
+    100220: WASHER#2 13
+    100222: WASHER#2 14
+    100224: WASHER#2 15
+    100226: WASHER#2 2
+    100228: WASHER#2 3
+    100230: WASHER#2 4
+    100232: WASHER#2 5
+    100234: WASHER#2 6
+    100236: WASHER#2 7
+    100238: WASHER#2 8
+    100240: WASHER#2 9
+    400000: Component#1
+    400002: Component#2
+    400004: Component#2 1
+    400006: Component#2 2
+    400008: Component#2 3
+    400010: Component#3
+    400012: Component#3 1
+    400014: Group 1
+    400016: Group 11
+    400018: Group 112
+    400020: Group 113
+    400022: Group 13
+    400024: Group 16
+    400026: Group 163
+    400028: Group 164
+    400030: Group 18
+    400032: Group 19
+    400034: Group 2
+    400036: Group 214
+    400038: Group 218
+    400040: Group 23
+    400042: Group 3
+    400044: Group 32
+    400046: Group 42
+    400048: Group 5
+    400050: Group 51
+    400052: Group 65
+    400054: Group 69
+    400056: Group 7
+    400058: Group 78
+    400060: Group 88
+    400062: Group 9
+    400064: Group 97
+    400066: Group#41
+    400068: Group#41 1
+    400070: Group#42
+    400072: Group#42 1
+    400074: Group#42 2
+    400076: Group#42 3
+    400078: Group#42 4
+    400080: Group#42 5
+    400082: Group#42 6
+    400084: Group#42 7
+    400086: Group#43
+    400088: Group#43 1
+    400090: Group#56
+    400092: Group#58
+    400094: Group#58 1
+    400096: Hex bolt M10-50#4
+    400098: Hex bolt M10-50#4 1
+    400100: Hex bolt M10-50#4 10
+    400102: Hex bolt M10-50#4 11
+    400104: Hex bolt M10-50#4 12
+    400106: Hex bolt M10-50#4 13
+    400108: Hex bolt M10-50#4 14
+    400110: Hex bolt M10-50#4 15
+    400112: Hex bolt M10-50#4 2
+    400114: Hex bolt M10-50#4 3
+    400116: Hex bolt M10-50#4 4
+    400118: Hex bolt M10-50#4 5
+    400120: Hex bolt M10-50#4 6
+    400122: Hex bolt M10-50#4 7
+    400124: Hex bolt M10-50#4 8
+    400126: Hex bolt M10-50#4 9
+    400128: Hex nut M10#1
+    400130: Hex nut M10#1 1
+    400132: Hex nut M10#1 10
+    400134: Hex nut M10#1 11
+    400136: Hex nut M10#1 12
+    400138: Hex nut M10#1 13
+    400140: Hex nut M10#1 14
+    400142: Hex nut M10#1 15
+    400144: Hex nut M10#1 2
+    400146: Hex nut M10#1 3
+    400148: Hex nut M10#1 4
+    400150: Hex nut M10#1 5
+    400152: Hex nut M10#1 6
+    400154: Hex nut M10#1 7
+    400156: Hex nut M10#1 8
+    400158: Hex nut M10#1 9
+    400160: Hex nut M5#4
+    400162: Hex nut M5#4 1
+    400164: Hex nut M5#4 2
+    400166: Hex nut M5#4 3
+    400168: Hex nut M5#4 4
+    400170: Hex nut M5#4 5
+    400172: Hex nut M5#4 6
+    400174: Hex nut M5#4 7
+    400176: //RootNode
+    400178: WASHER
+    400180: WASHER 1
+    400182: WASHER 10
+    400184: WASHER 11
+    400186: WASHER 12
+    400188: WASHER 13
+    400190: WASHER 14
+    400192: WASHER 15
+    400194: WASHER 2
+    400196: WASHER 3
+    400198: WASHER 4
+    400200: WASHER 5
+    400202: WASHER 6
+    400204: WASHER 7
+    400206: WASHER 8
+    400208: WASHER 9
+    400210: WASHER#2
+    400212: WASHER#2 1
+    400214: WASHER#2 10
+    400216: WASHER#2 11
+    400218: WASHER#2 12
+    400220: WASHER#2 13
+    400222: WASHER#2 14
+    400224: WASHER#2 15
+    400226: WASHER#2 2
+    400228: WASHER#2 3
+    400230: WASHER#2 4
+    400232: WASHER#2 5
+    400234: WASHER#2 6
+    400236: WASHER#2 7
+    400238: WASHER#2 8
+    400240: WASHER#2 9
+    2300000: Group 11
+    2300002: Group 113
+    2300004: Group 13
+    2300006: Group 16
+    2300008: Group 164
+    2300010: Group 214
+    2300012: Group 218
+    2300014: Group 23
+    2300016: Group 3
+    2300018: Group 32
+    2300020: Group 42
+    2300022: Group 5
+    2300024: Group 51
+    2300026: Group 69
+    2300028: Group 7
+    2300030: Group 78
+    2300032: Group 88
+    2300034: Group 9
+    2300036: Group 97
+    2300038: Group#41
+    2300040: Group#41 1
+    2300042: Group#43
+    2300044: Group#43 1
+    2300046: Group#58
+    2300048: Group#58 1
+    2300050: Hex bolt M10-50#4
+    2300052: Hex bolt M10-50#4 1
+    2300054: Hex bolt M10-50#4 10
+    2300056: Hex bolt M10-50#4 11
+    2300058: Hex bolt M10-50#4 12
+    2300060: Hex bolt M10-50#4 13
+    2300062: Hex bolt M10-50#4 14
+    2300064: Hex bolt M10-50#4 15
+    2300066: Hex bolt M10-50#4 2
+    2300068: Hex bolt M10-50#4 3
+    2300070: Hex bolt M10-50#4 4
+    2300072: Hex bolt M10-50#4 5
+    2300074: Hex bolt M10-50#4 6
+    2300076: Hex bolt M10-50#4 7
+    2300078: Hex bolt M10-50#4 8
+    2300080: Hex bolt M10-50#4 9
+    2300082: Hex nut M10#1
+    2300084: Hex nut M10#1 1
+    2300086: Hex nut M10#1 10
+    2300088: Hex nut M10#1 11
+    2300090: Hex nut M10#1 12
+    2300092: Hex nut M10#1 13
+    2300094: Hex nut M10#1 14
+    2300096: Hex nut M10#1 15
+    2300098: Hex nut M10#1 2
+    2300100: Hex nut M10#1 3
+    2300102: Hex nut M10#1 4
+    2300104: Hex nut M10#1 5
+    2300106: Hex nut M10#1 6
+    2300108: Hex nut M10#1 7
+    2300110: Hex nut M10#1 8
+    2300112: Hex nut M10#1 9
+    2300114: Hex nut M5#4
+    2300116: Hex nut M5#4 1
+    2300118: Hex nut M5#4 2
+    2300120: Hex nut M5#4 3
+    2300122: Hex nut M5#4 4
+    2300124: Hex nut M5#4 5
+    2300126: Hex nut M5#4 6
+    2300128: Hex nut M5#4 7
+    2300130: WASHER
+    2300132: WASHER 1
+    2300134: WASHER 10
+    2300136: WASHER 11
+    2300138: WASHER 12
+    2300140: WASHER 13
+    2300142: WASHER 14
+    2300144: WASHER 15
+    2300146: WASHER 2
+    2300148: WASHER 3
+    2300150: WASHER 4
+    2300152: WASHER 5
+    2300154: WASHER 6
+    2300156: WASHER 7
+    2300158: WASHER 8
+    2300160: WASHER 9
+    2300162: WASHER#2
+    2300164: WASHER#2 1
+    2300166: WASHER#2 10
+    2300168: WASHER#2 11
+    2300170: WASHER#2 12
+    2300172: WASHER#2 13
+    2300174: WASHER#2 14
+    2300176: WASHER#2 15
+    2300178: WASHER#2 2
+    2300180: WASHER#2 3
+    2300182: WASHER#2 4
+    2300184: WASHER#2 5
+    2300186: WASHER#2 6
+    2300188: WASHER#2 7
+    2300190: WASHER#2 8
+    2300192: WASHER#2 9
+    3300000: Group 11
+    3300002: Group 113
+    3300004: Group 13
+    3300006: Group 16
+    3300008: Group 164
+    3300010: Group 214
+    3300012: Group 218
+    3300014: Group 23
+    3300016: Group 3
+    3300018: Group 32
+    3300020: Group 42
+    3300022: Group 5
+    3300024: Group 51
+    3300026: Group 69
+    3300028: Group 7
+    3300030: Group 78
+    3300032: Group 88
+    3300034: Group 9
+    3300036: Group 97
+    3300038: Group#41
+    3300040: Group#41 1
+    3300042: Group#43
+    3300044: Group#43 1
+    3300046: Group#58
+    3300048: Group#58 1
+    3300050: Hex bolt M10-50#4
+    3300052: Hex bolt M10-50#4 1
+    3300054: Hex bolt M10-50#4 10
+    3300056: Hex bolt M10-50#4 11
+    3300058: Hex bolt M10-50#4 12
+    3300060: Hex bolt M10-50#4 13
+    3300062: Hex bolt M10-50#4 14
+    3300064: Hex bolt M10-50#4 15
+    3300066: Hex bolt M10-50#4 2
+    3300068: Hex bolt M10-50#4 3
+    3300070: Hex bolt M10-50#4 4
+    3300072: Hex bolt M10-50#4 5
+    3300074: Hex bolt M10-50#4 6
+    3300076: Hex bolt M10-50#4 7
+    3300078: Hex bolt M10-50#4 8
+    3300080: Hex bolt M10-50#4 9
+    3300082: Hex nut M10#1
+    3300084: Hex nut M10#1 1
+    3300086: Hex nut M10#1 10
+    3300088: Hex nut M10#1 11
+    3300090: Hex nut M10#1 12
+    3300092: Hex nut M10#1 13
+    3300094: Hex nut M10#1 14
+    3300096: Hex nut M10#1 15
+    3300098: Hex nut M10#1 2
+    3300100: Hex nut M10#1 3
+    3300102: Hex nut M10#1 4
+    3300104: Hex nut M10#1 5
+    3300106: Hex nut M10#1 6
+    3300108: Hex nut M10#1 7
+    3300110: Hex nut M10#1 8
+    3300112: Hex nut M10#1 9
+    3300114: Hex nut M5#4
+    3300116: Hex nut M5#4 1
+    3300118: Hex nut M5#4 2
+    3300120: Hex nut M5#4 3
+    3300122: Hex nut M5#4 4
+    3300124: Hex nut M5#4 5
+    3300126: Hex nut M5#4 6
+    3300128: Hex nut M5#4 7
+    3300130: WASHER
+    3300132: WASHER 1
+    3300134: WASHER 10
+    3300136: WASHER 11
+    3300138: WASHER 12
+    3300140: WASHER 13
+    3300142: WASHER 14
+    3300144: WASHER 15
+    3300146: WASHER 2
+    3300148: WASHER 3
+    3300150: WASHER 4
+    3300152: WASHER 5
+    3300154: WASHER 6
+    3300156: WASHER 7
+    3300158: WASHER 8
+    3300160: WASHER 9
+    3300162: WASHER#2
+    3300164: WASHER#2 1
+    3300166: WASHER#2 10
+    3300168: WASHER#2 11
+    3300170: WASHER#2 12
+    3300172: WASHER#2 13
+    3300174: WASHER#2 14
+    3300176: WASHER#2 15
+    3300178: WASHER#2 2
+    3300180: WASHER#2 3
+    3300182: WASHER#2 4
+    3300184: WASHER#2 5
+    3300186: WASHER#2 6
+    3300188: WASHER#2 7
+    3300190: WASHER#2 8
+    3300192: WASHER#2 9
+    4300000: Mesh Group 3
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+    4300010: Mesh Group 13
+    4300012: Mesh Group 16
+    4300014: Mesh Group 23
+    4300016: Mesh WASHER#2
+    4300018: Mesh WASHER#2
+    4300020: Mesh Hex nut M5#4
+    4300022: Mesh Group#58
+    4300024: Mesh Group#43
+    4300026: Mesh Group#41
+    4300028: Mesh Group 113
+    4300030: Mesh WASHER
+    4300032: Mesh Hex nut M10#1
+    4300034: Mesh Hex bolt M10-50#4
+    4300036: Mesh Group 164
+    4300038: Mesh Group 214
+    4300040: Mesh Group 218
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: seesaws
+  assetBundleVariant: 

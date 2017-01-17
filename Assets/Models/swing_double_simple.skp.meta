@@ -1,0 +1,2228 @@
+fileFormatVersion: 2
+guid: 7854ab140a815144e9d4b03d9601aaec
+timeCreated: 1483747451
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f030000300300003103000032030000330300003403000035030000360300003703000038030000390300003a0300003b0300003c0300003d0300003e0300003f030000400300004103000042030000430300004403000045030000460300004703000048030000490300004a0300004b0300004c0300004d0300004e0300004f030000500300005103000052030000530300005403000055030000560300005703000058030000590300005a0300005b0300005c0300005d0300005e0300005f030000600300006103000062030000630300006403000065030000660300006703000068030000690300006a0300006b0300006c0300006d0300006e0300006f030000700300007103000072030000730300007403000075030000760300007703000078030000790300007a0300007b0300007c0300007d0300007e0300007f030000800300008103000082030000830300008403000085030000860300008703000088030000890300008a0300008b0300008c0300008d0300008e0300008f030000900300009103000092030000930300009403000095030000960300009703000098030000990300009a0300009b0300009c0300009d0300009e0300009f030000a0030000a1030000a2030000a3030000a4030000a5030000a6030000a7030000a8030000a9030000aa030000ab030000ac030000ad030000ae030000af030000b0030000b1030000b2030000b3030000b4030000b5030000b6030000b7030000b8030000b9030000ba030000bb030000bc030000bd030000be030000bf030000c0030000c1030000c2030000c3030000c4030000c5030000c6030000c7030000c8030000c9030000ca030000cb030000cc030000cd030000ce030000cf030000d0030000d1030000d2030000d3030000d4030000d5030000d6030000d7030000d8030000d9030000da030000db030000dc030000dd030000de030000df030000e0030000e1030000e2030000e3030000e4030000e5030000e6030000e7030000e8030000e9030000ea030000eb030000ec030000ed030000ee030000ef030000f0030000f1030000f2030000f3030000f4030000f5030000f6030000f7030000f8030000f9030000fa030000fb030000fc030000fd030000fe030000ff030000000400000104000002040000030400000404000005040000060400000704000008040000090400000a0400000b0400000c0400000d0400000e0400000f040000100400001104000012040000130400001404000015040000160400001704000018040000190400001a0400001b0400001c0400001d040000
+  assetHash:
+    serializedVersion: 2
+    Hash: 056841605282b70c9a6ebe96aba30983
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.368981, y: 12.107562, z: 3.4236188}
+      lookAt: {x: 8.368981, y: 1.0550135, z: 3.4236188}
+      up: {x: 0, y: 0, z: 1}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 732.9499
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10 thread
+    100002: 10 thread 1
+    100004: 10 thread 10
+    100006: 10 thread 11
+    100008: 10 thread 12
+    100010: 10 thread 13
+    100012: 10 thread 14
+    100014: 10 thread 15
+    100016: 10 thread 16
+    100018: 10 thread 17
+    100020: 10 thread 18
+    100022: 10 thread 19
+    100024: 10 thread 2
+    100026: 10 thread 20
+    100028: 10 thread 21
+    100030: 10 thread 22
+    100032: 10 thread 23
+    100034: 10 thread 24
+    100036: 10 thread 25
+    100038: 10 thread 26
+    100040: 10 thread 27
+    100042: 10 thread 28
+    100044: 10 thread 29
+    100046: 10 thread 3
+    100048: 10 thread 30
+    100050: 10 thread 31
+    100052: 10 thread 32
+    100054: 10 thread 33
+    100056: 10 thread 34
+    100058: 10 thread 35
+    100060: 10 thread 36
+    100062: 10 thread 37
+    100064: 10 thread 38
+    100066: 10 thread 39
+    100068: 10 thread 4
+    100070: 10 thread 40
+    100072: 10 thread 41
+    100074: 10 thread 42
+    100076: 10 thread 43
+    100078: 10 thread 44
+    100080: 10 thread 45
+    100082: 10 thread 46
+    100084: 10 thread 47
+    100086: 10 thread 48
+    100088: 10 thread 49
+    100090: 10 thread 5
+    100092: 10 thread 50
+    100094: 10 thread 51
+    100096: 10 thread 52
+    100098: 10 thread 53
+    100100: 10 thread 54
+    100102: 10 thread 55
+    100104: 10 thread 56
+    100106: 10 thread 57
+    100108: 10 thread 58
+    100110: 10 thread 59
+    100112: 10 thread 6
+    100114: 10 thread 7
+    100116: 10 thread 8
+    100118: 10 thread 9
+    100120: '2 nails '
+    100122: 2 nails  1
+    100124: 2 nails  2
+    100126: 2 nails  3
+    100128: 2 nails  4
+    100130: bolt#2
+    100132: bolt#2 1
+    100134: bolt#2 2
+    100136: bolt#2 3
+    100138: bolt#2 4
+    100140: Chain part#1
+    100142: Chain part#1 1
+    100144: Chain part#1 10
+    100146: Chain part#1 11
+    100148: Chain part#1 12
+    100150: Chain part#1 13
+    100152: Chain part#1 14
+    100154: Chain part#1 15
+    100156: Chain part#1 16
+    100158: Chain part#1 17
+    100160: Chain part#1 18
+    100162: Chain part#1 19
+    100164: Chain part#1 2
+    100166: Chain part#1 20
+    100168: Chain part#1 21
+    100170: Chain part#1 22
+    100172: Chain part#1 23
+    100174: Chain part#1 24
+    100176: Chain part#1 25
+    100178: Chain part#1 26
+    100180: Chain part#1 27
+    100182: Chain part#1 28
+    100184: Chain part#1 29
+    100186: Chain part#1 3
+    100188: Chain part#1 30
+    100190: Chain part#1 31
+    100192: Chain part#1 32
+    100194: Chain part#1 33
+    100196: Chain part#1 34
+    100198: Chain part#1 35
+    100200: Chain part#1 36
+    100202: Chain part#1 37
+    100204: Chain part#1 38
+    100206: Chain part#1 39
+    100208: Chain part#1 4
+    100210: Chain part#1 40
+    100212: Chain part#1 41
+    100214: Chain part#1 42
+    100216: Chain part#1 43
+    100218: Chain part#1 44
+    100220: Chain part#1 45
+    100222: Chain part#1 46
+    100224: Chain part#1 47
+    100226: Chain part#1 48
+    100228: Chain part#1 49
+    100230: Chain part#1 5
+    100232: Chain part#1 50
+    100234: Chain part#1 51
+    100236: Chain part#1 52
+    100238: Chain part#1 53
+    100240: Chain part#1 54
+    100242: Chain part#1 55
+    100244: Chain part#1 56
+    100246: Chain part#1 57
+    100248: Chain part#1 58
+    100250: Chain part#1 59
+    100252: Chain part#1 6
+    100254: Chain part#1 60
+    100256: Chain part#1 61
+    100258: Chain part#1 62
+    100260: Chain part#1 63
+    100262: Chain part#1 64
+    100264: Chain part#1 65
+    100266: Chain part#1 7
+    100268: Chain part#1 8
+    100270: Chain part#1 9
+    100272: Chain part#2
+    100274: Chain part#2 1
+    100276: Chain part#2 10
+    100278: Chain part#2 11
+    100280: Chain part#2 12
+    100282: Chain part#2 13
+    100284: Chain part#2 14
+    100286: Chain part#2 15
+    100288: Chain part#2 16
+    100290: Chain part#2 17
+    100292: Chain part#2 18
+    100294: Chain part#2 19
+    100296: Chain part#2 2
+    100298: Chain part#2 20
+    100300: Chain part#2 21
+    100302: Chain part#2 22
+    100304: Chain part#2 23
+    100306: Chain part#2 24
+    100308: Chain part#2 25
+    100310: Chain part#2 26
+    100312: Chain part#2 27
+    100314: Chain part#2 28
+    100316: Chain part#2 29
+    100318: Chain part#2 3
+    100320: Chain part#2 30
+    100322: Chain part#2 31
+    100324: Chain part#2 32
+    100326: Chain part#2 33
+    100328: Chain part#2 34
+    100330: Chain part#2 35
+    100332: Chain part#2 36
+    100334: Chain part#2 37
+    100336: Chain part#2 38
+    100338: Chain part#2 39
+    100340: Chain part#2 4
+    100342: Chain part#2 40
+    100344: Chain part#2 41
+    100346: Chain part#2 42
+    100348: Chain part#2 43
+    100350: Chain part#2 44
+    100352: Chain part#2 45
+    100354: Chain part#2 46
+    100356: Chain part#2 47
+    100358: Chain part#2 48
+    100360: Chain part#2 49
+    100362: Chain part#2 5
+    100364: Chain part#2 50
+    100366: Chain part#2 51
+    100368: Chain part#2 52
+    100370: Chain part#2 53
+    100372: Chain part#2 54
+    100374: Chain part#2 55
+    100376: Chain part#2 56
+    100378: Chain part#2 57
+    100380: Chain part#2 58
+    100382: Chain part#2 59
+    100384: Chain part#2 6
+    100386: Chain part#2 60
+    100388: Chain part#2 61
+    100390: Chain part#2 62
+    100392: Chain part#2 63
+    100394: Chain part#2 64
+    100396: Chain part#2 65
+    100398: Chain part#2 66
+    100400: Chain part#2 67
+    100402: Chain part#2 68
+    100404: Chain part#2 69
+    100406: Chain part#2 7
+    100408: Chain part#2 70
+    100410: Chain part#2 71
+    100412: Chain part#2 72
+    100414: Chain part#2 73
+    100416: Chain part#2 74
+    100418: Chain part#2 75
+    100420: Chain part#2 76
+    100422: Chain part#2 77
+    100424: Chain part#2 78
+    100426: Chain part#2 79
+    100428: Chain part#2 8
+    100430: Chain part#2 80
+    100432: Chain part#2 81
+    100434: Chain part#2 82
+    100436: Chain part#2 83
+    100438: Chain part#2 84
+    100440: Chain part#2 85
+    100442: Chain part#2 86
+    100444: Chain part#2 87
+    100446: Chain part#2 88
+    100448: Chain part#2 89
+    100450: Chain part#2 9
+    100452: Chain part#2 90
+    100454: Chain part#3
+    100456: Chain part#3 1
+    100458: Chain part#3 2
+    100460: Chain part#3 3
+    100462: Chain part#3 4
+    100464: Component#6
+    100466: Component#6 1
+    100468: Component#6 10
+    100470: Component#6 11
+    100472: Component#6 12
+    100474: Component#6 13
+    100476: Component#6 14
+    100478: Component#6 15
+    100480: Component#6 16
+    100482: Component#6 17
+    100484: Component#6 18
+    100486: Component#6 19
+    100488: Component#6 2
+    100490: Component#6 20
+    100492: Component#6 21
+    100494: Component#6 22
+    100496: Component#6 23
+    100498: Component#6 24
+    100500: Component#6 25
+    100502: Component#6 26
+    100504: Component#6 27
+    100506: Component#6 3
+    100508: Component#6 4
+    100510: Component#6 5
+    100512: Component#6 6
+    100514: Component#6 7
+    100516: Component#6 8
+    100518: Component#6 9
+    100520: Group 1
+    100522: Group 1015
+    100524: Group 108
+    100526: Group 109
+    100528: Group 110
+    100530: Group 135
+    100532: Group 136
+    100534: Group 137
+    100536: Group 162
+    100538: Group 163
+    100540: Group 164
+    100542: Group 189
+    100544: Group 191
+    100546: Group 2
+    100548: Group 210
+    100550: Group 212
+    100552: Group 279
+    100554: Group 280
+    100556: Group 281
+    100558: Group 283
+    100560: Group 285
+    100562: Group 287
+    100564: Group 289
+    100566: Group 291
+    100568: Group 293
+    100570: Group 295
+    100572: Group 297
+    100574: Group 299
+    100576: Group 3
+    100578: Group 300
+    100580: Group 302
+    100582: Group 304
+    100584: Group 306
+    100586: Group 308
+    100588: Group 310
+    100590: Group 312
+    100592: Group 314
+    100594: Group 316
+    100596: Group 33
+    100598: Group 34
+    100600: Group 35
+    100602: Group 390
+    100604: Group 392
+    100606: Group 396
+    100608: Group 397
+    100610: Group 398
+    100612: Group 400
+    100614: Group 402
+    100616: Group 404
+    100618: Group 406
+    100620: Group 408
+    100622: Group 410
+    100624: Group 412
+    100626: Group 414
+    100628: Group 416
+    100630: Group 417
+    100632: Group 419
+    100634: Group 421
+    100636: Group 423
+    100638: Group 425
+    100640: Group 427
+    100642: Group 429
+    100644: Group 431
+    100646: Group 433
+    100648: Group 442
+    100650: Group 517
+    100652: Group 519
+    100654: Group 523
+    100656: Group 524
+    100658: Group 525
+    100660: Group 527
+    100662: Group 529
+    100664: Group 531
+    100666: Group 533
+    100668: Group 535
+    100670: Group 537
+    100672: Group 539
+    100674: Group 541
+    100676: Group 543
+    100678: Group 544
+    100680: Group 546
+    100682: Group 548
+    100684: Group 550
+    100686: Group 552
+    100688: Group 554
+    100690: Group 556
+    100692: Group 558
+    100694: Group 560
+    100696: Group 569
+    100698: Group 580
+    100700: Group 583
+    100702: Group 585
+    100704: Group 587
+    100706: Group 590
+    100708: Group 592
+    100710: Group 594
+    100712: Group 596
+    100714: Group 598
+    100716: Group 6
+    100718: Group 60
+    100720: Group 600
+    100722: Group 602
+    100724: Group 605
+    100726: Group 607
+    100728: Group 609
+    100730: Group 61
+    100732: Group 612
+    100734: Group 614
+    100736: Group 616
+    100738: Group 62
+    100740: Group 7
+    100742: Group 726
+    100744: Group 728
+    100746: Group 732
+    100748: Group 733
+    100750: Group 734
+    100752: Group 736
+    100754: Group 738
+    100756: Group 740
+    100758: Group 742
+    100760: Group 744
+    100762: Group 746
+    100764: Group 748
+    100766: Group 750
+    100768: Group 752
+    100770: Group 753
+    100772: Group 755
+    100774: Group 757
+    100776: Group 759
+    100778: Group 761
+    100780: Group 763
+    100782: Group 765
+    100784: Group 767
+    100786: Group 769
+    100788: Group 778
+    100790: Group 8
+    100792: Group 853
+    100794: Group 855
+    100796: Group 859
+    100798: Group 860
+    100800: Group 861
+    100802: Group 863
+    100804: Group 865
+    100806: Group 867
+    100808: Group 869
+    100810: Group 87
+    100812: Group 871
+    100814: Group 873
+    100816: Group 875
+    100818: Group 877
+    100820: Group 879
+    100822: Group 880
+    100824: Group 882
+    100826: Group 884
+    100828: Group 886
+    100830: Group 888
+    100832: Group 89
+    100834: Group 890
+    100836: Group 892
+    100838: Group 894
+    100840: Group 896
+    100842: Group 905
+    100844: Group 916
+    100846: Group 919
+    100848: Group 921
+    100850: Group 923
+    100852: Group 926
+    100854: Group 928
+    100856: Group 930
+    100858: Group 932
+    100860: Group 934
+    100862: Group 936
+    100864: Group 938
+    100866: Group 941
+    100868: Group 943
+    100870: Group 945
+    100872: Group 948
+    100874: Group 950
+    100876: Group 952
+    100878: Group 996
+    100880: Group#29
+    100882: Group#29 1
+    100884: Group#29 2
+    100886: Group#29 3
+    100888: Hex bolt M5-25#1
+    100890: Hex bolt M5-25#1 1
+    100892: Hex bolt M5-25#1 2
+    100894: Hex bolt M5-25#1 3
+    100896: Hex bolt M5-25#1 4
+    100898: Hex bolt M5-25#1 5
+    100900: Hex nut M5#1
+    100902: Hex nut M5#1 1
+    100904: Hex nut M5#1 2
+    100906: Hex nut M5#1 3
+    100908: Hex nut M5#1 4
+    100910: Hex nut M5#2
+    100912: Hex nut M5#2 1
+    100914: Hex nut M5#2 2
+    100916: Hex nut M5#2 3
+    100918: Hex nut M5#2 4
+    100920: Hex nut M5#2 5
+    100922: Knot
+    100924: Knot 1
+    100926: Knot 2
+    100928: Knot 3
+    100930: Knot 4
+    100932: Knot 5
+    100934: Knot 6
+    100936: Knot 7
+    100938: 'Motorbike tire capping for wood end #1'
+    100940: 'Motorbike tire capping for wood end #1 1'
+    100942: 'Motorbike tire capping for wood end #1 2'
+    100944: 'Motorbike tire capping for wood end #1 3'
+    100946: NAIL#2
+    100948: NAIL#2 1
+    100950: NAIL#2 10
+    100952: NAIL#2 11
+    100954: NAIL#2 12
+    100956: NAIL#2 13
+    100958: NAIL#2 14
+    100960: NAIL#2 15
+    100962: NAIL#2 2
+    100964: NAIL#2 3
+    100966: NAIL#2 4
+    100968: NAIL#2 5
+    100970: NAIL#2 6
+    100972: NAIL#2 7
+    100974: NAIL#2 8
+    100976: NAIL#2 9
+    100978: right chain
+    100980: right chain 1
+    100982: right chain 2
+    100984: right chain 3
+    100986: right chain 4
+    100988: support#1
+    100990: support#1 1
+    100992: swing bottom#2
+    100994: swing bottom#2 1
+    100996: SWING CHAIN#2
+    100998: SWING CHAIN#2 1
+    101000: SWING CHAIN#2 2
+    101002: SWING CHAIN#2 3
+    101004: swing set
+    101006: swing set 1
+    101008: //RootNode
+    101010: Two chain parts#1
+    101012: Two chain parts#1 1
+    101014: Two chain parts#1 2
+    101016: Two chain parts#1 3
+    101018: Two chain parts#1 4
+    101020: Two chain parts#12
+    101022: Two chain parts#12 1
+    101024: Two chain parts#13
+    101026: Two chain parts#13 1
+    101028: Two chain parts#2
+    101030: Two chain parts#2 1
+    101032: Two chain parts#2 2
+    101034: Two chain parts#2 3
+    101036: Two chain parts#2 4
+    101038: Two chain parts#3
+    101040: Two chain parts#3 1
+    101042: Two chain parts#3 2
+    101044: Two chain parts#3 3
+    101046: Two chain parts#4
+    101048: Two chain parts#4 1
+    101050: Two chain parts#4 10
+    101052: Two chain parts#4 11
+    101054: Two chain parts#4 12
+    101056: Two chain parts#4 13
+    101058: Two chain parts#4 14
+    101060: Two chain parts#4 15
+    101062: Two chain parts#4 16
+    101064: Two chain parts#4 17
+    101066: Two chain parts#4 18
+    101068: Two chain parts#4 19
+    101070: Two chain parts#4 2
+    101072: Two chain parts#4 20
+    101074: Two chain parts#4 21
+    101076: Two chain parts#4 22
+    101078: Two chain parts#4 23
+    101080: Two chain parts#4 24
+    101082: Two chain parts#4 25
+    101084: Two chain parts#4 26
+    101086: Two chain parts#4 27
+    101088: Two chain parts#4 28
+    101090: Two chain parts#4 29
+    101092: Two chain parts#4 3
+    101094: Two chain parts#4 30
+    101096: Two chain parts#4 31
+    101098: Two chain parts#4 32
+    101100: Two chain parts#4 33
+    101102: Two chain parts#4 34
+    101104: Two chain parts#4 4
+    101106: Two chain parts#4 5
+    101108: Two chain parts#4 6
+    101110: Two chain parts#4 7
+    101112: Two chain parts#4 8
+    101114: Two chain parts#4 9
+    101116: Two chain parts#6
+    101118: Two chain parts#6 1
+    101120: Two chain parts#6 2
+    101122: Two chain parts#6 3
+    101124: Two chain parts#6 4
+    101126: Two chain parts#8
+    101128: Two chain parts#8 1
+    101130: Two chain parts#8 10
+    101132: Two chain parts#8 11
+    101134: Two chain parts#8 2
+    101136: Two chain parts#8 3
+    101138: Two chain parts#8 4
+    101140: Two chain parts#8 5
+    101142: Two chain parts#8 6
+    101144: Two chain parts#8 7
+    101146: Two chain parts#8 8
+    101148: Two chain parts#8 9
+    101150: WASHER#1
+    101152: WASHER#1 1
+    101154: WASHER#1 2
+    101156: WASHER#1 3
+    101158: WASHER#1 4
+    101160: WASHER#1 5
+    101162: WASHER#1 6
+    101164: WASHER#1 7
+    101166: WASHER#1 8
+    101168: WASHER#1 9
+    101170: WASHER#2
+    101172: WASHER#2 1
+    101174: WASHER#2 10
+    101176: WASHER#2 11
+    101178: WASHER#2 2
+    101180: WASHER#2 3
+    101182: WASHER#2 4
+    101184: WASHER#2 5
+    101186: WASHER#2 6
+    101188: WASHER#2 7
+    101190: WASHER#2 8
+    101192: WASHER#2 9
+    400000: 10 thread
+    400002: 10 thread 1
+    400004: 10 thread 10
+    400006: 10 thread 11
+    400008: 10 thread 12
+    400010: 10 thread 13
+    400012: 10 thread 14
+    400014: 10 thread 15
+    400016: 10 thread 16
+    400018: 10 thread 17
+    400020: 10 thread 18
+    400022: 10 thread 19
+    400024: 10 thread 2
+    400026: 10 thread 20
+    400028: 10 thread 21
+    400030: 10 thread 22
+    400032: 10 thread 23
+    400034: 10 thread 24
+    400036: 10 thread 25
+    400038: 10 thread 26
+    400040: 10 thread 27
+    400042: 10 thread 28
+    400044: 10 thread 29
+    400046: 10 thread 3
+    400048: 10 thread 30
+    400050: 10 thread 31
+    400052: 10 thread 32
+    400054: 10 thread 33
+    400056: 10 thread 34
+    400058: 10 thread 35
+    400060: 10 thread 36
+    400062: 10 thread 37
+    400064: 10 thread 38
+    400066: 10 thread 39
+    400068: 10 thread 4
+    400070: 10 thread 40
+    400072: 10 thread 41
+    400074: 10 thread 42
+    400076: 10 thread 43
+    400078: 10 thread 44
+    400080: 10 thread 45
+    400082: 10 thread 46
+    400084: 10 thread 47
+    400086: 10 thread 48
+    400088: 10 thread 49
+    400090: 10 thread 5
+    400092: 10 thread 50
+    400094: 10 thread 51
+    400096: 10 thread 52
+    400098: 10 thread 53
+    400100: 10 thread 54
+    400102: 10 thread 55
+    400104: 10 thread 56
+    400106: 10 thread 57
+    400108: 10 thread 58
+    400110: 10 thread 59
+    400112: 10 thread 6
+    400114: 10 thread 7
+    400116: 10 thread 8
+    400118: 10 thread 9
+    400120: '2 nails '
+    400122: 2 nails  1
+    400124: 2 nails  2
+    400126: 2 nails  3
+    400128: 2 nails  4
+    400130: bolt#2
+    400132: bolt#2 1
+    400134: bolt#2 2
+    400136: bolt#2 3
+    400138: bolt#2 4
+    400140: Chain part#1
+    400142: Chain part#1 1
+    400144: Chain part#1 10
+    400146: Chain part#1 11
+    400148: Chain part#1 12
+    400150: Chain part#1 13
+    400152: Chain part#1 14
+    400154: Chain part#1 15
+    400156: Chain part#1 16
+    400158: Chain part#1 17
+    400160: Chain part#1 18
+    400162: Chain part#1 19
+    400164: Chain part#1 2
+    400166: Chain part#1 20
+    400168: Chain part#1 21
+    400170: Chain part#1 22
+    400172: Chain part#1 23
+    400174: Chain part#1 24
+    400176: Chain part#1 25
+    400178: Chain part#1 26
+    400180: Chain part#1 27
+    400182: Chain part#1 28
+    400184: Chain part#1 29
+    400186: Chain part#1 3
+    400188: Chain part#1 30
+    400190: Chain part#1 31
+    400192: Chain part#1 32
+    400194: Chain part#1 33
+    400196: Chain part#1 34
+    400198: Chain part#1 35
+    400200: Chain part#1 36
+    400202: Chain part#1 37
+    400204: Chain part#1 38
+    400206: Chain part#1 39
+    400208: Chain part#1 4
+    400210: Chain part#1 40
+    400212: Chain part#1 41
+    400214: Chain part#1 42
+    400216: Chain part#1 43
+    400218: Chain part#1 44
+    400220: Chain part#1 45
+    400222: Chain part#1 46
+    400224: Chain part#1 47
+    400226: Chain part#1 48
+    400228: Chain part#1 49
+    400230: Chain part#1 5
+    400232: Chain part#1 50
+    400234: Chain part#1 51
+    400236: Chain part#1 52
+    400238: Chain part#1 53
+    400240: Chain part#1 54
+    400242: Chain part#1 55
+    400244: Chain part#1 56
+    400246: Chain part#1 57
+    400248: Chain part#1 58
+    400250: Chain part#1 59
+    400252: Chain part#1 6
+    400254: Chain part#1 60
+    400256: Chain part#1 61
+    400258: Chain part#1 62
+    400260: Chain part#1 63
+    400262: Chain part#1 64
+    400264: Chain part#1 65
+    400266: Chain part#1 7
+    400268: Chain part#1 8
+    400270: Chain part#1 9
+    400272: Chain part#2
+    400274: Chain part#2 1
+    400276: Chain part#2 10
+    400278: Chain part#2 11
+    400280: Chain part#2 12
+    400282: Chain part#2 13
+    400284: Chain part#2 14
+    400286: Chain part#2 15
+    400288: Chain part#2 16
+    400290: Chain part#2 17
+    400292: Chain part#2 18
+    400294: Chain part#2 19
+    400296: Chain part#2 2
+    400298: Chain part#2 20
+    400300: Chain part#2 21
+    400302: Chain part#2 22
+    400304: Chain part#2 23
+    400306: Chain part#2 24
+    400308: Chain part#2 25
+    400310: Chain part#2 26
+    400312: Chain part#2 27
+    400314: Chain part#2 28
+    400316: Chain part#2 29
+    400318: Chain part#2 3
+    400320: Chain part#2 30
+    400322: Chain part#2 31
+    400324: Chain part#2 32
+    400326: Chain part#2 33
+    400328: Chain part#2 34
+    400330: Chain part#2 35
+    400332: Chain part#2 36
+    400334: Chain part#2 37
+    400336: Chain part#2 38
+    400338: Chain part#2 39
+    400340: Chain part#2 4
+    400342: Chain part#2 40
+    400344: Chain part#2 41
+    400346: Chain part#2 42
+    400348: Chain part#2 43
+    400350: Chain part#2 44
+    400352: Chain part#2 45
+    400354: Chain part#2 46
+    400356: Chain part#2 47
+    400358: Chain part#2 48
+    400360: Chain part#2 49
+    400362: Chain part#2 5
+    400364: Chain part#2 50
+    400366: Chain part#2 51
+    400368: Chain part#2 52
+    400370: Chain part#2 53
+    400372: Chain part#2 54
+    400374: Chain part#2 55
+    400376: Chain part#2 56
+    400378: Chain part#2 57
+    400380: Chain part#2 58
+    400382: Chain part#2 59
+    400384: Chain part#2 6
+    400386: Chain part#2 60
+    400388: Chain part#2 61
+    400390: Chain part#2 62
+    400392: Chain part#2 63
+    400394: Chain part#2 64
+    400396: Chain part#2 65
+    400398: Chain part#2 66
+    400400: Chain part#2 67
+    400402: Chain part#2 68
+    400404: Chain part#2 69
+    400406: Chain part#2 7
+    400408: Chain part#2 70
+    400410: Chain part#2 71
+    400412: Chain part#2 72
+    400414: Chain part#2 73
+    400416: Chain part#2 74
+    400418: Chain part#2 75
+    400420: Chain part#2 76
+    400422: Chain part#2 77
+    400424: Chain part#2 78
+    400426: Chain part#2 79
+    400428: Chain part#2 8
+    400430: Chain part#2 80
+    400432: Chain part#2 81
+    400434: Chain part#2 82
+    400436: Chain part#2 83
+    400438: Chain part#2 84
+    400440: Chain part#2 85
+    400442: Chain part#2 86
+    400444: Chain part#2 87
+    400446: Chain part#2 88
+    400448: Chain part#2 89
+    400450: Chain part#2 9
+    400452: Chain part#2 90
+    400454: Chain part#3
+    400456: Chain part#3 1
+    400458: Chain part#3 2
+    400460: Chain part#3 3
+    400462: Chain part#3 4
+    400464: Component#6
+    400466: Component#6 1
+    400468: Component#6 10
+    400470: Component#6 11
+    400472: Component#6 12
+    400474: Component#6 13
+    400476: Component#6 14
+    400478: Component#6 15
+    400480: Component#6 16
+    400482: Component#6 17
+    400484: Component#6 18
+    400486: Component#6 19
+    400488: Component#6 2
+    400490: Component#6 20
+    400492: Component#6 21
+    400494: Component#6 22
+    400496: Component#6 23
+    400498: Component#6 24
+    400500: Component#6 25
+    400502: Component#6 26
+    400504: Component#6 27
+    400506: Component#6 3
+    400508: Component#6 4
+    400510: Component#6 5
+    400512: Component#6 6
+    400514: Component#6 7
+    400516: Component#6 8
+    400518: Component#6 9
+    400520: Group 1
+    400522: Group 1015
+    400524: Group 108
+    400526: Group 109
+    400528: Group 110
+    400530: Group 135
+    400532: Group 136
+    400534: Group 137
+    400536: Group 162
+    400538: Group 163
+    400540: Group 164
+    400542: Group 189
+    400544: Group 191
+    400546: Group 2
+    400548: Group 210
+    400550: Group 212
+    400552: Group 279
+    400554: Group 280
+    400556: Group 281
+    400558: Group 283
+    400560: Group 285
+    400562: Group 287
+    400564: Group 289
+    400566: Group 291
+    400568: Group 293
+    400570: Group 295
+    400572: Group 297
+    400574: Group 299
+    400576: Group 3
+    400578: Group 300
+    400580: Group 302
+    400582: Group 304
+    400584: Group 306
+    400586: Group 308
+    400588: Group 310
+    400590: Group 312
+    400592: Group 314
+    400594: Group 316
+    400596: Group 33
+    400598: Group 34
+    400600: Group 35
+    400602: Group 390
+    400604: Group 392
+    400606: Group 396
+    400608: Group 397
+    400610: Group 398
+    400612: Group 400
+    400614: Group 402
+    400616: Group 404
+    400618: Group 406
+    400620: Group 408
+    400622: Group 410
+    400624: Group 412
+    400626: Group 414
+    400628: Group 416
+    400630: Group 417
+    400632: Group 419
+    400634: Group 421
+    400636: Group 423
+    400638: Group 425
+    400640: Group 427
+    400642: Group 429
+    400644: Group 431
+    400646: Group 433
+    400648: Group 442
+    400650: Group 517
+    400652: Group 519
+    400654: Group 523
+    400656: Group 524
+    400658: Group 525
+    400660: Group 527
+    400662: Group 529
+    400664: Group 531
+    400666: Group 533
+    400668: Group 535
+    400670: Group 537
+    400672: Group 539
+    400674: Group 541
+    400676: Group 543
+    400678: Group 544
+    400680: Group 546
+    400682: Group 548
+    400684: Group 550
+    400686: Group 552
+    400688: Group 554
+    400690: Group 556
+    400692: Group 558
+    400694: Group 560
+    400696: Group 569
+    400698: Group 580
+    400700: Group 583
+    400702: Group 585
+    400704: Group 587
+    400706: Group 590
+    400708: Group 592
+    400710: Group 594
+    400712: Group 596
+    400714: Group 598
+    400716: Group 6
+    400718: Group 60
+    400720: Group 600
+    400722: Group 602
+    400724: Group 605
+    400726: Group 607
+    400728: Group 609
+    400730: Group 61
+    400732: Group 612
+    400734: Group 614
+    400736: Group 616
+    400738: Group 62
+    400740: Group 7
+    400742: Group 726
+    400744: Group 728
+    400746: Group 732
+    400748: Group 733
+    400750: Group 734
+    400752: Group 736
+    400754: Group 738
+    400756: Group 740
+    400758: Group 742
+    400760: Group 744
+    400762: Group 746
+    400764: Group 748
+    400766: Group 750
+    400768: Group 752
+    400770: Group 753
+    400772: Group 755
+    400774: Group 757
+    400776: Group 759
+    400778: Group 761
+    400780: Group 763
+    400782: Group 765
+    400784: Group 767
+    400786: Group 769
+    400788: Group 778
+    400790: Group 8
+    400792: Group 853
+    400794: Group 855
+    400796: Group 859
+    400798: Group 860
+    400800: Group 861
+    400802: Group 863
+    400804: Group 865
+    400806: Group 867
+    400808: Group 869
+    400810: Group 87
+    400812: Group 871
+    400814: Group 873
+    400816: Group 875
+    400818: Group 877
+    400820: Group 879
+    400822: Group 880
+    400824: Group 882
+    400826: Group 884
+    400828: Group 886
+    400830: Group 888
+    400832: Group 89
+    400834: Group 890
+    400836: Group 892
+    400838: Group 894
+    400840: Group 896
+    400842: Group 905
+    400844: Group 916
+    400846: Group 919
+    400848: Group 921
+    400850: Group 923
+    400852: Group 926
+    400854: Group 928
+    400856: Group 930
+    400858: Group 932
+    400860: Group 934
+    400862: Group 936
+    400864: Group 938
+    400866: Group 941
+    400868: Group 943
+    400870: Group 945
+    400872: Group 948
+    400874: Group 950
+    400876: Group 952
+    400878: Group 996
+    400880: Group#29
+    400882: Group#29 1
+    400884: Group#29 2
+    400886: Group#29 3
+    400888: Hex bolt M5-25#1
+    400890: Hex bolt M5-25#1 1
+    400892: Hex bolt M5-25#1 2
+    400894: Hex bolt M5-25#1 3
+    400896: Hex bolt M5-25#1 4
+    400898: Hex bolt M5-25#1 5
+    400900: Hex nut M5#1
+    400902: Hex nut M5#1 1
+    400904: Hex nut M5#1 2
+    400906: Hex nut M5#1 3
+    400908: Hex nut M5#1 4
+    400910: Hex nut M5#2
+    400912: Hex nut M5#2 1
+    400914: Hex nut M5#2 2
+    400916: Hex nut M5#2 3
+    400918: Hex nut M5#2 4
+    400920: Hex nut M5#2 5
+    400922: Knot
+    400924: Knot 1
+    400926: Knot 2
+    400928: Knot 3
+    400930: Knot 4
+    400932: Knot 5
+    400934: Knot 6
+    400936: Knot 7
+    400938: 'Motorbike tire capping for wood end #1'
+    400940: 'Motorbike tire capping for wood end #1 1'
+    400942: 'Motorbike tire capping for wood end #1 2'
+    400944: 'Motorbike tire capping for wood end #1 3'
+    400946: NAIL#2
+    400948: NAIL#2 1
+    400950: NAIL#2 10
+    400952: NAIL#2 11
+    400954: NAIL#2 12
+    400956: NAIL#2 13
+    400958: NAIL#2 14
+    400960: NAIL#2 15
+    400962: NAIL#2 2
+    400964: NAIL#2 3
+    400966: NAIL#2 4
+    400968: NAIL#2 5
+    400970: NAIL#2 6
+    400972: NAIL#2 7
+    400974: NAIL#2 8
+    400976: NAIL#2 9
+    400978: right chain
+    400980: right chain 1
+    400982: right chain 2
+    400984: right chain 3
+    400986: right chain 4
+    400988: support#1
+    400990: support#1 1
+    400992: swing bottom#2
+    400994: swing bottom#2 1
+    400996: SWING CHAIN#2
+    400998: SWING CHAIN#2 1
+    401000: SWING CHAIN#2 2
+    401002: SWING CHAIN#2 3
+    401004: swing set
+    401006: swing set 1
+    401008: //RootNode
+    401010: Two chain parts#1
+    401012: Two chain parts#1 1
+    401014: Two chain parts#1 2
+    401016: Two chain parts#1 3
+    401018: Two chain parts#1 4
+    401020: Two chain parts#12
+    401022: Two chain parts#12 1
+    401024: Two chain parts#13
+    401026: Two chain parts#13 1
+    401028: Two chain parts#2
+    401030: Two chain parts#2 1
+    401032: Two chain parts#2 2
+    401034: Two chain parts#2 3
+    401036: Two chain parts#2 4
+    401038: Two chain parts#3
+    401040: Two chain parts#3 1
+    401042: Two chain parts#3 2
+    401044: Two chain parts#3 3
+    401046: Two chain parts#4
+    401048: Two chain parts#4 1
+    401050: Two chain parts#4 10
+    401052: Two chain parts#4 11
+    401054: Two chain parts#4 12
+    401056: Two chain parts#4 13
+    401058: Two chain parts#4 14
+    401060: Two chain parts#4 15
+    401062: Two chain parts#4 16
+    401064: Two chain parts#4 17
+    401066: Two chain parts#4 18
+    401068: Two chain parts#4 19
+    401070: Two chain parts#4 2
+    401072: Two chain parts#4 20
+    401074: Two chain parts#4 21
+    401076: Two chain parts#4 22
+    401078: Two chain parts#4 23
+    401080: Two chain parts#4 24
+    401082: Two chain parts#4 25
+    401084: Two chain parts#4 26
+    401086: Two chain parts#4 27
+    401088: Two chain parts#4 28
+    401090: Two chain parts#4 29
+    401092: Two chain parts#4 3
+    401094: Two chain parts#4 30
+    401096: Two chain parts#4 31
+    401098: Two chain parts#4 32
+    401100: Two chain parts#4 33
+    401102: Two chain parts#4 34
+    401104: Two chain parts#4 4
+    401106: Two chain parts#4 5
+    401108: Two chain parts#4 6
+    401110: Two chain parts#4 7
+    401112: Two chain parts#4 8
+    401114: Two chain parts#4 9
+    401116: Two chain parts#6
+    401118: Two chain parts#6 1
+    401120: Two chain parts#6 2
+    401122: Two chain parts#6 3
+    401124: Two chain parts#6 4
+    401126: Two chain parts#8
+    401128: Two chain parts#8 1
+    401130: Two chain parts#8 10
+    401132: Two chain parts#8 11
+    401134: Two chain parts#8 2
+    401136: Two chain parts#8 3
+    401138: Two chain parts#8 4
+    401140: Two chain parts#8 5
+    401142: Two chain parts#8 6
+    401144: Two chain parts#8 7
+    401146: Two chain parts#8 8
+    401148: Two chain parts#8 9
+    401150: WASHER#1
+    401152: WASHER#1 1
+    401154: WASHER#1 2
+    401156: WASHER#1 3
+    401158: WASHER#1 4
+    401160: WASHER#1 5
+    401162: WASHER#1 6
+    401164: WASHER#1 7
+    401166: WASHER#1 8
+    401168: WASHER#1 9
+    401170: WASHER#2
+    401172: WASHER#2 1
+    401174: WASHER#2 10
+    401176: WASHER#2 11
+    401178: WASHER#2 2
+    401180: WASHER#2 3
+    401182: WASHER#2 4
+    401184: WASHER#2 5
+    401186: WASHER#2 6
+    401188: WASHER#2 7
+    401190: WASHER#2 8
+    401192: WASHER#2 9
+    2300000: 10 thread
+    2300002: 10 thread 1
+    2300004: 10 thread 10
+    2300006: 10 thread 11
+    2300008: 10 thread 12
+    2300010: 10 thread 13
+    2300012: 10 thread 14
+    2300014: 10 thread 15
+    2300016: 10 thread 16
+    2300018: 10 thread 17
+    2300020: 10 thread 18
+    2300022: 10 thread 19
+    2300024: 10 thread 2
+    2300026: 10 thread 20
+    2300028: 10 thread 21
+    2300030: 10 thread 22
+    2300032: 10 thread 23
+    2300034: 10 thread 24
+    2300036: 10 thread 25
+    2300038: 10 thread 26
+    2300040: 10 thread 27
+    2300042: 10 thread 28
+    2300044: 10 thread 29
+    2300046: 10 thread 3
+    2300048: 10 thread 30
+    2300050: 10 thread 31
+    2300052: 10 thread 32
+    2300054: 10 thread 33
+    2300056: 10 thread 34
+    2300058: 10 thread 35
+    2300060: 10 thread 36
+    2300062: 10 thread 37
+    2300064: 10 thread 38
+    2300066: 10 thread 39
+    2300068: 10 thread 4
+    2300070: 10 thread 40
+    2300072: 10 thread 41
+    2300074: 10 thread 42
+    2300076: 10 thread 43
+    2300078: 10 thread 44
+    2300080: 10 thread 45
+    2300082: 10 thread 46
+    2300084: 10 thread 47
+    2300086: 10 thread 48
+    2300088: 10 thread 49
+    2300090: 10 thread 5
+    2300092: 10 thread 50
+    2300094: 10 thread 51
+    2300096: 10 thread 52
+    2300098: 10 thread 53
+    2300100: 10 thread 54
+    2300102: 10 thread 55
+    2300104: 10 thread 56
+    2300106: 10 thread 57
+    2300108: 10 thread 58
+    2300110: 10 thread 59
+    2300112: 10 thread 6
+    2300114: 10 thread 7
+    2300116: 10 thread 8
+    2300118: 10 thread 9
+    2300120: bolt#2
+    2300122: bolt#2 1
+    2300124: bolt#2 2
+    2300126: bolt#2 3
+    2300128: bolt#2 4
+    2300130: Chain part#1
+    2300132: Chain part#1 1
+    2300134: Chain part#1 10
+    2300136: Chain part#1 11
+    2300138: Chain part#1 12
+    2300140: Chain part#1 13
+    2300142: Chain part#1 14
+    2300144: Chain part#1 15
+    2300146: Chain part#1 16
+    2300148: Chain part#1 17
+    2300150: Chain part#1 18
+    2300152: Chain part#1 19
+    2300154: Chain part#1 2
+    2300156: Chain part#1 20
+    2300158: Chain part#1 21
+    2300160: Chain part#1 22
+    2300162: Chain part#1 23
+    2300164: Chain part#1 24
+    2300166: Chain part#1 25
+    2300168: Chain part#1 26
+    2300170: Chain part#1 27
+    2300172: Chain part#1 28
+    2300174: Chain part#1 29
+    2300176: Chain part#1 3
+    2300178: Chain part#1 30
+    2300180: Chain part#1 31
+    2300182: Chain part#1 32
+    2300184: Chain part#1 33
+    2300186: Chain part#1 34
+    2300188: Chain part#1 35
+    2300190: Chain part#1 36
+    2300192: Chain part#1 37
+    2300194: Chain part#1 38
+    2300196: Chain part#1 39
+    2300198: Chain part#1 4
+    2300200: Chain part#1 40
+    2300202: Chain part#1 41
+    2300204: Chain part#1 42
+    2300206: Chain part#1 43
+    2300208: Chain part#1 44
+    2300210: Chain part#1 45
+    2300212: Chain part#1 46
+    2300214: Chain part#1 47
+    2300216: Chain part#1 48
+    2300218: Chain part#1 49
+    2300220: Chain part#1 5
+    2300222: Chain part#1 50
+    2300224: Chain part#1 51
+    2300226: Chain part#1 52
+    2300228: Chain part#1 53
+    2300230: Chain part#1 54
+    2300232: Chain part#1 55
+    2300234: Chain part#1 56
+    2300236: Chain part#1 57
+    2300238: Chain part#1 58
+    2300240: Chain part#1 59
+    2300242: Chain part#1 6
+    2300244: Chain part#1 60
+    2300246: Chain part#1 61
+    2300248: Chain part#1 62
+    2300250: Chain part#1 63
+    2300252: Chain part#1 64
+    2300254: Chain part#1 65
+    2300256: Chain part#1 7
+    2300258: Chain part#1 8
+    2300260: Chain part#1 9
+    2300262: Chain part#2
+    2300264: Chain part#2 1
+    2300266: Chain part#2 10
+    2300268: Chain part#2 11
+    2300270: Chain part#2 12
+    2300272: Chain part#2 13
+    2300274: Chain part#2 14
+    2300276: Chain part#2 15
+    2300278: Chain part#2 16
+    2300280: Chain part#2 17
+    2300282: Chain part#2 18
+    2300284: Chain part#2 19
+    2300286: Chain part#2 2
+    2300288: Chain part#2 20
+    2300290: Chain part#2 21
+    2300292: Chain part#2 22
+    2300294: Chain part#2 23
+    2300296: Chain part#2 24
+    2300298: Chain part#2 25
+    2300300: Chain part#2 26
+    2300302: Chain part#2 27
+    2300304: Chain part#2 28
+    2300306: Chain part#2 29
+    2300308: Chain part#2 3
+    2300310: Chain part#2 30
+    2300312: Chain part#2 31
+    2300314: Chain part#2 32
+    2300316: Chain part#2 33
+    2300318: Chain part#2 34
+    2300320: Chain part#2 35
+    2300322: Chain part#2 36
+    2300324: Chain part#2 37
+    2300326: Chain part#2 38
+    2300328: Chain part#2 39
+    2300330: Chain part#2 4
+    2300332: Chain part#2 40
+    2300334: Chain part#2 41
+    2300336: Chain part#2 42
+    2300338: Chain part#2 43
+    2300340: Chain part#2 44
+    2300342: Chain part#2 45
+    2300344: Chain part#2 46
+    2300346: Chain part#2 47
+    2300348: Chain part#2 48
+    2300350: Chain part#2 49
+    2300352: Chain part#2 5
+    2300354: Chain part#2 50
+    2300356: Chain part#2 51
+    2300358: Chain part#2 52
+    2300360: Chain part#2 53
+    2300362: Chain part#2 54
+    2300364: Chain part#2 55
+    2300366: Chain part#2 56
+    2300368: Chain part#2 57
+    2300370: Chain part#2 58
+    2300372: Chain part#2 59
+    2300374: Chain part#2 6
+    2300376: Chain part#2 60
+    2300378: Chain part#2 61
+    2300380: Chain part#2 62
+    2300382: Chain part#2 63
+    2300384: Chain part#2 64
+    2300386: Chain part#2 65
+    2300388: Chain part#2 66
+    2300390: Chain part#2 67
+    2300392: Chain part#2 68
+    2300394: Chain part#2 69
+    2300396: Chain part#2 7
+    2300398: Chain part#2 70
+    2300400: Chain part#2 71
+    2300402: Chain part#2 72
+    2300404: Chain part#2 73
+    2300406: Chain part#2 74
+    2300408: Chain part#2 75
+    2300410: Chain part#2 76
+    2300412: Chain part#2 77
+    2300414: Chain part#2 78
+    2300416: Chain part#2 79
+    2300418: Chain part#2 8
+    2300420: Chain part#2 80
+    2300422: Chain part#2 81
+    2300424: Chain part#2 82
+    2300426: Chain part#2 83
+    2300428: Chain part#2 84
+    2300430: Chain part#2 85
+    2300432: Chain part#2 86
+    2300434: Chain part#2 87
+    2300436: Chain part#2 88
+    2300438: Chain part#2 89
+    2300440: Chain part#2 9
+    2300442: Chain part#2 90
+    2300444: Chain part#3
+    2300446: Chain part#3 1
+    2300448: Chain part#3 2
+    2300450: Chain part#3 3
+    2300452: Chain part#3 4
+    2300454: Component#6
+    2300456: Component#6 1
+    2300458: Component#6 10
+    2300460: Component#6 11
+    2300462: Component#6 12
+    2300464: Component#6 13
+    2300466: Component#6 14
+    2300468: Component#6 15
+    2300470: Component#6 16
+    2300472: Component#6 17
+    2300474: Component#6 18
+    2300476: Component#6 19
+    2300478: Component#6 2
+    2300480: Component#6 20
+    2300482: Component#6 21
+    2300484: Component#6 22
+    2300486: Component#6 23
+    2300488: Component#6 24
+    2300490: Component#6 25
+    2300492: Component#6 26
+    2300494: Component#6 27
+    2300496: Component#6 3
+    2300498: Component#6 4
+    2300500: Component#6 5
+    2300502: Component#6 6
+    2300504: Component#6 7
+    2300506: Component#6 8
+    2300508: Component#6 9
+    2300510: Group 189
+    2300512: Group 191
+    2300514: Group 210
+    2300516: Group 212
+    2300518: Group 281
+    2300520: Group 283
+    2300522: Group 285
+    2300524: Group 287
+    2300526: Group 289
+    2300528: Group 291
+    2300530: Group 293
+    2300532: Group 295
+    2300534: Group 297
+    2300536: Group 3
+    2300538: Group 300
+    2300540: Group 302
+    2300542: Group 304
+    2300544: Group 306
+    2300546: Group 308
+    2300548: Group 310
+    2300550: Group 312
+    2300552: Group 314
+    2300554: Group 316
+    2300556: Group 390
+    2300558: Group 392
+    2300560: Group 398
+    2300562: Group 400
+    2300564: Group 402
+    2300566: Group 404
+    2300568: Group 406
+    2300570: Group 408
+    2300572: Group 410
+    2300574: Group 412
+    2300576: Group 414
+    2300578: Group 417
+    2300580: Group 419
+    2300582: Group 421
+    2300584: Group 423
+    2300586: Group 425
+    2300588: Group 427
+    2300590: Group 429
+    2300592: Group 431
+    2300594: Group 433
+    2300596: Group 442
+    2300598: Group 517
+    2300600: Group 519
+    2300602: Group 525
+    2300604: Group 527
+    2300606: Group 529
+    2300608: Group 531
+    2300610: Group 533
+    2300612: Group 535
+    2300614: Group 537
+    2300616: Group 539
+    2300618: Group 541
+    2300620: Group 544
+    2300622: Group 546
+    2300624: Group 548
+    2300626: Group 550
+    2300628: Group 552
+    2300630: Group 554
+    2300632: Group 556
+    2300634: Group 558
+    2300636: Group 560
+    2300638: Group 569
+    2300640: Group 580
+    2300642: Group 583
+    2300644: Group 585
+    2300646: Group 587
+    2300648: Group 590
+    2300650: Group 592
+    2300652: Group 594
+    2300654: Group 596
+    2300656: Group 598
+    2300658: Group 600
+    2300660: Group 602
+    2300662: Group 605
+    2300664: Group 607
+    2300666: Group 609
+    2300668: Group 612
+    2300670: Group 614
+    2300672: Group 616
+    2300674: Group 726
+    2300676: Group 728
+    2300678: Group 734
+    2300680: Group 736
+    2300682: Group 738
+    2300684: Group 740
+    2300686: Group 742
+    2300688: Group 744
+    2300690: Group 746
+    2300692: Group 748
+    2300694: Group 750
+    2300696: Group 753
+    2300698: Group 755
+    2300700: Group 757
+    2300702: Group 759
+    2300704: Group 761
+    2300706: Group 763
+    2300708: Group 765
+    2300710: Group 767
+    2300712: Group 769
+    2300714: Group 778
+    2300716: Group 853
+    2300718: Group 855
+    2300720: Group 861
+    2300722: Group 863
+    2300724: Group 865
+    2300726: Group 867
+    2300728: Group 869
+    2300730: Group 87
+    2300732: Group 871
+    2300734: Group 873
+    2300736: Group 875
+    2300738: Group 877
+    2300740: Group 880
+    2300742: Group 882
+    2300744: Group 884
+    2300746: Group 886
+    2300748: Group 888
+    2300750: Group 89
+    2300752: Group 890
+    2300754: Group 892
+    2300756: Group 894
+    2300758: Group 896
+    2300760: Group 905
+    2300762: Group 916
+    2300764: Group 919
+    2300766: Group 921
+    2300768: Group 923
+    2300770: Group 926
+    2300772: Group 928
+    2300774: Group 930
+    2300776: Group 932
+    2300778: Group 934
+    2300780: Group 936
+    2300782: Group 938
+    2300784: Group 941
+    2300786: Group 943
+    2300788: Group 945
+    2300790: Group 948
+    2300792: Group 950
+    2300794: Group 952
+    2300796: Hex bolt M5-25#1
+    2300798: Hex bolt M5-25#1 1
+    2300800: Hex bolt M5-25#1 2
+    2300802: Hex bolt M5-25#1 3
+    2300804: Hex bolt M5-25#1 4
+    2300806: Hex bolt M5-25#1 5
+    2300808: Hex nut M5#1
+    2300810: Hex nut M5#1 1
+    2300812: Hex nut M5#1 2
+    2300814: Hex nut M5#1 3
+    2300816: Hex nut M5#1 4
+    2300818: Hex nut M5#2
+    2300820: Hex nut M5#2 1
+    2300822: Hex nut M5#2 2
+    2300824: Hex nut M5#2 3
+    2300826: Hex nut M5#2 4
+    2300828: Hex nut M5#2 5
+    2300830: 'Motorbike tire capping for wood end #1'
+    2300832: 'Motorbike tire capping for wood end #1 1'
+    2300834: 'Motorbike tire capping for wood end #1 2'
+    2300836: 'Motorbike tire capping for wood end #1 3'
+    2300838: NAIL#2
+    2300840: NAIL#2 1
+    2300842: NAIL#2 10
+    2300844: NAIL#2 11
+    2300846: NAIL#2 12
+    2300848: NAIL#2 13
+    2300850: NAIL#2 14
+    2300852: NAIL#2 15
+    2300854: NAIL#2 2
+    2300856: NAIL#2 3
+    2300858: NAIL#2 4
+    2300860: NAIL#2 5
+    2300862: NAIL#2 6
+    2300864: NAIL#2 7
+    2300866: NAIL#2 8
+    2300868: NAIL#2 9
+    2300870: WASHER#1
+    2300872: WASHER#1 1
+    2300874: WASHER#1 2
+    2300876: WASHER#1 3
+    2300878: WASHER#1 4
+    2300880: WASHER#1 5
+    2300882: WASHER#1 6
+    2300884: WASHER#1 7
+    2300886: WASHER#1 8
+    2300888: WASHER#1 9
+    2300890: WASHER#2
+    2300892: WASHER#2 1
+    2300894: WASHER#2 10
+    2300896: WASHER#2 11
+    2300898: WASHER#2 2
+    2300900: WASHER#2 3
+    2300902: WASHER#2 4
+    2300904: WASHER#2 5
+    2300906: WASHER#2 6
+    2300908: WASHER#2 7
+    2300910: WASHER#2 8
+    2300912: WASHER#2 9
+    3300000: 10 thread
+    3300002: 10 thread 1
+    3300004: 10 thread 10
+    3300006: 10 thread 11
+    3300008: 10 thread 12
+    3300010: 10 thread 13
+    3300012: 10 thread 14
+    3300014: 10 thread 15
+    3300016: 10 thread 16
+    3300018: 10 thread 17
+    3300020: 10 thread 18
+    3300022: 10 thread 19
+    3300024: 10 thread 2
+    3300026: 10 thread 20
+    3300028: 10 thread 21
+    3300030: 10 thread 22
+    3300032: 10 thread 23
+    3300034: 10 thread 24
+    3300036: 10 thread 25
+    3300038: 10 thread 26
+    3300040: 10 thread 27
+    3300042: 10 thread 28
+    3300044: 10 thread 29
+    3300046: 10 thread 3
+    3300048: 10 thread 30
+    3300050: 10 thread 31
+    3300052: 10 thread 32
+    3300054: 10 thread 33
+    3300056: 10 thread 34
+    3300058: 10 thread 35
+    3300060: 10 thread 36
+    3300062: 10 thread 37
+    3300064: 10 thread 38
+    3300066: 10 thread 39
+    3300068: 10 thread 4
+    3300070: 10 thread 40
+    3300072: 10 thread 41
+    3300074: 10 thread 42
+    3300076: 10 thread 43
+    3300078: 10 thread 44
+    3300080: 10 thread 45
+    3300082: 10 thread 46
+    3300084: 10 thread 47
+    3300086: 10 thread 48
+    3300088: 10 thread 49
+    3300090: 10 thread 5
+    3300092: 10 thread 50
+    3300094: 10 thread 51
+    3300096: 10 thread 52
+    3300098: 10 thread 53
+    3300100: 10 thread 54
+    3300102: 10 thread 55
+    3300104: 10 thread 56
+    3300106: 10 thread 57
+    3300108: 10 thread 58
+    3300110: 10 thread 59
+    3300112: 10 thread 6
+    3300114: 10 thread 7
+    3300116: 10 thread 8
+    3300118: 10 thread 9
+    3300120: bolt#2
+    3300122: bolt#2 1
+    3300124: bolt#2 2
+    3300126: bolt#2 3
+    3300128: bolt#2 4
+    3300130: Chain part#1
+    3300132: Chain part#1 1
+    3300134: Chain part#1 10
+    3300136: Chain part#1 11
+    3300138: Chain part#1 12
+    3300140: Chain part#1 13
+    3300142: Chain part#1 14
+    3300144: Chain part#1 15
+    3300146: Chain part#1 16
+    3300148: Chain part#1 17
+    3300150: Chain part#1 18
+    3300152: Chain part#1 19
+    3300154: Chain part#1 2
+    3300156: Chain part#1 20
+    3300158: Chain part#1 21
+    3300160: Chain part#1 22
+    3300162: Chain part#1 23
+    3300164: Chain part#1 24
+    3300166: Chain part#1 25
+    3300168: Chain part#1 26
+    3300170: Chain part#1 27
+    3300172: Chain part#1 28
+    3300174: Chain part#1 29
+    3300176: Chain part#1 3
+    3300178: Chain part#1 30
+    3300180: Chain part#1 31
+    3300182: Chain part#1 32
+    3300184: Chain part#1 33
+    3300186: Chain part#1 34
+    3300188: Chain part#1 35
+    3300190: Chain part#1 36
+    3300192: Chain part#1 37
+    3300194: Chain part#1 38
+    3300196: Chain part#1 39
+    3300198: Chain part#1 4
+    3300200: Chain part#1 40
+    3300202: Chain part#1 41
+    3300204: Chain part#1 42
+    3300206: Chain part#1 43
+    3300208: Chain part#1 44
+    3300210: Chain part#1 45
+    3300212: Chain part#1 46
+    3300214: Chain part#1 47
+    3300216: Chain part#1 48
+    3300218: Chain part#1 49
+    3300220: Chain part#1 5
+    3300222: Chain part#1 50
+    3300224: Chain part#1 51
+    3300226: Chain part#1 52
+    3300228: Chain part#1 53
+    3300230: Chain part#1 54
+    3300232: Chain part#1 55
+    3300234: Chain part#1 56
+    3300236: Chain part#1 57
+    3300238: Chain part#1 58
+    3300240: Chain part#1 59
+    3300242: Chain part#1 6
+    3300244: Chain part#1 60
+    3300246: Chain part#1 61
+    3300248: Chain part#1 62
+    3300250: Chain part#1 63
+    3300252: Chain part#1 64
+    3300254: Chain part#1 65
+    3300256: Chain part#1 7
+    3300258: Chain part#1 8
+    3300260: Chain part#1 9
+    3300262: Chain part#2
+    3300264: Chain part#2 1
+    3300266: Chain part#2 10
+    3300268: Chain part#2 11
+    3300270: Chain part#2 12
+    3300272: Chain part#2 13
+    3300274: Chain part#2 14
+    3300276: Chain part#2 15
+    3300278: Chain part#2 16
+    3300280: Chain part#2 17
+    3300282: Chain part#2 18
+    3300284: Chain part#2 19
+    3300286: Chain part#2 2
+    3300288: Chain part#2 20
+    3300290: Chain part#2 21
+    3300292: Chain part#2 22
+    3300294: Chain part#2 23
+    3300296: Chain part#2 24
+    3300298: Chain part#2 25
+    3300300: Chain part#2 26
+    3300302: Chain part#2 27
+    3300304: Chain part#2 28
+    3300306: Chain part#2 29
+    3300308: Chain part#2 3
+    3300310: Chain part#2 30
+    3300312: Chain part#2 31
+    3300314: Chain part#2 32
+    3300316: Chain part#2 33
+    3300318: Chain part#2 34
+    3300320: Chain part#2 35
+    3300322: Chain part#2 36
+    3300324: Chain part#2 37
+    3300326: Chain part#2 38
+    3300328: Chain part#2 39
+    3300330: Chain part#2 4
+    3300332: Chain part#2 40
+    3300334: Chain part#2 41
+    3300336: Chain part#2 42
+    3300338: Chain part#2 43
+    3300340: Chain part#2 44
+    3300342: Chain part#2 45
+    3300344: Chain part#2 46
+    3300346: Chain part#2 47
+    3300348: Chain part#2 48
+    3300350: Chain part#2 49
+    3300352: Chain part#2 5
+    3300354: Chain part#2 50
+    3300356: Chain part#2 51
+    3300358: Chain part#2 52
+    3300360: Chain part#2 53
+    3300362: Chain part#2 54
+    3300364: Chain part#2 55
+    3300366: Chain part#2 56
+    3300368: Chain part#2 57
+    3300370: Chain part#2 58
+    3300372: Chain part#2 59
+    3300374: Chain part#2 6
+    3300376: Chain part#2 60
+    3300378: Chain part#2 61
+    3300380: Chain part#2 62
+    3300382: Chain part#2 63
+    3300384: Chain part#2 64
+    3300386: Chain part#2 65
+    3300388: Chain part#2 66
+    3300390: Chain part#2 67
+    3300392: Chain part#2 68
+    3300394: Chain part#2 69
+    3300396: Chain part#2 7
+    3300398: Chain part#2 70
+    3300400: Chain part#2 71
+    3300402: Chain part#2 72
+    3300404: Chain part#2 73
+    3300406: Chain part#2 74
+    3300408: Chain part#2 75
+    3300410: Chain part#2 76
+    3300412: Chain part#2 77
+    3300414: Chain part#2 78
+    3300416: Chain part#2 79
+    3300418: Chain part#2 8
+    3300420: Chain part#2 80
+    3300422: Chain part#2 81
+    3300424: Chain part#2 82
+    3300426: Chain part#2 83
+    3300428: Chain part#2 84
+    3300430: Chain part#2 85
+    3300432: Chain part#2 86
+    3300434: Chain part#2 87
+    3300436: Chain part#2 88
+    3300438: Chain part#2 89
+    3300440: Chain part#2 9
+    3300442: Chain part#2 90
+    3300444: Chain part#3
+    3300446: Chain part#3 1
+    3300448: Chain part#3 2
+    3300450: Chain part#3 3
+    3300452: Chain part#3 4
+    3300454: Component#6
+    3300456: Component#6 1
+    3300458: Component#6 10
+    3300460: Component#6 11
+    3300462: Component#6 12
+    3300464: Component#6 13
+    3300466: Component#6 14
+    3300468: Component#6 15
+    3300470: Component#6 16
+    3300472: Component#6 17
+    3300474: Component#6 18
+    3300476: Component#6 19
+    3300478: Component#6 2
+    3300480: Component#6 20
+    3300482: Component#6 21
+    3300484: Component#6 22
+    3300486: Component#6 23
+    3300488: Component#6 24
+    3300490: Component#6 25
+    3300492: Component#6 26
+    3300494: Component#6 27
+    3300496: Component#6 3
+    3300498: Component#6 4
+    3300500: Component#6 5
+    3300502: Component#6 6
+    3300504: Component#6 7
+    3300506: Component#6 8
+    3300508: Component#6 9
+    3300510: Group 189
+    3300512: Group 191
+    3300514: Group 210
+    3300516: Group 212
+    3300518: Group 281
+    3300520: Group 283
+    3300522: Group 285
+    3300524: Group 287
+    3300526: Group 289
+    3300528: Group 291
+    3300530: Group 293
+    3300532: Group 295
+    3300534: Group 297
+    3300536: Group 3
+    3300538: Group 300
+    3300540: Group 302
+    3300542: Group 304
+    3300544: Group 306
+    3300546: Group 308
+    3300548: Group 310
+    3300550: Group 312
+    3300552: Group 314
+    3300554: Group 316
+    3300556: Group 390
+    3300558: Group 392
+    3300560: Group 398
+    3300562: Group 400
+    3300564: Group 402
+    3300566: Group 404
+    3300568: Group 406
+    3300570: Group 408
+    3300572: Group 410
+    3300574: Group 412
+    3300576: Group 414
+    3300578: Group 417
+    3300580: Group 419
+    3300582: Group 421
+    3300584: Group 423
+    3300586: Group 425
+    3300588: Group 427
+    3300590: Group 429
+    3300592: Group 431
+    3300594: Group 433
+    3300596: Group 442
+    3300598: Group 517
+    3300600: Group 519
+    3300602: Group 525
+    3300604: Group 527
+    3300606: Group 529
+    3300608: Group 531
+    3300610: Group 533
+    3300612: Group 535
+    3300614: Group 537
+    3300616: Group 539
+    3300618: Group 541
+    3300620: Group 544
+    3300622: Group 546
+    3300624: Group 548
+    3300626: Group 550
+    3300628: Group 552
+    3300630: Group 554
+    3300632: Group 556
+    3300634: Group 558
+    3300636: Group 560
+    3300638: Group 569
+    3300640: Group 580
+    3300642: Group 583
+    3300644: Group 585
+    3300646: Group 587
+    3300648: Group 590
+    3300650: Group 592
+    3300652: Group 594
+    3300654: Group 596
+    3300656: Group 598
+    3300658: Group 600
+    3300660: Group 602
+    3300662: Group 605
+    3300664: Group 607
+    3300666: Group 609
+    3300668: Group 612
+    3300670: Group 614
+    3300672: Group 616
+    3300674: Group 726
+    3300676: Group 728
+    3300678: Group 734
+    3300680: Group 736
+    3300682: Group 738
+    3300684: Group 740
+    3300686: Group 742
+    3300688: Group 744
+    3300690: Group 746
+    3300692: Group 748
+    3300694: Group 750
+    3300696: Group 753
+    3300698: Group 755
+    3300700: Group 757
+    3300702: Group 759
+    3300704: Group 761
+    3300706: Group 763
+    3300708: Group 765
+    3300710: Group 767
+    3300712: Group 769
+    3300714: Group 778
+    3300716: Group 853
+    3300718: Group 855
+    3300720: Group 861
+    3300722: Group 863
+    3300724: Group 865
+    3300726: Group 867
+    3300728: Group 869
+    3300730: Group 87
+    3300732: Group 871
+    3300734: Group 873
+    3300736: Group 875
+    3300738: Group 877
+    3300740: Group 880
+    3300742: Group 882
+    3300744: Group 884
+    3300746: Group 886
+    3300748: Group 888
+    3300750: Group 89
+    3300752: Group 890
+    3300754: Group 892
+    3300756: Group 894
+    3300758: Group 896
+    3300760: Group 905
+    3300762: Group 916
+    3300764: Group 919
+    3300766: Group 921
+    3300768: Group 923
+    3300770: Group 926
+    3300772: Group 928
+    3300774: Group 930
+    3300776: Group 932
+    3300778: Group 934
+    3300780: Group 936
+    3300782: Group 938
+    3300784: Group 941
+    3300786: Group 943
+    3300788: Group 945
+    3300790: Group 948
+    3300792: Group 950
+    3300794: Group 952
+    3300796: Hex bolt M5-25#1
+    3300798: Hex bolt M5-25#1 1
+    3300800: Hex bolt M5-25#1 2
+    3300802: Hex bolt M5-25#1 3
+    3300804: Hex bolt M5-25#1 4
+    3300806: Hex bolt M5-25#1 5
+    3300808: Hex nut M5#1
+    3300810: Hex nut M5#1 1
+    3300812: Hex nut M5#1 2
+    3300814: Hex nut M5#1 3
+    3300816: Hex nut M5#1 4
+    3300818: Hex nut M5#2
+    3300820: Hex nut M5#2 1
+    3300822: Hex nut M5#2 2
+    3300824: Hex nut M5#2 3
+    3300826: Hex nut M5#2 4
+    3300828: Hex nut M5#2 5
+    3300830: 'Motorbike tire capping for wood end #1'
+    3300832: 'Motorbike tire capping for wood end #1 1'
+    3300834: 'Motorbike tire capping for wood end #1 2'
+    3300836: 'Motorbike tire capping for wood end #1 3'
+    3300838: NAIL#2
+    3300840: NAIL#2 1
+    3300842: NAIL#2 10
+    3300844: NAIL#2 11
+    3300846: NAIL#2 12
+    3300848: NAIL#2 13
+    3300850: NAIL#2 14
+    3300852: NAIL#2 15
+    3300854: NAIL#2 2
+    3300856: NAIL#2 3
+    3300858: NAIL#2 4
+    3300860: NAIL#2 5
+    3300862: NAIL#2 6
+    3300864: NAIL#2 7
+    3300866: NAIL#2 8
+    3300868: NAIL#2 9
+    3300870: WASHER#1
+    3300872: WASHER#1 1
+    3300874: WASHER#1 2
+    3300876: WASHER#1 3
+    3300878: WASHER#1 4
+    3300880: WASHER#1 5
+    3300882: WASHER#1 6
+    3300884: WASHER#1 7
+    3300886: WASHER#1 8
+    3300888: WASHER#1 9
+    3300890: WASHER#2
+    3300892: WASHER#2 1
+    3300894: WASHER#2 10
+    3300896: WASHER#2 11
+    3300898: WASHER#2 2
+    3300900: WASHER#2 3
+    3300902: WASHER#2 4
+    3300904: WASHER#2 5
+    3300906: WASHER#2 6
+    3300908: WASHER#2 7
+    3300910: WASHER#2 8
+    3300912: WASHER#2 9
+    4300000: Mesh Group 3
+    4300002: Mesh 10 thread
+    4300004: Mesh Hex nut M5#2
+    4300006: Mesh WASHER#2
+    4300008: Mesh Group 87
+    4300010: Mesh Group 89
+    4300012: Mesh Hex bolt M5-25#1
+    4300014: 'Mesh Motorbike tire capping for wood end #1'
+    4300016: Mesh Group 210
+    4300018: Mesh Group 212
+    4300020: Mesh Chain part#2
+    4300022: Mesh Chain part#1
+    4300024: Mesh Chain part#3
+    4300026: Mesh bolt#2
+    4300028: Mesh Group 281
+    4300030: Mesh WASHER#1
+    4300032: Mesh Hex nut M5#1
+    4300034: Mesh Group 442
+    4300036: Mesh NAIL#2
+    4300038: Mesh Group 580
+    4300040: Mesh Group 583
+    4300042: Mesh Group 585
+    4300044: Mesh Group 587
+    4300046: Mesh Group 596
+    4300048: Mesh Group 598
+    4300050: Mesh Group 600
+    4300052: Mesh Group 602
+    4300054: Mesh Chain part#2
+    4300056: Mesh Component#6
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: swings
+  assetBundleVariant: 

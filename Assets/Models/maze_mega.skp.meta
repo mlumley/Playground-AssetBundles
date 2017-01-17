@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 07c5762524964c642b37b80c735c2919
+timeCreated: 1483747372
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c1273eaa9ffe213693120568a55e0d63
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.841249, y: 7.308592, z: -1.8767027}
+      lookAt: {x: 7.7136493, y: -0.8732962, z: 2.4287093}
+      up: {x: 0.5610509, y: 0.7882322, z: 0.25280803}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 532.77014
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 1
+    100002: Group 11
+    100004: Group 121
+    100006: Group 123
+    100008: Group 13
+    100010: Group 144
+    100012: Group 146
+    100014: Group 15
+    100016: Group 167
+    100018: Group 169
+    100020: Group 17
+    100022: Group 172
+    100024: Group 174
+    100026: Group 177
+    100028: Group 179
+    100030: Group 182
+    100032: Group 184
+    100034: Group 19
+    100036: Group 2
+    100038: Group 21
+    100040: Group 23
+    100042: Group 4
+    100044: Group 5
+    100046: Group 65
+    100048: Group 67
+    100050: Group 7
+    100052: Group 70
+    100054: Group 72
+    100056: Group 75
+    100058: Group 77
+    100060: Group 80
+    100062: Group 82
+    100064: Group 9
+    100066: Group#1
+    100068: Group#1 1
+    100070: Group#1 2
+    100072: Group#1 3
+    100074: Group#1 4
+    100076: Group#1 5
+    100078: Group#1 6
+    100080: Group#1 7
+    100082: Group#1 8
+    100084: Group#1 9
+    100086: Group#13
+    100088: Group#13 1
+    100090: Group#13 10
+    100092: Group#13 11
+    100094: Group#13 12
+    100096: Group#13 2
+    100098: Group#13 3
+    100100: Group#13 4
+    100102: Group#13 5
+    100104: Group#13 6
+    100106: Group#13 7
+    100108: Group#13 8
+    100110: Group#13 9
+    100112: //RootNode
+    100114: tyre
+    100116: tyre 1
+    100118: tyre 10
+    100120: tyre 11
+    100122: tyre 12
+    100124: tyre 13
+    100126: tyre 14
+    100128: tyre 15
+    100130: tyre 16
+    100132: tyre 17
+    100134: tyre 18
+    100136: tyre 19
+    100138: tyre 2
+    100140: tyre 20
+    100142: tyre 21
+    100144: tyre 22
+    100146: tyre 23
+    100148: tyre 24
+    100150: tyre 25
+    100152: tyre 26
+    100154: tyre 27
+    100156: tyre 28
+    100158: tyre 29
+    100160: tyre 3
+    100162: tyre 30
+    100164: tyre 31
+    100166: tyre 32
+    100168: tyre 33
+    100170: tyre 34
+    100172: tyre 35
+    100174: tyre 36
+    100176: tyre 37
+    100178: tyre 38
+    100180: tyre 39
+    100182: tyre 4
+    100184: tyre 40
+    100186: tyre 41
+    100188: tyre 42
+    100190: tyre 43
+    100192: tyre 44
+    100194: tyre 45
+    100196: tyre 46
+    100198: tyre 47
+    100200: tyre 48
+    100202: tyre 49
+    100204: tyre 5
+    100206: tyre 50
+    100208: tyre 51
+    100210: tyre 52
+    100212: tyre 53
+    100214: tyre 6
+    100216: tyre 7
+    100218: tyre 8
+    100220: tyre 9
+    400000: Group 1
+    400002: Group 11
+    400004: Group 121
+    400006: Group 123
+    400008: Group 13
+    400010: Group 144
+    400012: Group 146
+    400014: Group 15
+    400016: Group 167
+    400018: Group 169
+    400020: Group 17
+    400022: Group 172
+    400024: Group 174
+    400026: Group 177
+    400028: Group 179
+    400030: Group 182
+    400032: Group 184
+    400034: Group 19
+    400036: Group 2
+    400038: Group 21
+    400040: Group 23
+    400042: Group 4
+    400044: Group 5
+    400046: Group 65
+    400048: Group 67
+    400050: Group 7
+    400052: Group 70
+    400054: Group 72
+    400056: Group 75
+    400058: Group 77
+    400060: Group 80
+    400062: Group 82
+    400064: Group 9
+    400066: Group#1
+    400068: Group#1 1
+    400070: Group#1 2
+    400072: Group#1 3
+    400074: Group#1 4
+    400076: Group#1 5
+    400078: Group#1 6
+    400080: Group#1 7
+    400082: Group#1 8
+    400084: Group#1 9
+    400086: Group#13
+    400088: Group#13 1
+    400090: Group#13 10
+    400092: Group#13 11
+    400094: Group#13 12
+    400096: Group#13 2
+    400098: Group#13 3
+    400100: Group#13 4
+    400102: Group#13 5
+    400104: Group#13 6
+    400106: Group#13 7
+    400108: Group#13 8
+    400110: Group#13 9
+    400112: //RootNode
+    400114: tyre
+    400116: tyre 1
+    400118: tyre 10
+    400120: tyre 11
+    400122: tyre 12
+    400124: tyre 13
+    400126: tyre 14
+    400128: tyre 15
+    400130: tyre 16
+    400132: tyre 17
+    400134: tyre 18
+    400136: tyre 19
+    400138: tyre 2
+    400140: tyre 20
+    400142: tyre 21
+    400144: tyre 22
+    400146: tyre 23
+    400148: tyre 24
+    400150: tyre 25
+    400152: tyre 26
+    400154: tyre 27
+    400156: tyre 28
+    400158: tyre 29
+    400160: tyre 3
+    400162: tyre 30
+    400164: tyre 31
+    400166: tyre 32
+    400168: tyre 33
+    400170: tyre 34
+    400172: tyre 35
+    400174: tyre 36
+    400176: tyre 37
+    400178: tyre 38
+    400180: tyre 39
+    400182: tyre 4
+    400184: tyre 40
+    400186: tyre 41
+    400188: tyre 42
+    400190: tyre 43
+    400192: tyre 44
+    400194: tyre 45
+    400196: tyre 46
+    400198: tyre 47
+    400200: tyre 48
+    400202: tyre 49
+    400204: tyre 5
+    400206: tyre 50
+    400208: tyre 51
+    400210: tyre 52
+    400212: tyre 53
+    400214: tyre 6
+    400216: tyre 7
+    400218: tyre 8
+    400220: tyre 9
+    2300000: Group 11
+    2300002: Group 121
+    2300004: Group 123
+    2300006: Group 13
+    2300008: Group 144
+    2300010: Group 146
+    2300012: Group 15
+    2300014: Group 167
+    2300016: Group 169
+    2300018: Group 17
+    2300020: Group 172
+    2300022: Group 174
+    2300024: Group 177
+    2300026: Group 179
+    2300028: Group 182
+    2300030: Group 184
+    2300032: Group 19
+    2300034: Group 2
+    2300036: Group 21
+    2300038: Group 5
+    2300040: Group 65
+    2300042: Group 67
+    2300044: Group 7
+    2300046: Group 70
+    2300048: Group 72
+    2300050: Group 75
+    2300052: Group 77
+    2300054: Group 80
+    2300056: Group 82
+    2300058: Group 9
+    2300060: tyre
+    2300062: tyre 1
+    2300064: tyre 10
+    2300066: tyre 11
+    2300068: tyre 12
+    2300070: tyre 13
+    2300072: tyre 14
+    2300074: tyre 15
+    2300076: tyre 16
+    2300078: tyre 17
+    2300080: tyre 18
+    2300082: tyre 19
+    2300084: tyre 2
+    2300086: tyre 20
+    2300088: tyre 21
+    2300090: tyre 22
+    2300092: tyre 23
+    2300094: tyre 24
+    2300096: tyre 25
+    2300098: tyre 26
+    2300100: tyre 27
+    2300102: tyre 28
+    2300104: tyre 29
+    2300106: tyre 3
+    2300108: tyre 30
+    2300110: tyre 31
+    2300112: tyre 32
+    2300114: tyre 33
+    2300116: tyre 34
+    2300118: tyre 35
+    2300120: tyre 36
+    2300122: tyre 37
+    2300124: tyre 38
+    2300126: tyre 39
+    2300128: tyre 4
+    2300130: tyre 40
+    2300132: tyre 41
+    2300134: tyre 42
+    2300136: tyre 43
+    2300138: tyre 44
+    2300140: tyre 45
+    2300142: tyre 46
+    2300144: tyre 47
+    2300146: tyre 48
+    2300148: tyre 49
+    2300150: tyre 5
+    2300152: tyre 50
+    2300154: tyre 51
+    2300156: tyre 52
+    2300158: tyre 53
+    2300160: tyre 6
+    2300162: tyre 7
+    2300164: tyre 8
+    2300166: tyre 9
+    3300000: Group 11
+    3300002: Group 121
+    3300004: Group 123
+    3300006: Group 13
+    3300008: Group 144
+    3300010: Group 146
+    3300012: Group 15
+    3300014: Group 167
+    3300016: Group 169
+    3300018: Group 17
+    3300020: Group 172
+    3300022: Group 174
+    3300024: Group 177
+    3300026: Group 179
+    3300028: Group 182
+    3300030: Group 184
+    3300032: Group 19
+    3300034: Group 2
+    3300036: Group 21
+    3300038: Group 5
+    3300040: Group 65
+    3300042: Group 67
+    3300044: Group 7
+    3300046: Group 70
+    3300048: Group 72
+    3300050: Group 75
+    3300052: Group 77
+    3300054: Group 80
+    3300056: Group 82
+    3300058: Group 9
+    3300060: tyre
+    3300062: tyre 1
+    3300064: tyre 10
+    3300066: tyre 11
+    3300068: tyre 12
+    3300070: tyre 13
+    3300072: tyre 14
+    3300074: tyre 15
+    3300076: tyre 16
+    3300078: tyre 17
+    3300080: tyre 18
+    3300082: tyre 19
+    3300084: tyre 2
+    3300086: tyre 20
+    3300088: tyre 21
+    3300090: tyre 22
+    3300092: tyre 23
+    3300094: tyre 24
+    3300096: tyre 25
+    3300098: tyre 26
+    3300100: tyre 27
+    3300102: tyre 28
+    3300104: tyre 29
+    3300106: tyre 3
+    3300108: tyre 30
+    3300110: tyre 31
+    3300112: tyre 32
+    3300114: tyre 33
+    3300116: tyre 34
+    3300118: tyre 35
+    3300120: tyre 36
+    3300122: tyre 37
+    3300124: tyre 38
+    3300126: tyre 39
+    3300128: tyre 4
+    3300130: tyre 40
+    3300132: tyre 41
+    3300134: tyre 42
+    3300136: tyre 43
+    3300138: tyre 44
+    3300140: tyre 45
+    3300142: tyre 46
+    3300144: tyre 47
+    3300146: tyre 48
+    3300148: tyre 49
+    3300150: tyre 5
+    3300152: tyre 50
+    3300154: tyre 51
+    3300156: tyre 52
+    3300158: tyre 53
+    3300160: tyre 6
+    3300162: tyre 7
+    3300164: tyre 8
+    3300166: tyre 9
+    4300000: Mesh Group 2
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+    4300010: Mesh Group 13
+    4300012: Mesh Group 15
+    4300014: Mesh Group 17
+    4300016: Mesh Group 19
+    4300018: Mesh Group 21
+    4300020: Mesh tyre
+    4300022: Mesh tyre
+    4300024: Mesh Group 65
+    4300026: Mesh Group 67
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: other
+  assetBundleVariant: 

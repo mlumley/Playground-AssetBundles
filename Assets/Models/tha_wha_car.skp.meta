@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: c188903956953c9488eef4282dc63ab9
+timeCreated: 1483747538
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001e0000001f0000002000000021000000220000002300000024000000250000002600000027000000280000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e000000610000006200000063000000640000006b0000006c0000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 849dd1715fb377a94a092aa50f16ac26
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 34.095573, y: -1.4452922, z: 18.863667}
+      lookAt: {x: -2.7015338, y: 0.0636939, z: -2.4565687}
+      up: {x: 0.030682312, y: 0.9993711, z: 0.017777324}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 91.34835
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: car tire
+    100002: car tire 1
+    100004: car tire 10
+    100006: car tire 11
+    100008: car tire 12
+    100010: car tire 13
+    100012: car tire 2
+    100014: car tire 3
+    100016: car tire 4
+    100018: car tire 5
+    100020: car tire 6
+    100022: car tire 7
+    100024: car tire 8
+    100026: car tire 9
+    100028: Component#1
+    100030: Component#10
+    100032: Component#11
+    100034: Component#12
+    100036: Component#12 1
+    100038: Component#13
+    100040: Component#14
+    100042: Component#14 1
+    100044: Component#15
+    100046: Component#16
+    100048: Component#16 1
+    100050: Component#16 2
+    100052: Component#16 3
+    100054: Component#17
+    100056: Component#18
+    100058: Component#2
+    100060: Component#2 1
+    100062: Component#3
+    100064: Component#3 1
+    100066: Component#3 2
+    100068: Component#3 3
+    100070: Component#3 4
+    100072: Component#3 5
+    100074: Component#5
+    100076: Component#5 1
+    100078: Component#5 2
+    100080: Component#6
+    100082: Component#6 1
+    100084: Component#6 2
+    100086: Component#6 3
+    100088: Component#6 4
+    100090: Component#6 5
+    100092: Component#8
+    100094: Component#9
+    100096: Group 12
+    100098: Group 17
+    100100: Group 2
+    100102: Group 22
+    100104: Group 27
+    100106: Group 30
+    100108: Group 35
+    100110: Group 40
+    100112: Group 7
+    100114: Group#16
+    100116: Group#16 1
+    100118: Group#16 2
+    100120: Group#16 3
+    100122: Group#16 4
+    100124: Group#16 5
+    100126: //RootNode
+    100128: truck tire
+    100130: truck tire 1
+    100132: truck tire 2
+    100134: truck tire 3
+    400000: car tire
+    400002: car tire 1
+    400004: car tire 10
+    400006: car tire 11
+    400008: car tire 12
+    400010: car tire 13
+    400012: car tire 2
+    400014: car tire 3
+    400016: car tire 4
+    400018: car tire 5
+    400020: car tire 6
+    400022: car tire 7
+    400024: car tire 8
+    400026: car tire 9
+    400028: Component#1
+    400030: Component#10
+    400032: Component#11
+    400034: Component#12
+    400036: Component#12 1
+    400038: Component#13
+    400040: Component#14
+    400042: Component#14 1
+    400044: Component#15
+    400046: Component#16
+    400048: Component#16 1
+    400050: Component#16 2
+    400052: Component#16 3
+    400054: Component#17
+    400056: Component#18
+    400058: Component#2
+    400060: Component#2 1
+    400062: Component#3
+    400064: Component#3 1
+    400066: Component#3 2
+    400068: Component#3 3
+    400070: Component#3 4
+    400072: Component#3 5
+    400074: Component#5
+    400076: Component#5 1
+    400078: Component#5 2
+    400080: Component#6
+    400082: Component#6 1
+    400084: Component#6 2
+    400086: Component#6 3
+    400088: Component#6 4
+    400090: Component#6 5
+    400092: Component#8
+    400094: Component#9
+    400096: Group 12
+    400098: Group 17
+    400100: Group 2
+    400102: Group 22
+    400104: Group 27
+    400106: Group 30
+    400108: Group 35
+    400110: Group 40
+    400112: Group 7
+    400114: Group#16
+    400116: Group#16 1
+    400118: Group#16 2
+    400120: Group#16 3
+    400122: Group#16 4
+    400124: Group#16 5
+    400126: //RootNode
+    400128: truck tire
+    400130: truck tire 1
+    400132: truck tire 2
+    400134: truck tire 3
+    2300000: car tire
+    2300002: car tire 1
+    2300004: car tire 10
+    2300006: car tire 11
+    2300008: car tire 12
+    2300010: car tire 13
+    2300012: car tire 2
+    2300014: car tire 3
+    2300016: car tire 4
+    2300018: car tire 5
+    2300020: car tire 6
+    2300022: car tire 7
+    2300024: car tire 8
+    2300026: car tire 9
+    2300028: Component#1
+    2300030: Component#10
+    2300032: Component#11
+    2300034: Component#12
+    2300036: Component#12 1
+    2300038: Component#13
+    2300040: Component#14
+    2300042: Component#14 1
+    2300044: Component#15
+    2300046: Component#16
+    2300048: Component#16 1
+    2300050: Component#16 2
+    2300052: Component#16 3
+    2300054: Component#17
+    2300056: Component#18
+    2300058: Component#2
+    2300060: Component#2 1
+    2300062: Component#3
+    2300064: Component#3 1
+    2300066: Component#3 2
+    2300068: Component#3 3
+    2300070: Component#3 4
+    2300072: Component#3 5
+    2300074: Component#5
+    2300076: Component#5 1
+    2300078: Component#5 2
+    2300080: Component#6
+    2300082: Component#6 1
+    2300084: Component#6 2
+    2300086: Component#6 3
+    2300088: Component#6 4
+    2300090: Component#6 5
+    2300092: Component#8
+    2300094: Component#9
+    2300096: Group#16
+    2300098: Group#16 1
+    2300100: Group#16 2
+    2300102: Group#16 3
+    2300104: Group#16 4
+    2300106: Group#16 5
+    2300108: //RootNode
+    2300110: truck tire
+    2300112: truck tire 1
+    2300114: truck tire 2
+    2300116: truck tire 3
+    3300000: car tire
+    3300002: car tire 1
+    3300004: car tire 10
+    3300006: car tire 11
+    3300008: car tire 12
+    3300010: car tire 13
+    3300012: car tire 2
+    3300014: car tire 3
+    3300016: car tire 4
+    3300018: car tire 5
+    3300020: car tire 6
+    3300022: car tire 7
+    3300024: car tire 8
+    3300026: car tire 9
+    3300028: Component#1
+    3300030: Component#10
+    3300032: Component#11
+    3300034: Component#12
+    3300036: Component#12 1
+    3300038: Component#13
+    3300040: Component#14
+    3300042: Component#14 1
+    3300044: Component#15
+    3300046: Component#16
+    3300048: Component#16 1
+    3300050: Component#16 2
+    3300052: Component#16 3
+    3300054: Component#17
+    3300056: Component#18
+    3300058: Component#2
+    3300060: Component#2 1
+    3300062: Component#3
+    3300064: Component#3 1
+    3300066: Component#3 2
+    3300068: Component#3 3
+    3300070: Component#3 4
+    3300072: Component#3 5
+    3300074: Component#5
+    3300076: Component#5 1
+    3300078: Component#5 2
+    3300080: Component#6
+    3300082: Component#6 1
+    3300084: Component#6 2
+    3300086: Component#6 3
+    3300088: Component#6 4
+    3300090: Component#6 5
+    3300092: Component#8
+    3300094: Component#9
+    3300096: Group#16
+    3300098: Group#16 1
+    3300100: Group#16 2
+    3300102: Group#16 3
+    3300104: Group#16 4
+    3300106: Group#16 5
+    3300108: //RootNode
+    3300110: truck tire
+    3300112: truck tire 1
+    3300114: truck tire 2
+    3300116: truck tire 3
+    4300000: Mesh tha_wha_car
+    4300002: Mesh car tire
+    4300004: Mesh Component#2
+    4300006: Mesh Component#15
+    4300008: Mesh Component#10
+    4300010: Mesh Component#11
+    4300012: Mesh Component#1
+    4300014: Mesh Component#5
+    4300016: Mesh Component#16
+    4300018: Mesh Component#13
+    4300020: Mesh Component#14
+    4300022: Mesh Component#8
+    4300024: Mesh Component#9
+    4300026: Mesh Component#12
+    4300028: Mesh Component#17
+    4300030: Mesh Component#18
+    4300032: Mesh truck tire
+    4300034: Mesh Component#6
+    4300036: Mesh Group#16
+    4300038: Mesh Component#3
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: imaginative
+  assetBundleVariant: 

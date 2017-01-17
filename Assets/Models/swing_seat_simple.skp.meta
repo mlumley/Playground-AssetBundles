@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 1f886ec85a0a3fa43aff38666573656e
+timeCreated: 1483747386
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3978eca99d6d62670ce3c73cfe8d2d2e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.2109742, y: 2.3307495, z: -0.5554706}
+      lookAt: {x: 1.0860013, y: 1.3092736, z: 2.988052}
+      up: {x: 0.14066051, y: 0.9784475, z: 0.15117908}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 106.99158
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 11
+    100002: Group 13
+    100004: Group 15
+    100006: Group 17
+    100008: Group 19
+    100010: NAIL
+    100012: NAIL 1
+    100014: NAIL 2
+    100016: NAIL 3
+    100018: //RootNode
+    400000: Group 11
+    400002: Group 13
+    400004: Group 15
+    400006: Group 17
+    400008: Group 19
+    400010: NAIL
+    400012: NAIL 1
+    400014: NAIL 2
+    400016: NAIL 3
+    400018: //RootNode
+    2300000: Group 11
+    2300002: Group 13
+    2300004: Group 15
+    2300006: Group 17
+    2300008: Group 19
+    2300010: NAIL
+    2300012: NAIL 1
+    2300014: NAIL 2
+    2300016: NAIL 3
+    3300000: Group 11
+    3300002: Group 13
+    3300004: Group 15
+    3300006: Group 17
+    3300008: Group 19
+    3300010: NAIL
+    3300012: NAIL 1
+    3300014: NAIL 2
+    3300016: NAIL 3
+    4300000: Mesh Group 11
+    4300002: Mesh Group 13
+    4300004: Mesh Group 15
+    4300006: Mesh Group 17
+    4300008: Mesh Group 19
+    4300010: Mesh NAIL
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: swings
+  assetBundleVariant: 

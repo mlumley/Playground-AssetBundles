@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 617407578
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: climbing
+      Dependencies: {}
+    Info_1:
+      Name: imaginative
+      Dependencies: {}
+    Info_2:
+      Name: cubbies
+      Dependencies: {}
+    Info_3:
+      Name: furniture
+      Dependencies: {}
+    Info_4:
+      Name: balance
+      Dependencies: {}
+    Info_5:
+      Name: natural
+      Dependencies: {}
+    Info_6:
+      Name: slides
+      Dependencies: {}
+    Info_7:
+      Name: musical
+      Dependencies: {}
+    Info_8:
+      Name: bridges
+      Dependencies: {}
+    Info_9:
+      Name: swings
+      Dependencies: {}
+    Info_10:
+      Name: buildings
+      Dependencies: {}
+    Info_11:
+      Name: other
+      Dependencies: {}
+    Info_12:
+      Name: ladders
+      Dependencies: {}
+    Info_13:
+      Name: hills
+      Dependencies: {}
+    Info_14:
+      Name: poles
+      Dependencies: {}
+    Info_15:
+      Name: trees
+      Dependencies: {}
+    Info_16:
+      Name: rocks
+      Dependencies: {}
+    Info_17:
+      Name: tunnels
+      Dependencies: {}
+    Info_18:
+      Name: monkey_bars
+      Dependencies: {}
+    Info_19:
+      Name: ground_cover
+      Dependencies: {}
+    Info_20:
+      Name: sandpits
+      Dependencies: {}
+    Info_21:
+      Name: seesaws
+      Dependencies: {}
+    Info_22:
+      Name: sports
+      Dependencies: {}

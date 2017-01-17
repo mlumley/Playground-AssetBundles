@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 0962ac8a3624c7b44a1d00b2c0c7e04a
+timeCreated: 1483747372
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0db8b34246b779946316c901b8913d15
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.3205607, y: 0.94937956, z: 0.95687795}
+      lookAt: {x: -0.060067873, y: -0.6168048, z: -4.865846}
+      up: {x: -0.058415156, y: 0.9674157, z: -0.24636266}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 2
+    100002: //RootNode
+    100004: TILE
+    100006: TILE 1
+    100008: TILE 10
+    100010: TILE 11
+    100012: TILE 2
+    100014: TILE 3
+    100016: TILE 4
+    100018: TILE 5
+    100020: TILE 6
+    100022: TILE 7
+    100024: TILE 8
+    100026: TILE 9
+    400000: Group 2
+    400002: //RootNode
+    400004: TILE
+    400006: TILE 1
+    400008: TILE 10
+    400010: TILE 11
+    400012: TILE 2
+    400014: TILE 3
+    400016: TILE 4
+    400018: TILE 5
+    400020: TILE 6
+    400022: TILE 7
+    400024: TILE 8
+    400026: TILE 9
+    2300000: Group 2
+    2300002: //RootNode
+    2300004: TILE
+    2300006: TILE 1
+    2300008: TILE 10
+    2300010: TILE 11
+    2300012: TILE 2
+    2300014: TILE 3
+    2300016: TILE 4
+    2300018: TILE 5
+    2300020: TILE 6
+    2300022: TILE 7
+    2300024: TILE 8
+    2300026: TILE 9
+    3300000: Group 2
+    3300002: //RootNode
+    3300004: TILE
+    3300006: TILE 1
+    3300008: TILE 10
+    3300010: TILE 11
+    3300012: TILE 2
+    3300014: TILE 3
+    3300016: TILE 4
+    3300018: TILE 5
+    3300020: TILE 6
+    3300022: TILE 7
+    3300024: TILE 8
+    3300026: TILE 9
+    4300000: Mesh slide_tile
+    4300002: Mesh Group 2
+    4300004: Mesh TILE
+    4300006: Mesh TILE
+    4300008: Mesh TILE
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: slides
+  assetBundleVariant: 

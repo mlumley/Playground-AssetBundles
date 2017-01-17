@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1182271978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a67aceedce5ad9aba9f5986fd3773687
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 682d18ec161ce2d3806a6407573c7615
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/shop_front_indoor.skp
+- Assets/Models/aframe_cubby.skp
+- Assets/Models/haunted_house.skp
+- Assets/Models/maze_two_storey.skp
+- Assets/Models/cubby_house_timber.skp
+- Assets/Models/cubby_tire_nursery.skp
+- Assets/Models/cubby_house_concrete.skp
+- Assets/Models/pyramid_aztec_tire.skp
+- Assets/Models/cave_aztec_tire.skp
+- Assets/Models/platform_tree.skp
+- Assets/Models/platform_triangle.skp
+- Assets/Models/cubby_tire.skp
+- Assets/Models/cubby_tire_tread.skp
+Dependencies: []
