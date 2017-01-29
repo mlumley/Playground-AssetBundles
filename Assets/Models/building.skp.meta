@@ -4,7 +4,7 @@ timeCreated: 1483747880
 licenseType: Free
 SketchUpImporter:
   generateBackFace: 0
-  mergeCoplanarFaces: 0
+  mergeCoplanarFaces: 1
   selectedNodes: 000000000100000002000000
   assetHash:
     serializedVersion: 2
@@ -57,7 +57,7 @@ SketchUpImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 820070725
+CRC: 2151425510
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2da46212d297cc2bde429069065f12a7
+    Hash: 4e8074163867501903f2c207deeff924
   TypeTreeHash:
     serializedVersion: 2
     Hash: 682d18ec161ce2d3806a6407573c7615
@@ -26,5 +26,10 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
+- Assets/Models/Grass_square.skp
+- Assets/Models/Brick-Paving_square.skp
+- Assets/Models/Stone-Paving_square.skp
 - Assets/Models/sand_square.skp
+- Assets/Models/Timber_Decking_square.skp
+- Assets/Models/Gravel_square.skp
 Dependencies: []

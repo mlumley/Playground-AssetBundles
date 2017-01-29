@@ -4,11 +4,11 @@ timeCreated: 1483747423
 licenseType: Free
 SketchUpImporter:
   generateBackFace: 0
-  mergeCoplanarFaces: 0
+  mergeCoplanarFaces: 1
   selectedNodes: 00000000010000000200000003000000040000000500000006000000070000000800000009000000
   assetHash:
     serializedVersion: 2
-    Hash: c2af0e163dff365bfff85d8edc79543d
+    Hash: f64c5c0c5e568a134cf1d6ee8c4b82a8
   longitude: -105.283
   latitude: 40.017
   northCorrection: -0
@@ -73,7 +73,7 @@ SketchUpImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

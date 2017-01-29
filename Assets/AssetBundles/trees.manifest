@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4037292526
+CRC: 2968292720
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e02eaa62bbe450f4177c83538476f6d9
+    Hash: 0a015f686687d283695a5b4419587af8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 682d18ec161ce2d3806a6407573c7615
@@ -26,9 +26,9 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/Models/round_shrub.skp
+- Assets/Models/round-shrub.skp
+- Assets/Models/Medium-tree.skp
 - Assets/Models/large_tree.skp
 - Assets/Models/square_shrub.skp
-- Assets/Models/medium_tree.skp
 - Assets/Models/small_tree.skp
 Dependencies: []
