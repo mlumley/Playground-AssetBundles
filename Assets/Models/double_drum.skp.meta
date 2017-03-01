@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 320a502672f1a42409c1c67fd8a90eb6
-timeCreated: 1483747395
+guid: e68f054ae833e1b4ca5b901d403323a6
+timeCreated: 1488005140
 licenseType: Free
 SketchUpImporter:
   generateBackFace: 0
@@ -93,11 +93,11 @@ SketchUpImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 2
+    meshCompression: 3
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

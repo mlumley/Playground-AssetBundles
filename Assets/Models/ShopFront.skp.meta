@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 1e2724b04eac494449a04c543528f20e
+timeCreated: 1488002031
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 1
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bf65990f419cf438380891ad6ab45b5c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 4.8643885, y: 0.84772915, z: 4.710379}
+      lookAt: {x: 0.26110703, y: 1.0133663, z: 0.99665153}
+      up: {x: 0.021787671, y: 0.9996081, z: 0.017577346}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 282.95203
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bamboo
+    100002: bamboo 1
+    100004: bamboo 10
+    100006: bamboo 11
+    100008: bamboo 12
+    100010: bamboo 13
+    100012: bamboo 14
+    100014: bamboo 15
+    100016: bamboo 16
+    100018: bamboo 17
+    100020: bamboo 18
+    100022: bamboo 2
+    100024: bamboo 3
+    100026: bamboo 4
+    100028: bamboo 5
+    100030: bamboo 6
+    100032: bamboo 7
+    100034: bamboo 8
+    100036: bamboo 9
+    100038: 'bench top support '
+    100040: bench top support  1
+    100042: Group 1
+    100044: Group 11
+    100046: Group 22
+    100048: Group 37
+    100050: Group 52
+    100052: Group 57
+    100054: Group 58
+    100056: Group 6
+    100058: Group 60
+    100060: Group 62
+    100062: Group 63
+    100064: Group 65
+    100066: Group 67
+    100068: Group 7
+    100070: Group 9
+    100072: Group#1
+    100074: Group#1 1
+    100076: roof bearer
+    100078: roof bearer 1
+    100080: SHOP
+    100082: //RootNode
+    400000: bamboo
+    400002: bamboo 1
+    400004: bamboo 10
+    400006: bamboo 11
+    400008: bamboo 12
+    400010: bamboo 13
+    400012: bamboo 14
+    400014: bamboo 15
+    400016: bamboo 16
+    400018: bamboo 17
+    400020: bamboo 18
+    400022: bamboo 2
+    400024: bamboo 3
+    400026: bamboo 4
+    400028: bamboo 5
+    400030: bamboo 6
+    400032: bamboo 7
+    400034: bamboo 8
+    400036: bamboo 9
+    400038: 'bench top support '
+    400040: bench top support  1
+    400042: Group 1
+    400044: Group 11
+    400046: Group 22
+    400048: Group 37
+    400050: Group 52
+    400052: Group 57
+    400054: Group 58
+    400056: Group 6
+    400058: Group 60
+    400060: Group 62
+    400062: Group 63
+    400064: Group 65
+    400066: Group 67
+    400068: Group 7
+    400070: Group 9
+    400072: Group#1
+    400074: Group#1 1
+    400076: roof bearer
+    400078: roof bearer 1
+    400080: SHOP
+    400082: //RootNode
+    2300000: bamboo
+    2300002: bamboo 1
+    2300004: bamboo 10
+    2300006: bamboo 11
+    2300008: bamboo 12
+    2300010: bamboo 13
+    2300012: bamboo 14
+    2300014: bamboo 15
+    2300016: bamboo 16
+    2300018: bamboo 17
+    2300020: bamboo 18
+    2300022: bamboo 2
+    2300024: bamboo 3
+    2300026: bamboo 4
+    2300028: bamboo 5
+    2300030: bamboo 6
+    2300032: bamboo 7
+    2300034: bamboo 8
+    2300036: bamboo 9
+    2300038: 'bench top support '
+    2300040: bench top support  1
+    2300042: Group 58
+    2300044: Group 60
+    2300046: Group 63
+    2300048: Group 65
+    2300050: Group 67
+    2300052: Group 7
+    2300054: Group 9
+    2300056: Group#1
+    2300058: Group#1 1
+    2300060: roof bearer
+    2300062: roof bearer 1
+    2300064: SHOP
+    3300000: bamboo
+    3300002: bamboo 1
+    3300004: bamboo 10
+    3300006: bamboo 11
+    3300008: bamboo 12
+    3300010: bamboo 13
+    3300012: bamboo 14
+    3300014: bamboo 15
+    3300016: bamboo 16
+    3300018: bamboo 17
+    3300020: bamboo 18
+    3300022: bamboo 2
+    3300024: bamboo 3
+    3300026: bamboo 4
+    3300028: bamboo 5
+    3300030: bamboo 6
+    3300032: bamboo 7
+    3300034: bamboo 8
+    3300036: bamboo 9
+    3300038: 'bench top support '
+    3300040: bench top support  1
+    3300042: Group 58
+    3300044: Group 60
+    3300046: Group 63
+    3300048: Group 65
+    3300050: Group 67
+    3300052: Group 7
+    3300054: Group 9
+    3300056: Group#1
+    3300058: Group#1 1
+    3300060: roof bearer
+    3300062: roof bearer 1
+    3300064: SHOP
+    4300000: 'Mesh bench top support '
+    4300002: Mesh Group 7
+    4300004: Mesh bamboo
+    4300006: Mesh Group#1
+    4300008: Mesh Group 58
+    4300010: Mesh Group 63
+    4300012: Mesh Group 65
+    4300014: Mesh Group 67
+    4300016: Mesh roof bearer
+    4300018: Mesh SHOP
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: cubbies
+  assetBundleVariant: 

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1903977038
+CRC: 1716264842
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0238b5fbce8e067ff080e119583da4df
+    Hash: 5052a3d53ff3428408e134c9bff17958
   TypeTreeHash:
     serializedVersion: 2
     Hash: 682d18ec161ce2d3806a6407573c7615
@@ -31,12 +31,14 @@ Assets:
 - Assets/Models/dragonfly.skp
 - Assets/Models/mini_motorcyle.skp
 - Assets/Models/train.skp
+- Assets/Models/Rebar_igloo.skp
 - Assets/Models/matatu.skp
 - Assets/Models/stage.skp
 - Assets/Models/animalian.skp
 - Assets/Models/elephant.skp
 - Assets/Models/crazy_caterpillar_bighead.skp
 - Assets/Models/crazy_caterpillar.skp
+- Assets/Models/Motorbike.skp
 - Assets/Models/tha_wha_car.skp
 - Assets/Models/aeroplane.skp
 - Assets/Models/scorpion.skp

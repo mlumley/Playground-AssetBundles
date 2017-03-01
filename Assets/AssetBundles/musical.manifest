@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1726930538
+CRC: 646083458
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 66fe611230ffb5aa0f4a2e002dee6798
+    Hash: 0b43651d6204dd9c22609a6e4ade1f53
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3432779acd6555d529cc4596fe61073b
@@ -24,6 +24,6 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/Models/double drum.skp
 - Assets/Models/big_xylo.skp
+- Assets/Models/double_drum.skp
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 820996978
+CRC: 836666645
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a414af946746f3a9201f14418a55912c
+    Hash: 2e9d24f1df7e4645ec8abc3c88694cc6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3432779acd6555d529cc4596fe61073b
@@ -25,6 +25,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Models/hammock_set_with_roof.skp
+- Assets/Models/Swing_Seat_Tire_Metal.fbx
 - Assets/Models/swing_teardrop.skp
 - Assets/Models/swing_double_simple.skp
 - Assets/Models/swing_motobike.skp
