@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3654969491
+CRC: 1972634317
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 93ba4cc328fc98150e90f97051345449
+    Hash: a41ba1043defd28b65b598f20a06fc6f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 682d18ec161ce2d3806a6407573c7615
@@ -30,13 +30,13 @@ Assets:
 - Assets/Models/triangular_climber.skp
 - Assets/Models/wonky_wood_climber.skp
 - Assets/Models/climbing_cross_simple.skp
+- Assets/Models/teepee_pyramid.skp
 - Assets/Models/triple_shrimp.skp
 - Assets/Models/tire_hurdle.skp
-- Assets/Models/mayan_pyramid.skp
 - Assets/Models/wall_car_tyre_play.skp
 - Assets/Models/pyramid_empire_state.skp
-- Assets/Models/teepee_pyramid.skp
 - Assets/Models/pentagon.skp
+- Assets/Models/mayan_pyramid.skp
 - Assets/Models/cube_climber_nursery.skp
 - Assets/Models/platform_square.skp
 - Assets/Models/cube_climber.skp

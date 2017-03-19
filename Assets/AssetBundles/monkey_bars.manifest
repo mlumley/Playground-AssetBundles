@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2380704855
+CRC: 1080299025
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cdc6445f55d4ae868fe7dd74e24c83e1
+    Hash: 7111096002e08c230b6de3bb20dbed79
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3432779acd6555d529cc4596fe61073b
@@ -24,7 +24,7 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/Models/monkey_ring.skp
 - Assets/Models/monkeybars_timber.skp
+- Assets/Models/monkey_ring.skp
 - Assets/Models/monkeybars_metal.skp
 Dependencies: []

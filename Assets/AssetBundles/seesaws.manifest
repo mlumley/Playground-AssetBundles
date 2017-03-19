@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4079118794
+CRC: 3110087393
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2b42d7c28dc1bae9c278233061bf431
+    Hash: edfbfc7ebccac89cccb14dd1886720ea
   TypeTreeHash:
     serializedVersion: 2
     Hash: 682d18ec161ce2d3806a6407573c7615
@@ -26,11 +26,11 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/Models/seesaw_four_way.skp
-- Assets/Models/seesaw_four_way_mega.skp
+- Assets/Models/seesaw_fourway_mega.skp
 - Assets/Models/seesaw_single_plank_rebar.skp
 - Assets/Models/seesaw_flower.skp
 - Assets/Models/seesaw_single.skp
 - Assets/Models/seesaw_single_onetire.skp
 - Assets/Models/seesaw_two_way.skp
+- Assets/Models/seesaw_four_way.skp
 Dependencies: []
