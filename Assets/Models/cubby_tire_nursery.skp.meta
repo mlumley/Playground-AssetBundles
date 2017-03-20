@@ -1,23 +1,23 @@
 fileFormatVersion: 2
-guid: 360b6575a5553054db56ad1e41defbcc
-timeCreated: 1483747399
-licenseType: Free
+guid: c07c961454bfe414e947ed9e4e639cb4
+timeCreated: 1489975191
+licenseType: Pro
 SketchUpImporter:
   generateBackFace: 0
-  mergeCoplanarFaces: 1
+  mergeCoplanarFaces: 0
   selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f0000006000000061000000620000006300000064000000
   assetHash:
     serializedVersion: 2
-    Hash: db8155d6e8c44f1c535ca13bb1f1ef69
+    Hash: fb86a2d7edaf6b560045be6d066eb93a
   longitude: -105.283
   latitude: 40.017
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: -4.761174, y: 5.271878, z: 5.074037}
-      lookAt: {x: -0.072128266, y: 0.58283174, z: 0.3849913}
-      up: {x: 0.4082483, y: 0.8164966, z: -0.4082483}
+      position: {x: -8.477574, y: 0.28732848, z: 0.597947}
+      lookAt: {x: -0.581123, y: 0.28732848, z: 0.597947}
+      up: {x: 0, y: 1, z: 0}
       fov: 45
       aspectRatio: 0
       orthoSize: 173.16353
@@ -227,7 +227,7 @@ SketchUpImporter:
     3300094: upright 4
     3300096: upright 5
     3300098: upright 6
-    4300000: Mesh cubby_tire_nursery
+    4300000: Mesh cubby_tire_nursery 1
     4300002: Mesh Group 2
     4300004: Mesh Group 5
     4300006: Mesh Group 7
@@ -235,6 +235,7 @@ SketchUpImporter:
     4300010: Mesh Group 21
     4300012: Mesh Group#10
     4300014: Mesh upright
+    4300016: Mesh cubby_tire_nursery
   materials:
     importMaterials: 1
     materialName: 2
@@ -256,11 +257,11 @@ SketchUpImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

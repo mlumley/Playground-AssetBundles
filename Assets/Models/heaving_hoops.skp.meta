@@ -1,23 +1,23 @@
 fileFormatVersion: 2
-guid: 70862b47ee630d5469cc2e413019eba8
-timeCreated: 1483747446
-licenseType: Free
+guid: 0cff287b27ac39a4c8b27583b32618b3
+timeCreated: 1489975284
+licenseType: Pro
 SketchUpImporter:
   generateBackFace: 0
-  mergeCoplanarFaces: 1
+  mergeCoplanarFaces: 0
   selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b000000
   assetHash:
     serializedVersion: 2
-    Hash: fff9aec95371ce7a6149d9e79938c8ce
+    Hash: 4ce907926a54a9f14500a3c29d2c21cf
   longitude: -105.283
   latitude: 40.017
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: -7.9543204, y: 9.417534, z: 8.332358}
-      lookAt: {x: 0.10377264, y: 1.3594406, z: 0.27426478}
-      up: {x: 0.4082483, y: 0.8164966, z: -0.4082483}
+      position: {x: 0.016734084, y: 1.5310899, z: -13.945173}
+      lookAt: {x: 0.016734084, y: 1.5310899, z: 0.015576891}
+      up: {x: 0, y: 1, z: 0}
       fov: 45
       aspectRatio: 0
       orthoSize: 204.11604
@@ -115,11 +115,11 @@ SketchUpImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

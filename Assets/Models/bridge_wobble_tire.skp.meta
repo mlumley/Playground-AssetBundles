@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 4d888e1c9433ea544b75df76d9d0bb99
-timeCreated: 1483747411
-licenseType: Free
+guid: cda16fd08a9ea894baca16cd8ad13ba3
+timeCreated: 1489975098
+licenseType: Pro
 SketchUpImporter:
   generateBackFace: 0
-  mergeCoplanarFaces: 1
-  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000
   assetHash:
     serializedVersion: 2
-    Hash: 40b63ad5cbc8837010d5dc8e7225fd23
+    Hash: 942c928229f7e4ccce6a601b349cdf24
   longitude: -105.283
   latitude: 40.017
   northCorrection: -0
@@ -84,8 +84,6 @@ SketchUpImporter:
     2300020: Group#2 7
     2300022: Group#2 8
     2300024: Group#2 9
-    2300026: SOFT PLAY
-    2300028: SOFT PLAY 1
     3300000: Group#2
     3300002: Group#2 1
     3300004: Group#2 10
@@ -99,10 +97,7 @@ SketchUpImporter:
     3300020: Group#2 7
     3300022: Group#2 8
     3300024: Group#2 9
-    3300026: SOFT PLAY
-    3300028: SOFT PLAY 1
     4300000: Mesh Group#2
-    4300002: Mesh SOFT PLAY
   materials:
     importMaterials: 1
     materialName: 2
@@ -124,11 +119,11 @@ SketchUpImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

@@ -1,23 +1,23 @@
 fileFormatVersion: 2
-guid: 85e9cde04f57f2445b363a28b3de4da4
-timeCreated: 1483747466
-licenseType: Free
+guid: f8acf112cff51e64e9b0f5f65e38094b
+timeCreated: 1489976269
+licenseType: Pro
 SketchUpImporter:
   generateBackFace: 0
-  mergeCoplanarFaces: 1
+  mergeCoplanarFaces: 0
   selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c000000
   assetHash:
     serializedVersion: 2
-    Hash: c435015113acac6c79515fbd675469ba
+    Hash: 0ccf15ae64a6c024542bda399eb91a01
   longitude: -105.242139
   latitude: 40.018309
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: 8.732976, y: 4.2070193, z: -3.619868}
-      lookAt: {x: 1.9278616, y: 1.8595587, z: -0.40623823}
-      up: {x: -0.2692598, y: 0.9546365, z: 0.12715456}
+      position: {x: 0.37147406, y: 1.0244166, z: -20.424637}
+      lookAt: {x: 0.37147406, y: 1.0244166, z: -0.2556518}
+      up: {x: 0, y: 1, z: 0}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
@@ -83,7 +83,7 @@ SketchUpImporter:
     3300022: Group#5
     3300024: Group#5 1
     3300026: //RootNode
-    4300000: Mesh wide_slide
+    4300000: Mesh wide_slide 1
     4300002: Mesh Group 2
     4300004: Mesh Group 4
     4300006: Mesh Group 6
@@ -92,6 +92,7 @@ SketchUpImporter:
     4300012: Mesh Group#4
     4300014: Mesh Group#4
     4300016: Mesh Group#5
+    4300018: Mesh wide_slide
   materials:
     importMaterials: 1
     materialName: 2
@@ -113,11 +114,11 @@ SketchUpImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 0.0254
-    meshCompression: 3
+    meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
